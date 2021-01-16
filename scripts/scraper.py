@@ -77,7 +77,7 @@ def scrape(
     print(f"Scraping /{endpoint}...")
 
     while page <= max_pages:
-        for row in h.find(".tr__product")[1:]:
+        for row in h.find(".tr__product"):
             raw = {}
 
             raw["name"] = row.find(".td__nameWrapper > p", first=True).text

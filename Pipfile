@@ -4,13 +4,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-flake8 = "*"
 black = "*"
+flake8 = "*"
 
 [packages]
-marshmallow = "*"
-requests-html = "*"
 requests = "*"
+requests-html = "*"
 
 [requires]
 python_version = "3.8"

@@ -39,7 +39,7 @@ ENDPOINTS = [
 ]
 
 
-def _serialize(value: str) -> Union[str, float]:
+def _serialize(value: str) -> Union[str, float, bool]:
     lower = value.lower()
 
     conversions = {"yes": True, "no": False, "none": None}

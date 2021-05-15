@@ -6,6 +6,8 @@ Part count: **43,574**
 
 Last updated: **Jan 15, 2021**
 
+> Note: I (@docyx) am aware that the scraper is not working. I plan to rewrite in TypeScript + Puppeteer to circumvent PCPartPicker's bot countermeasures.
+
 ## Download
 
 All of the data is located in the `data` folder. If you want to download a specific category, it will be located in the `data/raw` directory. Otherwise, download `data/all.zip` if you want everything.

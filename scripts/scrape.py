@@ -1,14 +1,14 @@
-import os
 import json
+import os
 import time
 from typing import Union
-from requests_html import HTMLSession
 
+from requests_html import HTMLSession
 
 BASE_URL = "https://pcpartpicker.com"
 PRODUCT_URL = f"{BASE_URL}/products"
 
-ENDPOINTS = [
+ENDPOINTS = (
     "case",
     "case-accessory",
     "case-fan",
@@ -36,7 +36,7 @@ ENDPOINTS = [
     "webcam",
     "wired-network-card",
     "wireless-network-card",
-]
+)
 
 
 def _serialize(value: str) -> Union[str, float, bool]:

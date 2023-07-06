@@ -1,0 +1,21 @@
+{
+	"name": "pc-part-scraper",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"start": "ts-node src/scraper.ts",
+		"dev": "ts-node -T src/scraper.ts",
+		"count": "ts-node src/counter.ts",
+		"zip": "cd data && zip -vr json.zip json/ -x \"*.DS_Store\""
+	},
+	"devDependencies": {
+		"ts-node": "^10.9.1",
+		"typescript": "^5.1.6"
+	},
+	"dependencies": {
+		"puppeteer": "^20.7.4",
+		"puppeteer-cluster": "^0.23.0",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2"
+	}
+}

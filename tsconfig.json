@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"lib": ["es2023", "dom"],
+		"module": "Node16",
+		"target": "es2022",
+		"moduleResolution": "node16",
+		"resolveJsonModule": true,
+		"allowUnusedLabels": false,
+		"allowUnreachableCode": false,
+		"exactOptionalPropertyTypes": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitOverride": true,
+		"noImplicitReturns": true,
+		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedIndexedAccess": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+	}
+}

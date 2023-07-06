@@ -2,59 +2,66 @@
 
 A dataset of PC parts scraped from [PCPartPicker](https://pcpartpicker.com).
 
-Part count: **45,424**
+Part count: **54,446**
 
-Last updated: **July 11, 2021**
+Last updated: **July 5, 2023**
 
 ## Download
 
-All of the data is located in the `data` folder. If you want to download a specific category, it will be located in the `data/raw` directory. Otherwise, download `data/all.zip` if you want everything.
+You can find individual JSON files for each product category in the [`data/json`](./data/json) folder. Otherwise, if you want everything, you can download [`data/json.zip`](./data/json.zip).
 
-## Running the Scraper
+## JSON Property Descriptions
 
-> **EXTREMELY IMPORTANT NOTE**: Use a proxy/VPN when running the scraper!
-
-1. Copy/fork the project to your local machine
-2. If you don't have `pipenv` installed, run `pip install pipenv`
-3. `cd <project location>`
-4. `pipenv install`
-5. `pipenv run python scripts/scrape.py`
-
-If you want to zip everything, run `pipenv run python scripts/zip.py`
+Check out [API.md](./API.md) for JSON property descriptions of each product category.
 
 ## Contents
 
--   General
-    -   CPUs
-    -   CPU Coolers
-    -   Motherboards
-    -   Memory
-    -   Storage
-    -   Video Cards
-    -   Cases
-    -   Power Supplies
-    -   Optical Drives
-    -   Operating Systems
-    -   Software
-    -   Monitors
-    -   External Storage
-    -   Laptops
--   Accessories / Other
-    -   Case Accessories
-    -   Case Fans
-    -   Fan Controllers
-    -   Thermal Compound
-    -   UPS Systems
--   Expansion Cards / Networking
-    -   Sound Cards
-    -   Wired Network Adapters
-    -   Wireless Network Adapters
--   Peripherals
-    -   Headphones
-    -   Keyboards
-    -   Mice
-    -   Speakers
-    -   Webcams
+- General
+
+  - CPUs
+  - CPU Coolers
+  - Motherboards
+  - Memory
+  - Storage
+  - Video Cards
+  - Cases
+  - Power Supplies
+  - Optical Drives
+  - Operating Systems
+  - Monitors
+  - External Storage
+
+- Accessories / Other
+
+  - Case Accessories
+  - Case Fans
+  - Fan Controllers
+  - Thermal Compound
+  - UPS Systems
+
+- Expansion Cards / Networking
+
+  - Sound Cards
+  - Wired Network Adapters
+  - Wireless Network Adapters
+
+- Peripherals
+  - Headphones
+  - Keyboards
+  - Mice
+  - Speakers
+  - Webcams
+
+## Running the Scraper
+
+> **Warning**
+> Make sure to turn on your VPN before running this scraper!
+
+1. Run `npm install`
+2. Run `npm run start`
+3. A window should show up. It may or may not have a captcha. If it does, solve it.
+4. You should be good from there; wait about 5-10 minutes for the scraper to finish doing its thing.
+5. Everything will be emitted to a directory named `data-staging`.
 
 ## License
 

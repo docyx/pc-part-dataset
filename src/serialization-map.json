@@ -1,0 +1,168 @@
+{
+	"cpu": {
+		"Core Count": ["core_count", true],
+		"Performance Core Clock": ["core_clock", true],
+		"Performance Boost Clock": ["boost_clock", true],
+		"TDP": ["tdp", true],
+		"Integrated Graphics": ["graphics", false],
+		"SMT": ["smt", false]
+	},
+	"cpu-cooler": {
+		"Fan RPM": ["rpm", true],
+		"Noise Level": ["noise_level", true],
+		"Color": ["color", false],
+		"Radiator Size": ["size", true]
+	},
+	"motherboard": {
+		"Socket / CPU": ["socket", false],
+		"Form Factor": ["form_factor", false],
+		"Memory Max": ["max_memory", true],
+		"Memory Slots": ["memory_slots", true],
+		"Color": ["color", false]
+	},
+	"memory": {
+		"Speed": ["speed", true],
+		"Modules": ["modules", true],
+		"Price / GB": ["price_per_gb", true],
+		"Color": ["color", false],
+		"First Word Latency": ["first_word_latency", true],
+		"CAS Latency": ["cas_latency", true]
+	},
+	"internal-hard-drive": {
+		"Capacity": ["capacity", "custom"],
+		"Price / GB": ["price_per_gb", true],
+		"Type": ["type", "custom"],
+		"Cache": ["cache", true],
+		"Form Factor": ["form_factor", "custom"],
+		"Interface": ["interface", false]
+	},
+	"video-card": {
+		"Chipset": ["chipset", false],
+		"Memory": ["memory", true],
+		"Core Clock": ["core_clock", true],
+		"Boost Clock": ["boost_clock", true],
+		"Color": ["color", false],
+		"Length": ["length", true]
+	},
+	"case": {
+		"Type": ["type", false],
+		"Color": ["color", false],
+		"Power Supply": ["psu", false],
+		"Side Panel": ["side_panel", false],
+		"External 5.25\" Bays": ["external_525_bays", true],
+		"Internal 3.5\" Bays": ["internal_35_bays", true]
+	},
+	"power-supply": {
+		"Type": ["type", false],
+		"Efficiency Rating": ["efficiency", "custom"],
+		"Wattage": ["wattage", true],
+		"Modular": ["modular", false],
+		"Color": ["color", false]
+	},
+	"os": {
+		"Mode": ["mode", true],
+		"Maximum Supported Memory": ["max_memory", true]
+	},
+	"monitor": {
+		"Screen Size": ["screen_size", true],
+		"Resolution": ["resolution", true],
+		"Refresh Rate": ["refresh_rate", true],
+		"Response Time (G2G)": ["response_time", true],
+		"Panel Type": ["panel_type", false],
+		"Aspect Ratio": ["aspect_ratio", false]
+	},
+	"sound-card": {
+		"Channels": ["channels", true],
+		"Digital Audio": ["digital_audio", true],
+		"SNR": ["snr", true],
+		"Sample Rate": ["sample_rate", true],
+		"Chipset": ["chipset", false],
+		"Interface": ["interface", false]
+	},
+	"wired-network-card": {
+		"Interface": ["interface", false],
+		"Color": ["color", false]
+	},
+	"wireless-network-card": {
+		"Protocol": ["protocol", false],
+		"Interface": ["interface", false],
+		"Color": ["color", false]
+	},
+	"headphones": {
+		"Type": ["type", false],
+		"Frequency Response": ["frequency_response", true],
+		"Microphone": ["microphone", false],
+		"Wireless": ["wireless", false],
+		"Enclosure Type": ["enclosure_type", false],
+		"Color": ["color", false]
+	},
+	"keyboard": {
+		"Style": ["style", false],
+		"Switch Type": ["switches", false],
+		"Backlit": ["backlit", false],
+		"Tenkeyless": ["tenkeyless", false],
+		"Connection Type": ["connection_type", false],
+		"Color": ["color", false]
+	},
+	"mouse": {
+		"Tracking Method": ["tracking_method", false],
+		"Connection Type": ["connection_type", false],
+		"Maximum DPI": ["max_dpi", true],
+		"Hand Orientation": ["hand_orientation", false],
+		"Color": ["color", false]
+	},
+	"speakers": {
+		"Configuration": ["configuration", true],
+		"Total Wattage": ["wattage", true],
+		"Frequency Response": ["frequency_response", true],
+		"Color": ["color", false]
+	},
+	"webcam": {
+		"Resolution": ["resolutions", "custom"],
+		"Connection": ["connection", false],
+		"Focus Type": ["focus_type", false],
+		"Operating System": ["os", "custom"],
+		"FOV Angle": ["fov", true]
+	},
+	"case-accessory": {
+		"Type": ["type", false],
+		"Form Factor": ["form_factor", true]
+	},
+	"case-fan": {
+		"Size": ["size", true],
+		"Color": ["color", false],
+		"RPM": ["rpm", true],
+		"Airflow": ["airflow", true],
+		"Noise Level": ["noise_level", true],
+		"PWM": ["pwm", false]
+	},
+	"fan-controller": {
+		"Channels": ["channels", true],
+		"Channel Wattage": ["channel_wattage", true],
+		"PWM (4-Pin)": ["pwm", false],
+		"Form Factor": ["form_factor", true],
+		"Color": ["color", false]
+	},
+	"thermal-paste": {
+		"Amount": ["amount", true]
+	},
+	"external-hard-drive": {
+		"Type": ["type", false],
+		"Interface": ["interface", false],
+		"Capacity": ["capacity", true],
+		"Price / GB": ["price_per_gb", true],
+		"Color": ["color", false]
+	},
+	"optical-drive": {
+		"BD": ["bd", true],
+		"DVD": ["dvd", true],
+		"CD": ["cd", true],
+		"BD Write": ["bd_write", false],
+		"DVD Write": ["dvd_write", false],
+		"CD Write": ["cd_write", false]
+	},
+	"ups": {
+		"Capacity (W)": ["capacity_w", true],
+		"Capacity (VA)": ["capacity_va", true]
+	}
+}

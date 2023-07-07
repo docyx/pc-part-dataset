@@ -30,12 +30,12 @@
 
 | Property      | Description                 | Unit (if applicable) |
 | ------------- | --------------------------- | -------------------- |
-| `core_count`  | Number of cores             |
+| `core_count`  | Number of cores             |                      |
 | `core_clock`  | Core clock                  | GHz                  |
 | `boost_clock` | Boost clock                 | GHz                  |
 | `tdp`         | TDP                         | W                    |
-| `graphics`    | Integrated graphics, if any |
-| `smt`         | SMT support                 |
+| `graphics`    | Integrated graphics, if any |                      |
+| `smt`         | SMT support                 |                      |
 
 ## `cpu-cooler`
 

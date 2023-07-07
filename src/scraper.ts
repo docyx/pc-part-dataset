@@ -1,5 +1,5 @@
 import { mkdir, writeFile } from 'fs/promises'
-import { Page } from 'puppeteer'
+import type { Page } from 'puppeteer'
 import { Cluster } from 'puppeteer-cluster'
 import puppeteer from 'puppeteer-extra'
 import StealthPlugin from 'puppeteer-extra-plugin-stealth'

@@ -26,9 +26,9 @@
 | -------------- | ---------------------- | -------------------- |
 | `socket`       | Socket                 |                      |
 | `form_factor`  | Form factor            |                      |
-| `max_memory`   | Color                  | GB                   |
+| `max_memory`   | Maximum memory         | GB                   |
 | `memory_slots` | Number of memory slots |                      |
-| `color`        | Radiator size          |                      |
+| `color`        | Color                  |                      |
 
 ## `memory`
 

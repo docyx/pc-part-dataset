@@ -67,17 +67,52 @@
 | `first_word_latency` | First Word Latency                                                                                                  | ns                   |
 | `cas_latency`        | CAS Latency                                                                                                         |                      |
 
-# TODO
-
-The following haven't been documented yet. Sorry!
-
 ## `internal-hard-drive`
+
+| Property       | Description                                                                  | Unit (if applicable)   |
+| -------------- | ---------------------------------------------------------------------------- | ---------------------- |
+| `capacity`     | Capacity                                                                     | GB                     |
+| `price_per_gb` | Price / GB                                                                   | USD                    |
+| `type`         | `SSD` if the drive is an SSD, otherwise the speed of the HDD                 | RPM if it is an HDD    |
+| `cache`        | Cache                                                                        | MB                     |
+| `form_factor`  | `M.2-xxxx` if the drive is an M.2, otherwise the size (in inches) of the HDD | inches if it is an HDD |
+| `interface`    | PCIe/SATA interface information                                              |                        |
 
 ## `video-card`
 
+| Property      | Description | Unit (if applicable) |
+| ------------- | ----------- | -------------------- |
+| `chipset`     | Chipset     |                      |
+| `memory`      | Memory      | GB                   |
+| `core_clock`  | Core clock  | MHz                  |
+| `boost_clock` | Boost clock | MHz                  |
+| `color`       | Color       |                      |
+| `length`      | Length      | mm                   |
+
 ## `case`
 
+| Property            | Description                              | Unit (if applicable) |
+| ------------------- | ---------------------------------------- | -------------------- |
+| `type`              | Type (ATX/mATX/etc.)                     |                      |
+| `color`             | Color                                    |                      |
+| `power_supply`      | Wattage of included power supply, if any |                      |
+| `side_panel`        | Side panel material information          |                      |
+| `external_525_bays` | Number of external 5.25" bays            |                      |
+| `internal_35_bays`  | Number of internal 3.5" bays             |                      |
+
 ## `power-supply`
+
+| Property     | Description                                 | Unit (if applicable) |
+| ------------ | ------------------------------------------- | -------------------- |
+| `type`       | Type (ATX/SFX/etc.)                         |                      |
+| `efficiency` | Efficiency rating (plus/bronze/silver/etc.) |                      |
+| `wattage`    | Wattage                                     | W                    |
+| `modular`    | Modularity (Full/Semi/`false`)              |                      |
+| `color`      | Color                                       |                      |
+
+# TODO
+
+The following haven't been documented yet. Sorry!
 
 ## `os`
 

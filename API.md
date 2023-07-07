@@ -1,5 +1,31 @@
 # API
 
+- [cpu](#cpu)
+- [cpu-cooler](#cpu-cooler)
+- [motherboard](#motherboard)
+- [memory](#memory)
+- [internal-hard-drive](#internal-hard-drive)
+- [video-card](#video-card)
+- [case](#case)
+- [power-supply](#power-supply)
+- [os](#os)
+- [monitor](#monitor)
+- [sound-card](#sound-card)
+- [wired-network-card](#wired-network-card)
+- [wireless-network-card](#wireless-network-card)
+- [headphones](#headphones)
+- [keyboard](#keyboard)
+- [mouse](#mouse)
+- [speakers](#speakers)
+- [webcam](#webcam)
+- [case-accessory](#case-accessory)
+- [case-fan](#case-fan)
+- [fan-controller](#fan-controller)
+- [thermal-paste](#thermal-paste)
+- [external-hard-drive](#external-hard-drive)
+- [optical-drive](#optical-drive)
+- [ups](#ups)
+
 ## `cpu`
 
 | Property      | Description                 | Unit (if applicable) |

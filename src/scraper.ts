@@ -67,7 +67,7 @@ const scrapeInParallel = async () => {
 		await page.waitForSelector('nav')
 
 		for (const endpoint of ENDPOINTS) {
-			await cluster.queue(endpoint)
+			cluster.queue(endpoint)
 		}
 	})
 

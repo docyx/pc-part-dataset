@@ -13,7 +13,7 @@ import type { PartType, SerializationMap } from './types'
 
 const BASE_URL = 'https://pcpartpicker.com/products'
 
-const ENDPOINTS: PartType[] = [
+const ALL_ENDPOINTS: PartType[] = [
 	'cpu',
 	'cpu-cooler',
 	'motherboard',
@@ -45,7 +45,7 @@ puppeteer.use(StealthPlugin())
 
 const map = untypedMap as unknown as SerializationMap
 
-const scrapeInParallel = async () => {
+const scrapeInParallel = async (endpoints: PartType[]) => {
 	const cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_PAGE,
 		maxConcurrency: 5,
@@ -66,7 +66,7 @@ const scrapeInParallel = async () => {
 		await page.goto(data)
 		await page.waitForSelector('nav')
 
-		for (const endpoint of ENDPOINTS) {
+		for (const endpoint of endpoints) {
 			cluster.queue(endpoint)
 		}
 	})
@@ -153,4 +153,9 @@ const scrape = async (endpoint: PartType, page: Page) => {
 	await writeFile(`data-staging/${endpoint}.json`, JSON.stringify(products))
 }
 
-scrapeInParallel()
+const inputEndpoints = process.argv.slice(2)
+const endpointsToScrape = inputEndpoints.length
+	? (inputEndpoints as PartType[])
+	: ALL_ENDPOINTS
+
+scrapeInParallel(endpointsToScrape)

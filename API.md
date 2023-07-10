@@ -95,7 +95,7 @@
 | ------------------- | ---------------------------------------- | -------------------- |
 | `type`              | Type (ATX/mATX/etc.)                     |                      |
 | `color`             | Color                                    |                      |
-| `power_supply`      | Wattage of included power supply, if any |                      |
+| `psu`               | Wattage of included power supply, if any | W                    |
 | `side_panel`        | Side panel material information          |                      |
 | `external_525_bays` | Number of external 5.25" bays            |                      |
 | `internal_35_bays`  | Number of internal 3.5" bays             |                      |

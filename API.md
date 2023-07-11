@@ -110,25 +110,85 @@
 | `modular`    | Modularity (Full/Semi/`false`)              |                      |
 | `color`      | Color                                       |                      |
 
-# TODO
-
-The following haven't been documented yet. Sorry!
-
 ## `os`
+
+| Property     | Description                                                                            | Unit (if applicable) |
+| ------------ | -------------------------------------------------------------------------------------- | -------------------- |
+| `mode`       | `number` or `[number, number]` representing support for either 32-bit, 64-bit, or both |                      |
+| `max_memory` | Maximum memory                                                                         |                      |
 
 ## `monitor`
 
+| Property        | Description                                                    | Unit (if applicable) |
+| --------------- | -------------------------------------------------------------- | -------------------- |
+| `screen_size`   | Screen size (length of diagonal)                               | in                   |
+| `resolution`    | `[number, number]` representing width and height, respectively | pixels               |
+| `refresh_rate`  | Refresh rate                                                   | Hz                   |
+| `response_time` | Response time                                                  | ms                   |
+| `panel_type`    | Panel type (IPS/TN/etc.)                                       |                      |
+| `aspect_ratio`  | Aspect ratio (e.g. 16:9)                                       |                      |
+
 ## `sound-card`
+
+| Property        | Description                            | Unit (if applicable) |
+| --------------- | -------------------------------------- | -------------------- |
+| `channels`      | Channels                               |                      |
+| `digital_audio` | Digital audio units (64, 32, 24, etc.) |                      |
+| `snr`           | SNR (signal-to-noise ratio)            | dB                   |
+| `sample_rate`   | Sample rate                            | kHz                  |
+| `chipset`       | Chipset                                |                      |
+| `interface`     | Interface (e.g. PCI/PCIe x1)           |                      |
 
 ## `wired-network-card`
 
+| Property    | Description                    | Unit (if applicable) |
+| ----------- | ------------------------------ | -------------------- |
+| `interface` | Interface (e.g. PCIe x8/x4/x1) |                      |
+| `color`     | Color                          |                      |
+
 ## `wireless-network-card`
+
+| Property    | Description                    | Unit (if applicable) |
+| ----------- | ------------------------------ | -------------------- |
+| `protocol`  | Protocol (e.g. Wi-Fi 6E/6/5)   |                      |
+| `interface` | Interface (e.g. PCIe x8/x4/x1) |                      |
+| `color`     | Color                          |                      |
 
 ## `headphones`
 
+| Property             | Description                                                  | Unit (if applicable) |
+| -------------------- | ------------------------------------------------------------ | -------------------- |
+| `type`               | Type (e.g. Circumaural/Earbud/etc.)                          |                      |
+| `frequency_response` | `[number, number]` representing the frequency response range | kHz                  |
+| `microphone`         | Whether it has a microphone                                  |                      |
+| `wireless`           | Whether it is wireless                                       |                      |
+| `enclosure_type`     | Enclosure type (e.g. Closed/Open)                            |                      |
+| `color`              | Color                                                        |                      |
+
 ## `keyboard`
 
+| Property          | Description                                      | Unit (if applicable) |
+| ----------------- | ------------------------------------------------ | -------------------- |
+| `style`           | Style (e.g. Gaming/Mini)                         |                      |
+| `switches`        | Type of switches (e.g. Cherry Viola/Logitech GL) |                      |
+| `backlit`         | Backlit color (e.g. RGB/multicolor/solid color)  |                      |
+| `tenkeyless`      | Whether it is tenkeyless                         |                      |
+| `connection_type` | Connection type (Wired, Wireless, or multiple)   |                      |
+| `color`           | Color                                            |                      |
+
 ## `mouse`
+
+| Property           | Description                                    | Unit (if applicable) |
+| ------------------ | ---------------------------------------------- | -------------------- |
+| `tracking_method`  | Tracking method (e.g. Optical/Laser)           |                      |
+| `connection_type`  | Connection type (Wired, Wireless, or multiple) |                      |
+| `max_dpi`          | Maximum DPI                                    | dpi                  |
+| `hand_orientation` | Hand orientation (Left/Right/Both)             |                      |
+| `color`            | Color                                          |                      |
+
+# TODO
+
+The following haven't been documented yet. Sorry!
 
 ## `speakers`
 

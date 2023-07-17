@@ -39,12 +39,12 @@
 
 ## `cpu-cooler`
 
-| Property      | Description                                                                        | Unit (if applicable) |
-| ------------- | ---------------------------------------------------------------------------------- | -------------------- |
-| `rpm`         | Fan RPM                                                                            | RPM                  |
-| `noise_level` | Noise level. May be a range. In which case, its type is `[number, number]` instead | dB                   |
-| `color`       | Color                                                                              |                      |
-| `size`        | Radiator size                                                                      | mm                   |
+| Property      | Description                                                                                                                      | Unit (if applicable) |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `rpm`         | Fan RPM                                                                                                                          | RPM                  |
+| `noise_level` | Noise level. May be a range. In which case, its type is `[number, number]` instead, corresponding to min and max dB respectively | dB                   |
+| `color`       | Color                                                                                                                            |                      |
+| `size`        | Radiator size                                                                                                                    | mm                   |
 
 ## `motherboard`
 
@@ -58,14 +58,14 @@
 
 ## `memory`
 
-| Property             | Description                                                                                                         | Unit (if applicable) |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| `speed`              | `[number, number]` where `[0]` represents the DDR version and `[1]` represents the speed in MHz                     | MHz (`[1]`)          |
-| `modules`            | `[number, number]` where `[0]` represents the number of modules, and `[1]` represents the size of each module in GB | GB (`[1]`)           |
-| `price_per_gb`       | Price / GB                                                                                                          | USD                  |
-| `color`              | Color                                                                                                               |                      |
-| `first_word_latency` | First Word Latency                                                                                                  | ns                   |
-| `cas_latency`        | CAS Latency                                                                                                         |                      |
+| Property             | Description                                                                                         | Unit (if applicable) |
+| -------------------- | --------------------------------------------------------------------------------------------------- | -------------------- |
+| `speed`              | `[number, number]` corresponding to the DDR version and RAM speed, respectively                     | MHz (`[1]`)          |
+| `modules`            | `[number, number]` corresponding to the number of modules and the size of each module, respectively | GB (`[1]`)           |
+| `price_per_gb`       | Price / GB                                                                                          | USD                  |
+| `color`              | Color                                                                                               |                      |
+| `first_word_latency` | First Word Latency                                                                                  | ns                   |
+| `cas_latency`        | CAS Latency                                                                                         |                      |
 
 ## `internal-hard-drive`
 
@@ -112,21 +112,21 @@
 
 ## `os`
 
-| Property     | Description                                                                            | Unit (if applicable) |
-| ------------ | -------------------------------------------------------------------------------------- | -------------------- |
-| `mode`       | `number` or `[number, number]` representing support for either 32-bit, 64-bit, or both |                      |
-| `max_memory` | Maximum memory                                                                         |                      |
+| Property     | Description                                                                    | Unit (if applicable) |
+| ------------ | ------------------------------------------------------------------------------ | -------------------- |
+| `mode`       | `number` or `[number, number]` corresponding to either 32-bit, 64-bit, or both |                      |
+| `max_memory` | Maximum memory                                                                 |                      |
 
 ## `monitor`
 
-| Property        | Description                                                    | Unit (if applicable) |
-| --------------- | -------------------------------------------------------------- | -------------------- |
-| `screen_size`   | Screen size (length of diagonal)                               | in                   |
-| `resolution`    | `[number, number]` representing width and height, respectively | pixels               |
-| `refresh_rate`  | Refresh rate                                                   | Hz                   |
-| `response_time` | Response time                                                  | ms                   |
-| `panel_type`    | Panel type (IPS/TN/etc.)                                       |                      |
-| `aspect_ratio`  | Aspect ratio (e.g. 16:9)                                       |                      |
+| Property        | Description                                                        | Unit (if applicable) |
+| --------------- | ------------------------------------------------------------------ | -------------------- |
+| `screen_size`   | Screen size (length of diagonal)                                   | in                   |
+| `resolution`    | `[number, number]` corresponding to width and height, respectively | pixels               |
+| `refresh_rate`  | Refresh rate                                                       | Hz                   |
+| `response_time` | Response time                                                      | ms                   |
+| `panel_type`    | Panel type (IPS/TN/etc.)                                           |                      |
+| `aspect_ratio`  | Aspect ratio (e.g. 16:9)                                           |                      |
 
 ## `sound-card`
 
@@ -156,14 +156,14 @@
 
 ## `headphones`
 
-| Property             | Description                                                  | Unit (if applicable) |
-| -------------------- | ------------------------------------------------------------ | -------------------- |
-| `type`               | Type (e.g. Circumaural/Earbud/etc.)                          |                      |
-| `frequency_response` | `[number, number]` representing the frequency response range | kHz                  |
-| `microphone`         | Whether it has a microphone                                  |                      |
-| `wireless`           | Whether it is wireless                                       |                      |
-| `enclosure_type`     | Enclosure type (e.g. Closed/Open)                            |                      |
-| `color`              | Color                                                        |                      |
+| Property             | Description                                                                                  | Unit (if applicable) |
+| -------------------- | -------------------------------------------------------------------------------------------- | -------------------- |
+| `type`               | Type (e.g. Circumaural/Earbud/etc.)                                                          |                      |
+| `frequency_response` | `[number, number]` corresponding to the frequency response range (min and max, respectively) | kHz                  |
+| `microphone`         | Whether it has a microphone                                                                  |                      |
+| `wireless`           | Whether it is wireless                                                                       |                      |
+| `enclosure_type`     | Enclosure type (e.g. Closed/Open)                                                            |                      |
+| `color`              | Color                                                                                        |                      |
 
 ## `keyboard`
 

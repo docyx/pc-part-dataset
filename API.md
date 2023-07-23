@@ -189,24 +189,83 @@
 | `hand_orientation` | Hand orientation (Left/Right/Both)             |                      |
 | `color`            | Color                                          |                      |
 
-# TODO
-
-The following haven't been documented yet. Sorry!
-
 ## `speakers`
+
+| Property             | Description                                                                               | Unit (if applicable) |
+| -------------------- | ----------------------------------------------------------------------------------------- | -------------------- |
+| `configuration`      | Channel configuration                                                                     |                      |
+| `wattage`            | Wattage                                                                                   | W                    |
+| `frequency_response` | `[number, number]` corresponding to the lower and upper frequency responses, respectively | kHz                  |
+| `color`              | Color                                                                                     |                      |
 
 ## `webcam`
 
+| Property      | Description                                                      | Unit (if applicable) |
+| ------------- | ---------------------------------------------------------------- | -------------------- |
+| `resolutions` | List of supported resolution (e.g. `["4k", "1080p", "720p"]`)    |                      |
+| `connection`  | Type of connection                                               |                      |
+| `focus_type`  | Focus type (Auto/Manual/Fixed)                                   |                      |
+| `os`          | List of supported operating systems (e.g. `["Windows", "OS X"]`) |                      |
+| `fov`         | FOV angle                                                        | degrees (&deg;)      |
+
 ## `case-accessory`
+
+| Property      | Description                       | Unit (if applicable) |
+| ------------- | --------------------------------- | -------------------- |
+| `type`        | Type (LED Controller/Card Reader) |                      |
+| `form_factor` | Form factor (e.g. `2.5`)          | in                   |
 
 ## `case-fan`
 
+| Property      | Description                                                                                          | Unit (if applicable) |
+| ------------- | ---------------------------------------------------------------------------------------------------- | -------------------- |
+| `size`        | Size                                                                                                 | mm                   |
+| `color`       | Color                                                                                                |                      |
+| `rpm`         | `number` or `[number, number]` corresponding to the lower and upper RPM values, respectively         | RPM                  |
+| `airflow`     | `number` or `[number, number]` corresponding to the lower and upper airflow CFM values, respectively | CFM                  |
+| `noise_level` | `number` or `[number, number]` corresponding to the lower and upper noise level values, respectively | dB                   |
+| `pwm`         | Whether it is PWM                                                                                    |                      |
+
 ## `fan-controller`
+
+| Property          | Description               | Unit (if applicable) |
+| ----------------- | ------------------------- | -------------------- |
+| `channels`        | Number of channels        |                      |
+| `channel_wattage` | Channel wattage           | W                    |
+| `pwm`             | Whether it is PWM         |                      |
+| `form_factor`     | Form factor (e.g. `5.25`) | in                   |
+| `color`           | Color                     |                      |
 
 ## `thermal-paste`
 
+| Property | Description | Unit (if applicable) |
+| -------- | ----------- | -------------------- |
+| `amount` | Amount      | g                    |
+
 ## `external-hard-drive`
+
+| Property       | Description             | Unit (if applicable) |
+| -------------- | ----------------------- | -------------------- |
+| `type`         | Type (Desktop/Portable) |                      |
+| `interface`    | Interface               |                      |
+| `capacity`     | Capacity                | GB                   |
+| `price_per_gb` | Price / GB              | USD                  |
+| `color`        | Color                   |                      |
 
 ## `optical-drive`
 
+| Property    | Description                                | Unit (if applicable) |
+| ----------- | ------------------------------------------ | -------------------- |
+| `bd`        | BD read speed                              |                      |
+| `dvd`       | DVD read speed                             |                      |
+| `cd`        | CD read speed                              |                      |
+| `bd_write`  | BD write timings (e.g. `14/12/2/2`)        |                      |
+| `dvd_write` | DVD write timings (e.g. `16/8/8/6/12/8/5`) |                      |
+| `cd_write`  | CD write timings (e.g. `48/32`)            |                      |
+
 ## `ups`
+
+| Property      | Description             | Unit (if applicable) |
+| ------------- | ----------------------- | -------------------- |
+| `capacity_w`  | Capacity                | W                    |
+| `capacity_va` | Capacity (volt-amperes) | VA                   |

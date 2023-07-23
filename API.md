@@ -1,5 +1,8 @@
 # API
 
+> **Note**
+> All parts have a `price` property corresponding to the part's price (in USD).
+
 - [cpu](#cpu)
 - [cpu-cooler](#cpu-cooler)
 - [motherboard](#motherboard)

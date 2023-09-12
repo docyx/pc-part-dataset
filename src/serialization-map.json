@@ -49,7 +49,7 @@
 		"Color": ["color", false],
 		"Power Supply": ["psu", true],
 		"Side Panel": ["side_panel", false],
-		"External 5.25\" Bays": ["external_525_bays", true],
+		"External Volume": ["external_volume", true],
 		"Internal 3.5\" Bays": ["internal_35_bays", true]
 	},
 	"power-supply": {

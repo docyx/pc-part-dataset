@@ -94,14 +94,14 @@
 
 ## `case`
 
-| Property            | Description                              | Unit (if applicable) |
-| ------------------- | ---------------------------------------- | -------------------- |
-| `type`              | Type (ATX/mATX/etc.)                     |                      |
-| `color`             | Color                                    |                      |
-| `psu`               | Wattage of included power supply, if any | W                    |
-| `side_panel`        | Side panel material information          |                      |
-| `external_525_bays` | Number of external 5.25" bays            |                      |
-| `internal_35_bays`  | Number of internal 3.5" bays             |                      |
+| Property           | Description                              | Unit (if applicable) |
+| ------------------ | ---------------------------------------- | -------------------- |
+| `type`             | Type (ATX/mATX/etc.)                     |                      |
+| `color`            | Color                                    |                      |
+| `psu`              | Wattage of included power supply, if any | W                    |
+| `side_panel`       | Side panel material information          |                      |
+| `external_volume`  | External volume                          | L                    |
+| `internal_35_bays` | Number of internal 3.5" bays             |                      |
 
 ## `power-supply`
 

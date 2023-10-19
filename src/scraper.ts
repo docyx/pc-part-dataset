@@ -49,7 +49,7 @@ const scrapeInParallel = async (endpoints: PartType[]) => {
 	const cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_PAGE,
 		maxConcurrency: 5,
-		timeout: 600000, // 10 minutes
+		timeout: 1000 * 60 * 20, // 20 minutes
 		puppeteer,
 		puppeteerOptions: {
 			headless: false,

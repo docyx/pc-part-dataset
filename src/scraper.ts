@@ -1,4 +1,5 @@
 import { mkdir, writeFile } from 'fs/promises'
+import { join } from 'path'
 import type { Page } from 'puppeteer'
 import { Cluster } from 'puppeteer-cluster'
 import puppeteer from 'puppeteer-extra'
@@ -12,7 +13,7 @@ import {
 import type { PartType, SerializationMap } from './types'
 
 const BASE_URL = 'https://pcpartpicker.com/products'
-
+const STAGING_DIRECTORY = 'data-staging'
 const ALL_ENDPOINTS: PartType[] = [
 	'cpu',
 	'cpu-cooler',
@@ -45,7 +46,9 @@ puppeteer.use(StealthPlugin())
 
 const map = untypedMap as unknown as SerializationMap
 
-const scrapeInParallel = async (endpoints: PartType[]) => {
+async function scrapeInParallel(endpoints: PartType[]) {
+	await mkdir(STAGING_DIRECTORY, { recursive: true })
+
 	const cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_PAGE,
 		maxConcurrency: 5,
@@ -59,7 +62,20 @@ const scrapeInParallel = async (endpoints: PartType[]) => {
 	await cluster.task(async ({ page, data: endpoint }) => {
 		await page.setViewport({ width: 1920, height: 1080 })
 
-		await scrape(endpoint, page)
+		const totalProducts = []
+
+		try {
+			for await (const pageProducts of scrape(endpoint, page)) {
+				totalProducts.push(...pageProducts)
+			}
+		} catch (error) {
+			console.warn(`[${endpoint}] Aborted unexpectedly:\n\t${error}`)
+		}
+
+		await writeFile(
+			join(STAGING_DIRECTORY, `${endpoint}.json`),
+			JSON.stringify(totalProducts)
+		)
 	})
 
 	cluster.queue('https://pcpartpicker.com', async ({ page, data }) => {
@@ -75,20 +91,27 @@ const scrapeInParallel = async (endpoints: PartType[]) => {
 	await cluster.close()
 }
 
-const scrape = async (endpoint: PartType, page: Page) => {
+async function* scrape(
+	endpoint: PartType,
+	page: Page
+): AsyncGenerator<Record<string, any>[]> {
 	await page.goto(`${BASE_URL}/${endpoint}`)
 
-	const paginationEl = await page.waitForSelector('.pagination')
+	const paginationEl = await page.waitForSelector('.pagination', {
+		timeout: 5000,
+	})
 
-	if (!paginationEl) throw new Error(`[${endpoint}] pagination not found!`)
-
-	const numPages = await paginationEl.$eval('li:last-child', (el) =>
+	// NOTE: We are banging paginationEl because Page.waitForSelector()
+	// only returns null when using option `hidden: true`, which we
+	// are not using.
+	// See: https://pptr.dev/api/puppeteer.page.waitforselector#parameters
+	const numPages = await paginationEl!.$eval('li:last-child', (el) =>
 		parseInt(el.innerText)
 	)
 
-	const products: Record<string, any>[] = []
-
 	for (let currentPage = 1; currentPage <= numPages; currentPage++) {
+		const pageProducts: Record<string, any>[] = []
+
 		if (currentPage > 1) {
 			await page.goto(`${BASE_URL}/${endpoint}/#page=${currentPage}`)
 			await page.waitForNetworkIdle()
@@ -119,14 +142,10 @@ const scrape = async (endpoint: PartType, page: Page) => {
 				const specName = await spec.$eval('.specLabel', (l) =>
 					(l as HTMLHeadingElement).innerText.trim()
 				)
-
 				const mapped = map[endpoint][specName]
 
-				if (typeof mapped === 'undefined') {
-					throw new Error(
-						`[${endpoint}] No mapping found for spec "${specName}"`
-					)
-				}
+				if (typeof mapped === 'undefined')
+					throw new Error(`No mapping found for spec '${specName}'`)
 
 				const [snakeSpecName, mappedSpecSerializationType] = mapped
 
@@ -145,12 +164,11 @@ const scrape = async (endpoint: PartType, page: Page) => {
 				}
 			}
 
-			products.push(serialized)
+			pageProducts.push(serialized)
 		}
-	}
 
-	await mkdir('data-staging', { recursive: true })
-	await writeFile(`data-staging/${endpoint}.json`, JSON.stringify(products))
+		yield pageProducts
+	}
 }
 
 const inputEndpoints = process.argv.slice(2)

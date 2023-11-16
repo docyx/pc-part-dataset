@@ -3640,8 +3640,7 @@ Western Digital Green,,1500,,5400,64,2.5,SATA 3.0 Gb/s
 Hitachi Travelstar,,500,,7200,32,2.5,SATA 6.0 Gb/s
 Seagate ST9640423AS,,640,,5400,16,2.5,SATA 6.0 Gb/s
 Intel DC S3500,99,120,0.825,SSD,,2.5,SATA 6.0 Gb/s
-Seagate Constellation
-Product Series:ES.3,,3000,,7200,128,3.5,SATA 6.0 Gb/s
+Seagate Constellation Product Series:ES.3,,3000,,7200,128,3.5,SATA 6.0 Gb/s
 Seagate Savvio,,300,,10000,64,2.5,SATA 6.0 Gb/s
 Western Digital WDBMMA0030HNC-NRSN,64.98,3000,0.022,5400,64,3.5,SATA 6.0 Gb/s
 OCZ Vertex 450 Series 128,,128,,SSD,,2.5,SATA 6.0 Gb/s
@@ -4703,8 +4702,7 @@ Hitachi HITACHI-0F12460,,3000,,5400,32,3.5,SATA 6.0 Gb/s
 Hitachi Ultrastar C10K900,55,900,0.061,10000,64,2.5,SAS 6.0 Gb/s
 Mushkin Chronos,,120,,SSD,,2.5,SATA 6.0 Gb/s
 Seagate 600,,120,,SSD,,2.5,SATA 6.0 Gb/s
-Seagate Constellation
-Product Series:ES.3,,3000,,7200,128,3.5,SATA 6.0 Gb/s
+Seagate Constellation Product Series:ES.3,,3000,,7200,128,3.5,SATA 6.0 Gb/s
 Seagate Constellation ES,,500,,7200,64,3.5,SAS 6.0 Gb/s
 Seagate Savvio 10K.5,,600,,10000,64,2.5,SAS 6.0 Gb/s
 Western Digital WDBMYH3200ANC-NRSN,,320,,5400,8,2.5,SATA 3.0 Gb/s

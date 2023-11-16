@@ -3639,7 +3639,7 @@
 {"name":"Hitachi Travelstar","price":null,"capacity":500,"price_per_gb":null,"type":7200,"cache":32,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Seagate ST9640423AS","price":null,"capacity":640,"price_per_gb":null,"type":5400,"cache":16,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Intel DC S3500","price":99,"capacity":120,"price_per_gb":0.825,"type":"SSD","cache":null,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
-{"name":"Seagate Constellation\nProduct Series:ES.3","price":null,"capacity":3000,"price_per_gb":null,"type":7200,"cache":128,"form_factor":3.5,"interface":"SATA 6.0 Gb/s"}
+{"name":"Seagate Constellation Product Series:ES.3","price":null,"capacity":3000,"price_per_gb":null,"type":7200,"cache":128,"form_factor":3.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Seagate Savvio","price":null,"capacity":300,"price_per_gb":null,"type":10000,"cache":64,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Western Digital WDBMMA0030HNC-NRSN","price":64.98,"capacity":3000,"price_per_gb":0.022,"type":5400,"cache":64,"form_factor":3.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"OCZ Vertex 450 Series 128","price":null,"capacity":128,"price_per_gb":null,"type":"SSD","cache":null,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
@@ -4701,7 +4701,7 @@
 {"name":"Hitachi Ultrastar C10K900","price":55,"capacity":900,"price_per_gb":0.061,"type":10000,"cache":64,"form_factor":2.5,"interface":"SAS 6.0 Gb/s"}
 {"name":"Mushkin Chronos","price":null,"capacity":120,"price_per_gb":null,"type":"SSD","cache":null,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Seagate 600","price":null,"capacity":120,"price_per_gb":null,"type":"SSD","cache":null,"form_factor":2.5,"interface":"SATA 6.0 Gb/s"}
-{"name":"Seagate Constellation\nProduct Series:ES.3","price":null,"capacity":3000,"price_per_gb":null,"type":7200,"cache":128,"form_factor":3.5,"interface":"SATA 6.0 Gb/s"}
+{"name":"Seagate Constellation Product Series:ES.3","price":null,"capacity":3000,"price_per_gb":null,"type":7200,"cache":128,"form_factor":3.5,"interface":"SATA 6.0 Gb/s"}
 {"name":"Seagate Constellation ES","price":null,"capacity":500,"price_per_gb":null,"type":7200,"cache":64,"form_factor":3.5,"interface":"SAS 6.0 Gb/s"}
 {"name":"Seagate Savvio 10K.5","price":null,"capacity":600,"price_per_gb":null,"type":10000,"cache":64,"form_factor":2.5,"interface":"SAS 6.0 Gb/s"}
 {"name":"Western Digital WDBMYH3200ANC-NRSN","price":null,"capacity":320,"price_per_gb":null,"type":5400,"cache":8,"form_factor":2.5,"interface":"SATA 3.0 Gb/s"}

@@ -47,7 +47,7 @@ puppeteer.use(StealthPlugin())
 const map = untypedMap as unknown as SerializationMap
 
 async function scrapeInParallel(endpoints: PartType[]) {
-	await mkdir(STAGING_DIRECTORY, { recursive: true })
+	await mkdir(join(STAGING_DIRECTORY, 'json'), { recursive: true })
 
 	const cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_PAGE,
@@ -73,7 +73,7 @@ async function scrapeInParallel(endpoints: PartType[]) {
 		}
 
 		await writeFile(
-			join(STAGING_DIRECTORY, `${endpoint}.json`),
+			join(STAGING_DIRECTORY, 'json', `${endpoint}.json`),
 			JSON.stringify(allParts)
 		)
 	})

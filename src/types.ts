@@ -25,6 +25,8 @@ export type PartType =
 	| 'optical-drive'
 	| 'ups'
 
+export type Part = Record<string, any>
+
 export type MappedSerialization = [string, boolean | 'custom']
 export type SerializationMap = Record<
 	PartType,

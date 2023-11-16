@@ -1,5 +1,6 @@
 import { readdir, readFile } from 'fs/promises'
 import { join } from 'path'
+import type { Part } from './types'
 ;(async () => {
 	const dirName = process.argv.slice(2)[0] ?? 'data/json'
 	const files = await readdir(dirName)
@@ -10,7 +11,7 @@ import { join } from 'path'
 		if (!file.endsWith('.json')) continue
 
 		const raw = await readFile(join(dirName, file))
-		const json: any[] = await JSON.parse(raw.toString())
+		const json: Part[] = await JSON.parse(raw.toString())
 
 		count += json.length
 	}

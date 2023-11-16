@@ -10,7 +10,7 @@ import {
 	genericSerialize,
 	serializeNumber,
 } from './serializers'
-import type { PartType, SerializationMap } from './types'
+import type { Part, PartType, SerializationMap } from './types'
 
 const BASE_URL = 'https://pcpartpicker.com/products'
 const STAGING_DIRECTORY = 'data-staging'
@@ -62,11 +62,11 @@ async function scrapeInParallel(endpoints: PartType[]) {
 	await cluster.task(async ({ page, data: endpoint }) => {
 		await page.setViewport({ width: 1920, height: 1080 })
 
-		const totalProducts = []
+		const allParts = []
 
 		try {
-			for await (const pageProducts of scrape(endpoint, page)) {
-				totalProducts.push(...pageProducts)
+			for await (const pageParts of scrape(endpoint, page)) {
+				allParts.push(...pageParts)
 			}
 		} catch (error) {
 			console.warn(`[${endpoint}] Aborted unexpectedly:\n\t${error}`)
@@ -74,7 +74,7 @@ async function scrapeInParallel(endpoints: PartType[]) {
 
 		await writeFile(
 			join(STAGING_DIRECTORY, `${endpoint}.json`),
-			JSON.stringify(totalProducts)
+			JSON.stringify(allParts)
 		)
 	})
 
@@ -91,10 +91,7 @@ async function scrapeInParallel(endpoints: PartType[]) {
 	await cluster.close()
 }
 
-async function* scrape(
-	endpoint: PartType,
-	page: Page
-): AsyncGenerator<Record<string, any>[]> {
+async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 	await page.goto(`${BASE_URL}/${endpoint}`)
 
 	const paginationEl = await page.waitForSelector('.pagination', {
@@ -110,7 +107,7 @@ async function* scrape(
 	)
 
 	for (let currentPage = 1; currentPage <= numPages; currentPage++) {
-		const pageProducts: Record<string, any>[] = []
+		const pageProducts: Part[] = []
 
 		if (currentPage > 1) {
 			await page.goto(`${BASE_URL}/${endpoint}/#page=${currentPage}`)
@@ -120,7 +117,7 @@ async function* scrape(
 		const productEls = await page.$$('.tr__product')
 
 		for (const productEl of productEls) {
-			const serialized: Record<string, any> = {}
+			const serialized: Part = {}
 
 			serialized['name'] = await productEl.$eval(
 				'.td__name .td__nameWrapper > p',

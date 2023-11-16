@@ -1,0 +1,78 @@
+name,price,channels,digital_audio,snr,sample_rate,chipset,interface
+Creative Labs Sound Blaster AE-9,332.49,7.1,32,129,384,Sound Core3D,PCIe x1
+Creative Labs Sound BlasterX AE-5 Plus,142.49,5.1,32,122,384,Sound Core3D,PCIe x1
+Creative Labs Sound Blaster Audigy Rx,55.23,7.1,24,106,192,Creative E-MU,PCIe x1
+Asus Xonar SE,38.99,5.1,24,120,192,,PCIe x1
+Creative Labs Sound Blaster Z SE,99.99,5.1,24,116,192,Sound Core3D,PCIe x1
+Creative Labs Sound Blaster AE-7,209.99,5.1,32,127,384,Sound Core3D,PCIe x1
+Asus Xonar Phoebus,,7.1,24,118,96,C-Media CMI8888DHT,PCIe x1
+Asus STRIX SOAR,89.99,7.1,24,116,192,,PCIe x1
+Creative Labs Sound Blaster Zx,235.57,5.1,24,116,192,,PCIe x1
+Creative Labs 70SB157000000,39.99,5.1,,106,,,PCIe x1
+Asus Xonar Essence STX,,7.1,24,124,192,ASUS AV100,PCIe x1
+Asus STRIX RAID DLX,194.99,7.1,24,124,192,,PCIe x1
+Creative Labs Sound Blaster Audigy Fx V2,54.99,5.1,24,120,192,,PCIe x1
+Creative Labs Sound BlasterX AE-5 Plus Pure,,5.1,32,122,384,Sound Core3D,PCIe x1
+Asus Xonar AE,64.98,7.1,24,110,192,,PCIe x1
+Asus STRIX RAID PRO,149.99,7.1,24,116,192,,PCIe x1
+Creative Labs Sound BlasterX AE-5,209.99,5.1,32,122,384,Sound Core3D,PCIe x1
+EVGA NU,,5.1,24,123,192,,PCIe x1
+Creative Labs Sound Blaster Audigy Fx,,5.1,24,106,192,,PCIe x1
+Creative Labs Sound Blaster Z w/Shield,,5.1,24,116,192,Sound Core3D,PCIe x1
+EVGA NU AUDIO PRO,,2,32,123,384,,PCIe x1
+Creative Labs Sound Blaster X-Fi Titanium HD,,7.1,24,122,96,X-Fi,PCIe x1
+Asus Xonar DGX,,5.1,24,105,96,C-Media CMI8786,PCIe x1
+Asus Essence STX II,,2,24,124,192,ASUS AV100,PCIe x1
+Creative Labs ZXR,,5.1,24,124,192,,PCIe x1
+Creative Labs Sound BlasterX AE-5 Pure,,5.1,32,122,384,Sound Core3D,PCIe x1
+Asus Xonar DX,,7.1,24,116,192,ASUS AV100,PCIe x1
+Creative Labs Sound Blaster Audigy2 ZS,,5.1,24,,192,Audigy2,PCI
+Creative Labs Sound Blaster Z,,5.1,24,116,192,,PCIe x1
+SIIG DP SoundWave,,5.1,24,,,,PCIe x1
+Creative Labs Recon3D Fatal1ty Professional,,5.1,24,102,96,Sound Core3D,PCIe x1
+Asus Essence STX II 7.1,,7.1,24,124,192,ASUS AV100,PCIe x1
+Creative Labs Sound Blaster X-Fi,,7.1,24,109,192,,PCI
+HT Omega CLARO II,,7.1,24,120,192,C-Media CMI8788,PCI
+Creative Labs SB X-Fi Xtreme Audio,,7.1,24,100,96,,PCIe x1
+SIIG IC-510111-S2,,5.1,24,90,96,VIA VT1723,PCIe x1
+Creative Labs Sound Blaster Audigy Rx OEM,,7.1,24,106,192,Creative E-MU,PCIe x1
+StarTech PCISOUND4LP,,4,16,,48,C-Media CMI8738,PCI
+Asus Xonar DG,,5.1,24,105,96,C-Media CMI8786,PCI
+Creative Labs Sound Blaster X-Fi Xtreme Audio,,7.1,24,100,96,,PCIe x1
+Creative Labs Recon3D Fatal1ty Champion,,5.1,24,102,96,Sound Core3D,PCIe x1
+Creative Labs Recon3D PCIe,,5.1,24,102,96,Sound Core3D,PCIe x1
+Asus Xonar DSX,,7.1,24,107,192,ASUS AV66,PCIe x1
+Creative Labs 70SB135A00002,,5.1,24,102,96,Sound Core3D,PCIe x1
+PowerColor DEVIL HDX 7.1,,7.1,,124,192,,PCIe x1
+HT Omega eClaro,,7.1,24,,192,C-Media CMI8788,PCIe x1
+Diamond XtremeSound XS51,,5.1,16,,48,,PCI
+Creative Labs Sound Blaster Audigy SE OEM,,7.1,24,100,96,,PCI
+Creative Labs Sound Blaster Z OEM,,5.1,24,116,192,,PCIe x1
+Syba SD-PEX63034,,7.1,24,,48,,PCIe x1
+HT Omega FENIX,,7.1,24,,192,,PCIe x1
+Creative Labs Sound Blaster X-Fi Xtreme Audio,,7.1,24,108,96,,PCI
+Turtle Beach TBS-3429,,5.1,24,,48,,PCI
+Creative Labs Sound Blaster Audigy SE,,7.1,24,,96,Audigy SE,PCI
+Encore ENM232-6VIA,,5.1,24,,96,VIA VT1723,PCI
+Asus Xonar D1,,7.1,24,116,192,ASUS AV100,PCI
+StarTech PCISOUND5CH,,5.1,24,,48,C-Media CMI8738,PCI
+Rosewill RC-702,,7.1,16,,96,C-Media CMI8768,PCI
+Asus Xonar DS,,7.1,24,107,192,ASUS AV200,PCI
+SIIG LP-000022-S2,,5.1,24,90,96,VIA VT1723,PCI
+Rosewill RC-703,,7.1,,,44.1,,PCIe x1
+SIIG IC-710012-S2,,7.1,24,92,96,,PCI
+PPA International 1431v,,5.1,16,,,,PCI
+HT Omega STRIKER,,7.1,,,,C-Media CMI8770,PCI
+Vantec UGT-S100,,7.1,,,48,,PCI
+Rosewill RC-701,,5.1,,,,C-Media CMI8738,PCI
+StarTech PCISOUND4CH,,4,16,,48,C-Media CMI8738,PCI
+Diamond XtremeSound XS71,,7.1,16,,96,,PCI
+Asus Xonar Essence,,7.1,24,124,192,ASUS AV100,PCI
+HT Omega Claro Halo XT,,7.1,24,,192,C-Media CMI8788,PCI
+Encore ENM232-8VIA,,7.1,24,,96,VIA VT1723,PCI
+HT Omega Claro Halo,,5.1,24,,192,C-Media CMI8788,PCI
+Asus Xonar DS,,7.1,24,107,192,ASUS AV200,PCI
+M-Audio Audiophile 192,,4,24,,192,,PCI
+Asus Xonar Essence ST,,7.1,24,124,192,ASUS AV100,PCI
+M-Audio US41500C,,2,24,104,96,,PCI
+SIIG IC-510012-S2,,5.1,16,68,,,PCI

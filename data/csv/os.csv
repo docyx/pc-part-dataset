@@ -1,0 +1,63 @@
+name,price,mode,max_memory
+Microsoft Windows 11 Home (64-bit),121.98,64,128
+Microsoft Windows 10 Home (64-bit),,64,128
+Microsoft Windows 11 Pro (64-bit),149.99,64,2048
+Microsoft Windows 10 Pro (64-bit),,64,2048
+Microsoft Windows 11 Home (64-bit),123.94,64,128
+Microsoft Windows 11 Pro (64-bit),199,64,2048
+Microsoft Windows 11 Pro (64-bit),198.97,64,2048
+Microsoft Windows 11 Home (64-bit),132,64,128
+Microsoft Windows 10 Pro (32/64-bit),,"32,64",2048
+Microsoft Windows 10 Pro (64-bit),,64,2048
+Microsoft Windows 10 Home (64-bit),,64,128
+Microsoft Windows 10 Home (32/64-bit),,"32,64",128
+Microsoft Windows 10 Pro (32/64-bit),,"32,64",2048
+Microsoft Windows 10 Pro (32/64-bit),,"32,64",2048
+Microsoft Windows 10 Home (32/64-bit),,"32,64",128
+Microsoft Windows 10 Home (64-bit),,64,128
+Microsoft Windows 7 Professional (32/64-bit),249.99,"32,64",192
+Microsoft Windows 7 Home Premium (32/64-bit),253.15,"32,64",16
+Microsoft Windows 10 Home (32/64-bit),,"32,64",128
+Microsoft Windows 8.1 (64-bit),,64,128
+Microsoft Windows 10 Home (32/64-bit),,"32,64",128
+Microsoft Windows 10 Home (32-bit),,32,4
+Microsoft Windows 10 Pro (32/64-bit),,"32,64",2048
+Microsoft Windows 8.1 Pro DE (64-bit),188.07,64,512
+Microsoft Windows 10 Pro (32-bit),,32,4
+Microsoft Windows 8.1 Pro (64-bit),173.01,64,512
+Microsoft Windows 7 Ultimate SP1 (64-bit),,64,192
+Microsoft Windows 8 (32-bit),,32,4
+Microsoft Windows 7 Home Premium SP1 (32-bit),,32,4
+Microsoft Windows 8 Pro (32-bit),,32,4
+Microsoft Windows 8 (64-bit),,64,128
+Microsoft Windows 7 Professional SP1 (64-bit),,64,192
+Microsoft Windows 7 Pro SP1 DE (64-bit),,64,192
+Microsoft Windows 7 Home Premium SP1 (64-bit),,64,16
+Microsoft Windows 7 Home Premium SP1 (64-bit),,64,16
+Microsoft Windows 7 Home Premium SP1 (32-bit),,32,4
+Microsoft Windows 7 Professional SP1 (32-bit),,32,4
+Microsoft Windows 7 Ultimate SP1 (32-bit),,32,4
+Microsoft Windows 7 Ultimate SP1 (32-bit),,32,4
+Microsoft Windows 7 Home Premium SP1 (64-bit),,64,16
+Microsoft Windows 7 Ultimate SP1 (64-bit),,64,192
+Microsoft Windows 7 Ultimate (64-bit),,64,192
+Microsoft Windows 7 Professional SP1 (64-bit),,64,192
+Microsoft Windows 7 Professional SP1 (32-bit),,32,4
+Microsoft Windows 8.1 Pro (64-bit),,64,512
+Microsoft Windows 7 Professional SP1 (32-bit),,32,4
+Microsoft Windows 7 Pro SP1 DE (64-bit),,64,192
+Microsoft Windows 7 Ultimate (32/64-bit),,"32,64",192
+Microsoft Windows 8 (32-bit),,32,4
+Microsoft Windows 8 Pro (64-bit),,64,512
+Microsoft Windows 8 Pro (64-bit),,64,512
+Microsoft Windows 8.1 Pro (32/64-bit),,"32,64",512
+Microsoft Windows 8.1 (32-bit),,32,4
+Microsoft Windows 8.1 DE (64-bit),,64,128
+Microsoft Windows 8 Pro (32-bit),,32,4
+Microsoft Windows 8.1 Pro (32-bit),,32,4
+Microsoft Windows 8.1 (32-bit),,32,4
+Microsoft Windows 8 (64-bit),,64,128
+Microsoft Windows 8.1 Pro (32-bit),,32,4
+Microsoft Windows 8.1 (64-bit),,64,128
+Microsoft Windows 8 Pro DE (64-bit),,64,512
+Microsoft Windows 8.1 (32/64-bit),,"32,64",128

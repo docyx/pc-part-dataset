@@ -1,0 +1,1354 @@
+name,price,core_count,core_clock,boost_clock,tdp,graphics,smt
+AMD Ryzen 7 7800X3D,389,8,4.2,5,120,Radeon,true
+AMD Ryzen 5 5600X,147.72,6,3.7,4.6,65,,true
+Intel Core i7-13700K,364.99,16,3.4,5.4,125,Intel UHD Graphics 770,true
+AMD Ryzen 5 7600X,245,6,4.7,5.3,105,Radeon,true
+AMD Ryzen 7 5800X,204,8,3.8,4.7,105,,true
+AMD Ryzen 5 7600,215.99,6,3.8,5.1,65,Radeon,true
+AMD Ryzen 5 5600,149,6,3.5,4.4,65,,true
+Intel Core i5-12400F,137.97,6,2.5,4.4,65,,true
+AMD Ryzen 5 3600,103.2,6,3.6,4.2,65,,true
+Intel Core i9-13900K,546.99,24,3,5.8,125,Intel UHD Graphics 770,true
+AMD Ryzen 7 7700X,326.39,8,4.5,5.4,105,Radeon,true
+Intel Core i9-14900K,578.79,24,3.2,6,125,Intel UHD Graphics 770,true
+Intel Core i5-13600K,307.99,14,3.5,5.1,125,Intel UHD Graphics 770,true
+AMD Ryzen 7 5700X,184.29,8,3.4,4.6,65,,true
+AMD Ryzen 9 7950X3D,639.99,16,4.2,5.7,120,Radeon,true
+AMD Ryzen 5 5600G,139,6,3.9,4.4,65,Radeon Vega 7,true
+AMD Ryzen 7 5800X3D,321.33,8,3.4,4.5,105,,true
+Intel Core i7-12700K,299.95,12,3.6,5,125,Intel UHD Graphics 770,true
+Intel Core i5-12600K,236.72,10,3.7,4.9,125,Intel UHD Graphics 770,true
+Intel Core i7-14700K,403.8,20,3.4,5.6,125,Intel UHD Graphics 770,true
+Intel Core i3-12100F,94.48,4,3.3,4.3,58,,true
+AMD Ryzen 9 7900X,395.43,12,4.7,5.6,170,Radeon,true
+Intel Core i5-13400F,200.99,10,2.5,4.6,65,,true
+AMD Ryzen 5 5500,135,6,3.6,4.2,65,,true
+Intel Core i5-13600KF,285.98,14,3.5,5.1,125,,true
+AMD Ryzen 9 5900X,307.99,12,3.7,4.8,105,,true
+Intel Core i5-12600KF,197.61,10,3.7,4.9,125,,true
+AMD Ryzen 7 5700G,169.41,8,3.8,4.6,65,Radeon Vega 8,true
+AMD Ryzen 9 7950X,542.36,16,4.5,5.7,170,Radeon,true
+Intel Core i9-12900K,405.99,16,3.2,5.2,125,Intel UHD Graphics 770,true
+AMD Ryzen 7 7700,305.99,8,3.6,5.3,65,Radeon,true
+AMD Threadripper 3990X,4355,64,2.9,4.3,280,,true
+Intel Core i7-12700KF,249.99,12,3.6,5,125,,true
+AMD Ryzen 7 3700X,215,8,3.6,4.4,65,,true
+Intel Core i7-13700KF,369.99,16,3.4,5.4,125,,true
+Intel Core i9-14900KF,552,24,3.2,6,125,,true
+Intel Core i7-14700KF,393,20,3.4,5.6,125,,true
+Intel Core i5-13500,235.99,14,2.5,4.8,65,Intel UHD Graphics 770,true
+AMD Ryzen 5 4500,92.9,6,3.6,4.1,65,,true
+Intel Core i9-13900KS,691.35,24,3,6,150,Intel UHD Graphics 770,true
+Intel Core i5-10400F,113.56,6,2.9,4.3,65,,true
+Intel Core i5-14600KF,304,14,3.5,5.3,125,,true
+Intel Core i5-14600K,328,14,3.5,5.3,125,Intel UHD Graphics 770,true
+AMD Ryzen 5 4600G,99,6,3.7,4.2,65,Radeon Vega 7,true
+AMD Ryzen 9 7900X3D,500.42,12,4.4,5.6,120,Radeon,true
+AMD Ryzen 9 5950X,462.72,16,3.4,4.9,105,,true
+Intel Core i3-13100F,118.99,4,3.4,4.5,58,,true
+Intel Core i5-12400,161.99,6,2.5,4.4,65,Intel UHD Graphics 730,true
+AMD Ryzen 3 4100,69,4,3.8,4,65,,true
+Intel Core i9-13900KF,501.99,24,3,5.8,125,,true
+Intel Core i5-13400,230.98,10,2.5,4.6,65,Intel UHD Graphics 730,true
+Intel Core i7-9700K,250.13,8,3.6,4.9,95,Intel UHD Graphics 630,false
+AMD Ryzen 5 2600,165,6,3.4,3.9,65,,true
+Intel Core i3-10100F,79.64,4,3.6,4.3,65,,true
+Intel Core i7-13700F,359.99,16,2.1,5.2,65,,true
+Intel Core i7-8700K,204,6,3.7,4.7,95,Intel UHD Graphics 630,true
+AMD Ryzen 9 3900X,365,12,3.8,4.6,105,,true
+Intel Core i5-11400F,130.72,6,2.6,4.4,65,,true
+AMD Ryzen 3 3200G,84.99,4,3.6,4,65,Radeon Vega 8,false
+AMD Ryzen 5 3600X,210,6,3.8,4.4,95,,true
+AMD Ryzen 9 7900,401.99,12,3.6,5.4,65,Radeon,true
+AMD Ryzen 5 7500F,,6,3.7,5,65,,true
+AMD Ryzen 7 2700X,210,8,3.7,4.3,105,,true
+Intel Core i9-9900K,478.99,8,3.6,5,95,Intel UHD Graphics 630,true
+Intel Core i3-12100,118.99,4,3.3,4.3,60,Intel UHD Graphics 730,true
+Intel Core i7-10700K,260,8,3.8,5.1,125,Intel UHD Graphics 630,true
+Intel Core i7-7700K,299,4,4.2,4.5,91,Intel HD Graphics 630,true
+AMD Ryzen 7 3800X,285,8,3.9,4.5,105,,true
+Intel Core i5-9400F,135,6,2.9,4.1,65,,false
+Intel Core i7-11700K,283.02,8,3.6,5,125,Intel UHD Graphics 750,true
+Intel Celeron E1400,14,2,2,,65,,false
+AMD Ryzen 5 5600X3D,,6,3.3,4.4,105,,true
+Intel Core i7-12700F,289.98,12,2.1,4.9,65,,true
+Intel Core i7-6700K,220,4,4,4.2,91,Intel HD Graphics 530,true
+AMD Threadripper 3970X,2101.42,32,3.7,4.5,280,,true
+Intel Core i9-12900KF,381.99,16,3.2,5.2,125,,true
+Intel Core i9-11900K,293.72,8,3.5,5.3,125,Intel UHD Graphics 750,true
+Intel Core i5-10600K,151.03,6,4.1,4.8,125,Intel UHD Graphics 630,true
+Intel Core i5-10400,137.99,6,2.9,4.3,65,Intel UHD Graphics 630,true
+Intel Core i9-10900K,361.84,10,3.7,5.3,125,Intel UHD Graphics 630,true
+Intel Core i5-9600K,190,6,3.7,4.6,95,Intel UHD Graphics 630,false
+AMD Ryzen 5 2600X,210,6,3.6,4.2,95,,true
+Intel Core i3-13100,147.1,4,3.4,4.5,60,Intel UHD Graphics 730,true
+Intel Core i7-13700,387.99,16,2.1,5.2,65,Intel UHD Graphics 770,true
+Intel Core i7-11700F,214.31,8,2.5,4.9,65,,true
+AMD Ryzen 5 3400G,149.99,4,3.7,4.2,65,Radeon Vega 11,true
+Intel Core i9-10850K,262.61,10,3.6,5.2,125,Intel UHD Graphics 630,true
+AMD Ryzen 9 3950X,525,16,3.5,4.7,105,,true
+Intel Core i5-8400,160,6,2.8,4,65,Intel UHD Graphics 630,false
+Intel Core i7-8700,270,6,3.2,4.6,65,Intel UHD Graphics 630,true
+Intel Core i7-10700F,214.61,8,2.9,4.8,65,,true
+AMD Ryzen 3 3100,89.99,4,3.6,3.9,65,,true
+Intel Core i7-4790K,,4,4,4.4,88,Intel HD Graphics 4600,true
+Intel Core i3-10105F,83.42,4,3.7,4.4,65,,true
+AMD Ryzen 5 1600 (14nm),136.69,6,3.2,3.6,65,,true
+Intel Core i7-4770,75,4,3.4,3.9,84,Intel HD Graphics 4600,true
+Intel Core i7-12700,304,12,2.1,4.9,65,Intel UHD Graphics 770,true
+Intel Core i5-11600K,231,6,3.9,4.9,125,Intel UHD Graphics 750,true
+Intel Core i5-6600K,130,4,3.5,3.9,91,Intel HD Graphics 530,false
+Intel Core i7-7700,205,4,3.6,4.2,65,Intel HD Graphics 630,true
+Intel Core i9-11900KF,265,8,3.5,5.3,125,,true
+Intel Core i5-11400,152.44,6,2.6,4.4,65,Intel UHD Graphics 730,true
+AMD Ryzen 5 2400G,65.15,4,3.6,3.9,65,Radeon Vega 11,true
+Intel Core i7-10700KF,228.69,8,3.8,5.1,125,,true
+AMD Threadripper 3960X,1450,24,3.8,4.5,280,,true
+AMD Ryzen 7 2700,185,8,3.2,4.1,65,,true
+Intel Core i5-6500,125,4,3.2,3.6,65,Intel HD Graphics 530,false
+Intel Core i7-6700,210,4,3.4,4,65,Intel HD Graphics 530,true
+Intel Core i5-10600KF,147,6,4.1,4.8,125,,true
+Intel Core i3-10100,110.95,4,3.6,4.3,65,Intel UHD Graphics 630,true
+Intel Core i9-9900KF,309.99,8,3.6,5,95,,true
+Intel Core i9-13900,563.61,24,2,5.6,65,Intel UHD Graphics 770,true
+Intel Core i7-10700,241.95,8,2.9,4.8,65,Intel UHD Graphics 630,true
+AMD Ryzen 5 1600 (12nm),120,6,3.2,3.6,65,,true
+Intel Core i9-12900KS,429.06,16,3.4,5.5,150,Intel UHD Graphics 770,true
+Intel Core i7-3770,120,4,3.4,,77,Intel HD Graphics 4000,true
+Intel Core i5-8600K,250,6,3.6,4.3,95,Intel UHD Graphics 630,false
+AMD Ryzen 5 3600,142.99,6,3.6,4.2,65,,true
+Intel Core i7-3770K,115,4,3.5,,77,Intel HD Graphics 4000,true
+Intel Core i5-4690K,85,4,3.5,3.9,88,Intel HD Graphics 4600,false
+Intel Core i5-7400,110,4,3,3.5,65,Intel HD Graphics 630,false
+Intel Core i9-10900KF,313.03,10,3.7,5.3,125,,true
+AMD Ryzen 3 2200G,150,4,3.5,3.7,65,Radeon Vega 8,false
+Intel Core i7-9700,290.26,8,3,4.7,65,Intel HD Graphics 630,false
+AMD Athlon 3000G (14nm),69.44,2,3.5,,35,Radeon Vega 3,true
+Intel Core i7-11700,236,8,2.5,4.9,65,Intel UHD Graphics 750,true
+Intel Core i9-13900F,475,24,2,5.6,65,,true
+Intel Core i3-4330,96.95,2,3.5,,54,Intel HD Graphics 4600,true
+Intel Core i7-11700KF,268.58,8,3.6,5,125,,true
+AMD Ryzen 7 1700,215,8,3,3.7,65,,true
+Intel Core i3-9100F,115,4,3.6,4.2,65,,false
+Intel Core i7-9700F,267,8,3,4.7,65,,false
+Intel Xeon E5-2699 V4,278.32,22,2.2,3.6,145,,true
+Intel Core i7-4770K,160,4,3.5,3.9,84,Intel HD Graphics 4600,true
+Intel Core i5-7500,125.95,4,3.4,3.8,65,Intel HD Graphics 630,false
+Intel Core i3-8100,110,4,3.6,,65,Intel UHD Graphics 630,false
+Intel Core i7-4790,152.65,4,3.6,4,84,Intel HD Graphics 4600,true
+AMD Ryzen 5 2400G,135,4,3.6,3.9,65,Radeon Vega 11,true
+Intel Pentium G3260,,2,3.3,,53,Intel HD Graphics,false
+AMD Ryzen 5 3600,,6,3.6,4.2,65,,true
+Intel Core i5-7600K,225,4,3.8,4.2,91,Intel HD Graphics 630,false
+Intel Core i5-12500,219.99,6,3,4.6,65,Intel UHD Graphics 770,true
+AMD Threadripper 2920X,159.94,12,3.5,4.3,180,,true
+AMD Ryzen 5 3600,107.99,6,3.6,4.2,65,,true
+AMD FX-8350,,8,4,,125,,false
+Intel Core i5-4460,82.46,4,3.2,3.4,84,Intel HD Graphics 4600,false
+AMD Ryzen 5 1600X,140.63,6,3.6,4,95,,true
+AMD Ryzen 9 3900XT,438.53,12,3.8,4.7,105,,true
+AMD Ryzen 7 3700X,,8,3.6,4.4,65,,true
+AMD Threadripper 1900X,89.99,8,3.8,4,180,,true
+Intel Xeon E5-2660,15.44,8,2.2,3,95,,true
+AMD Ryzen 5 3500X,,6,3.6,4.1,65,,false
+Intel Core i5-4590,,4,3.3,3.7,84,Intel HD Graphics 4600,false
+Intel Celeron G6900,81.84,2,3.4,,46,Intel UHD Graphics 710,false
+Intel Core i5-12600,239.99,6,3.3,4.8,65,Intel UHD Graphics 770,true
+AMD Ryzen 7 1700X,251,8,3.4,3.8,95,,true
+Intel Core i9-9900KS,1989,8,4,5,127,Intel UHD Graphics 630,true
+AMD Ryzen 5 3600XT,365.95,6,3.8,4.5,95,,true
+Intel Core i5-11600KF,205,6,3.9,4.9,125,,true
+Intel Core i5-3470,156.68,4,3.2,,77,Intel HD Graphics 2500,false
+Intel Celeron G5900,44.32,2,3.4,,58,Intel UHD Graphics 610,false
+Intel Celeron G4900,48.59,2,3.1,,65,Intel UHD Graphics 610,false
+Intel Core i5-6400,,4,2.7,3.3,65,Intel HD Graphics 530,false
+Intel Core i9-10980XE,1200,18,3,4.8,165,,true
+Intel Core i5-9400,179.91,6,2.9,4.1,65,Intel UHD Graphics 630,false
+Intel Core i7-2600,173.65,4,3.4,,95,Intel HD Graphics 2000,true
+Intel Core i5-4570,104.54,4,3.2,,84,Intel HD Graphics 4600,false
+AMD FX-6300,,6,3.5,,95,,false
+AMD Ryzen 3 3300X,195,4,3.8,4.3,65,,true
+AMD Ryzen 7 3800XT,407.95,8,3.9,4.7,105,,true
+Intel Pentium Gold G7400,104.99,2,3.7,,46,Intel UHD Graphics 710,true
+AMD Ryzen 3 1200 (14nm),115,4,3.1,3.4,65,,false
+Intel Core i5-8500,184.47,6,3,4.1,65,Intel UHD Graphics 630,false
+Intel Core i5-9600KF,220.12,6,3.7,4.6,95,,false
+Intel Core i7-9700KF,300,8,3.6,4.9,95,,false
+Intel Xeon E5-2687W V4,2429.89,12,3,3.5,160,,true
+AMD Ryzen 9 3950X,2147.03,16,3.5,4.7,105,,true
+AMD Ryzen 5 1400,110,4,3.2,3.4,65,,true
+Intel Core i7-6800K,115,6,3.4,3.6,140,,true
+Intel Core i5-3570K,97,4,3.4,,77,Intel HD Graphics 4000,false
+AMD Ryzen 7 1800X,295,8,3.6,4,95,,true
+AMD Ryzen 5 1500X,225,4,3.5,3.7,65,,true
+Intel Core i3-10105,111.11,4,3.7,4.4,65,Intel UHD Graphics 630,true
+Intel Core i5-2400,,4,3.1,,95,Intel HD Graphics 2000,false
+Intel Core i3-6100,100,2,3.7,,51,Intel HD Graphics 530,true
+Intel Xeon E5-2690 V4,166.9,14,2.6,3.5,135,,true
+Intel Core i3-7350K,56.99,2,4.2,,60,Intel HD Graphics 630,true
+Intel Core i3-4150,48,2,3.5,,54,Intel HD Graphics 4400,true
+Intel Core i5-4690,87.99,4,3.5,3.9,84,Intel HD Graphics 4600,false
+AMD Ryzen 5 3500,,6,3.6,4.1,65,,false
+Intel Core i3-4130,43,2,3.4,,54,Intel HD Graphics 4400,true
+Intel Core i7-8700K,355.75,6,3.7,4.7,95,Intel UHD Graphics 630,true
+Intel Core i9-10900X,600,10,3.7,4.7,165,,true
+Intel Core i7-5820K,,6,3.3,3.6,140,,true
+Intel Xeon E5-2650 V4,79,12,2.2,2.9,105,,true
+Intel Core i9-9980XE,2004.51,18,3,4.4,165,,true
+AMD FX-8320,125,8,3.5,,125,,false
+Intel Core i7-6950X,525,10,3,3.5,140,,true
+Intel Core i5-6600,,4,3.3,3.9,65,Intel HD Graphics 530,false
+Intel Core i7-2600K,110,4,3.4,,95,Intel HD Graphics 3000,true
+Intel Core i7-4790K,225,4,4,4.4,88,Intel HD Graphics 4600,true
+Intel Core i9-12900F,410.99,16,2.4,5.1,65,,true
+Intel Core i5-4670K,140.05,4,3.4,,84,Intel HD Graphics 4600,false
+Intel Celeron G4900,73,2,3.1,,65,Intel UHD Graphics 610,false
+Intel Core i7-6900K,160,8,3.2,3.7,140,,true
+Intel Core i9-9900K,954.81,8,3.6,5,95,Intel UHD Graphics 630,true
+AMD Threadripper 1920X,270,12,3.5,4,180,,true
+AMD Athlon X4 845,50,4,3.5,3.8,65,,false
+AMD Ryzen 9 PRO 7945,,12,3.7,5.4,65,Radeon,true
+Intel Core i9-10900F,300.3,10,2.8,5.2,65,,true
+Intel Core i5-10500,279.3,6,3.1,4.5,65,Intel UHD Graphics 630,true
+AMD Threadripper 2990WX,2500,32,3,4.2,250,,true
+Intel Core i5-2500K,322.66,4,3.3,,95,Intel HD Graphics 3000,false
+Intel Core i5-7600,120.86,4,3.5,4.1,65,Intel HD Graphics 630,false
+Intel Core i7-4790,,4,3.6,4,84,Intel HD Graphics 4600,true
+Intel Core i3-7100,85.72,2,3.9,,51,Intel HD Graphics 630,true
+Intel Xeon E5-2680 V4,1975,14,2.4,3.3,120,,true
+Intel Celeron G5925,36.99,2,3.6,,58,Intel UHD Graphics 610,false
+AMD Threadripper 2950X,795.27,16,3.5,4.4,180,,true
+Intel Core 2 Duo E8400,27.55,2,3,,65,,false
+Intel Xeon E5-2640 V3,41.55,8,2.6,3.4,90,,true
+Intel Core i9-12900,439.99,16,2.4,5.1,65,Intel UHD Graphics 770,true
+Intel Core i7-8086K,512.94,6,4,5,95,Intel UHD Graphics 630,true
+Intel Core i9-9900,350,8,3.1,5,65,Intel UHD Graphics 630,true
+Intel Core i5-6500,,4,3.2,3.6,65,Intel HD Graphics 530,false
+Intel Core i7-2700K,89,4,3.5,,95,Intel HD Graphics 3000,true
+Intel Core i5-9500,190.74,6,3,4.4,65,Intel UHD Graphics 630,false
+Intel Core i9-7960X,338.07,16,2.8,4.4,165,,true
+Intel Core i5-3570,,4,3.4,,77,Intel HD Graphics 2500,false
+AMD Ryzen 9 3900X,,12,3.8,4.6,105,,true
+Intel Celeron G440,30,1,1.6,,35,Intel HD Graphics,false
+Intel Core i9-10900,314.99,10,2.8,5.2,65,Intel UHD Graphics 630,true
+Intel Pentium Gold G6400,63.9,2,4,,58,Intel UHD Graphics 610,true
+AMD Threadripper 1950X,842.3,16,3.4,4,180,,true
+Intel Core i7-7700,193.31,4,3.6,4.2,65,Intel HD Graphics 630,true
+Intel Xeon E5-2670 V3,,12,2.3,3.1,120,,true
+Intel Core i5-4440,100,4,3.1,3.3,84,Intel HD Graphics 4600,false
+Intel Core i5-13500T,,14,1.6,4.6,35,Intel UHD Graphics 770,true
+Intel Core i9-9900K (Standard Folding Box),470,8,3.6,5,95,Intel UHD Graphics 630,true
+Intel Core i5-9400F,,6,2.9,4.1,65,,false
+Intel Core i5-11500,218.99,6,2.7,4.6,65,Intel UHD Graphics 750,true
+Intel Core i5-13600,,14,2.7,5,65,Intel UHD Graphics 770,true
+Intel Core i7-6850K,130,6,3.6,3.8,140,,true
+Intel Core i3-9100,145,4,3.6,4.2,65,Intel UHD Graphics 630,false
+Intel Core i7-8700,349.95,6,3.2,4.6,65,Intel UHD Graphics 630,true
+Intel Core i9-7900X,416,10,3.3,4.5,140,,true
+Intel Pentium Gold G6605,47.98,2,4.3,,58,Intel UHD Graphics 630,true
+Intel Core i5-8600,185.86,6,3.1,4.3,65,Intel UHD Graphics 630,false
+Intel Core i7-7820X,375,8,3.6,4.5,140,,true
+Intel Core i9-11900F,280,8,2.5,5.2,65,,true
+Intel Core i7-7800X,499.99,6,3.5,4,140,,true
+AMD Ryzen 5 2600,,6,3.4,3.9,65,,true
+Intel Xeon E5-2698 V3,,16,2.3,3.6,135,,true
+Intel Celeron E3500,14.99,2,2.7,,65,,false
+Intel Core i5-8400,298.51,6,2.8,4,65,Intel UHD Graphics 630,false
+Intel Core i3-2100,49,2,3.1,,65,Intel HD Graphics 2000,true
+AMD Ryzen 5 2600X,,6,3.6,4.2,95,,true
+Intel Xeon E5-1650 V4,47.85,6,3.6,4,140,,true
+AMD Ryzen 3 1300X,,4,3.5,3.7,65,,false
+AMD Ryzen 3 1200 (12nm),115,4,3.1,3.4,65,,false
+Intel Core i9-11900,299.99,8,2.5,5.2,65,Intel UHD Graphics 750,true
+Intel Core i7-7700T,489.95,4,2.9,3.8,35,Intel HD Graphics 630,true
+Intel Core i7-7700K,,4,4.2,4.5,91,Intel HD Graphics 630,true
+Intel Core i9-13900T,,24,1.1,5.3,35,Intel UHD Graphics 770,true
+AMD Ryzen 9 3900,,12,3.1,,65,,true
+Intel Xeon E5-2660,,8,2.2,3,95,,true
+Intel Core i3-4170,,2,3.7,,54,Intel HD Graphics 4400,true
+AMD Ryzen 7 3800X,,8,3.9,4.5,105,,true
+Intel Pentium Gold G5400,73,2,3.7,,58,Intel UHD Graphics 610,true
+AMD FX-9590,302.58,8,4.7,5,220,,false
+AMD Athlon II X2 240,29.48,2,2.8,,65,,false
+AMD Athlon 200GE,119.55,2,3.2,,35,Radeon Vega 3,true
+Intel Core i5-3330,,4,3,,77,Intel HD Graphics 2500,false
+AMD FX-8300,120,8,3.3,,95,,false
+Intel Core i5-2500,,4,3.3,,95,Intel HD Graphics 2000,false
+AMD Ryzen 5 3600X,,6,3.8,4.4,95,,true
+Intel Core i9-10920X,769.99,12,3.5,4.8,165,,true
+Intel Core i5-10600,299.95,6,3.3,4.8,65,Intel UHD Graphics 630,true
+Intel Core i3-2120,125,2,3.3,,65,Intel HD Graphics 2000,true
+Intel Core i7-4930K,148,6,3.4,3.9,130,,true
+Intel Pentium E5700,19.98,2,3,,65,,false
+Intel Core i5-4670,129.88,4,3.4,,84,Intel HD Graphics 4600,false
+Intel Pentium G4560,,2,3.5,,54,Intel HD Graphics 610,true
+AMD FX-6350,100,6,3.9,,125,,false
+Intel Core i7-4820K,120,4,3.7,3.9,130,,true
+AMD Ryzen 3 3200G,,4,3.6,4,65,Radeon Vega 8,false
+AMD FX-8370,234.98,8,4,4.3,125,,false
+Intel Core i9-7920X,529,12,2.9,4.4,140,,true
+AMD Threadripper 2970WX,1150,24,3,4.2,250,,true
+Intel Core i3-3220,,2,3.3,,55,Intel HD Graphics 2500,true
+Intel Pentium G4400,45,2,3.3,,54,Intel HD Graphics 510,false
+Intel Xeon E5-2680,58.24,8,2.7,3.5,130,,true
+Intel Core i3-10305,109.99,4,3.8,4.5,65,Intel UHD Graphics 630,true
+Intel Core i7-6700,187.81,4,3.4,4,65,Intel HD Graphics 530,true
+Intel Core i7-6700K,,4,4,4.2,91,Intel HD Graphics 530,true
+Intel Core i3-8100,123.84,4,3.6,,65,Intel UHD Graphics 630,false
+Intel Core i3-10300,201.42,4,3.7,4.4,65,Intel UHD Graphics 630,true
+Intel Core i7-6950X,395.86,10,3,3.5,140,,true
+Intel Core i7-9700K,,8,3.6,4.9,95,Intel UHD Graphics 630,false
+Intel Core i7-9800X,399.95,8,3.8,4.5,165,,true
+Intel Core i7-3930K,285,6,3.2,,130,,true
+Intel Core i5-7400T,78.02,4,2.4,3,35,Intel HD Graphics 630,false
+Intel Pentium G4600,54.59,2,3.6,,51,Intel HD Graphics 630,true
+Intel Core i7-4770K,205.86,4,3.5,3.9,84,Intel HD Graphics 4600,true
+Intel Core i3-8350K,185,4,4,,91,Intel UHD Graphics 630,false
+Intel Core 2 Quad Q9550,52.55,4,2.83,,95,,false
+AMD Ryzen 5 3400G,,4,3.7,4.2,65,Radeon Vega 11,true
+AMD FX-6120,58.53,6,3.5,4.1,95,,false
+Intel Core i5-8500T,,6,2.1,3.5,35,Intel UHD Graphics 630,false
+Intel Core i9-10940X,850,14,3.3,4.8,165,,true
+Intel Core i7-9700F,375.86,8,3,4.7,65,,false
+Intel Core i5-11600,220,6,2.8,4.8,65,Intel UHD Graphics 750,true
+Intel Celeron G3900,39.95,2,2.8,,51,Intel HD Graphics 510,false
+Intel Core i7-4960X Extreme Edition,1000,6,3.6,4,130,,true
+Intel Core i7-920,90,4,2.66,,130,,true
+Intel Core i3-12100T,,4,2.2,4.1,35,Intel UHD Graphics 730,true
+Intel Core i7-5960X,,8,3,3.5,140,,true
+AMD 5350,120,4,2.05,,25,Radeon HD 8400,false
+Intel Xeon E5-2667 V3,981.57,8,3.2,3.6,135,,true
+Intel Core i7-7740X,369.99,4,4.3,4.5,112,,true
+Intel Xeon E3-1231 V3,,4,3.4,3.8,80,,true
+Intel Core i7-5930K,,6,3.5,3.7,140,,true
+Intel Xeon E5-2630 V3,175.44,8,2.4,3.2,85,,true
+AMD A10-9700,120,4,3.5,3.8,65,Radeon R7 (on-die),false
+Intel Core i7-3820,,4,3.6,,130,,true
+AMD FX-6100,72.8,6,3.3,,95,,false
+Intel Celeron G5905,43.3,2,3.5,,58,Intel UHD Graphics 610,false
+Intel Core i7-8700T,335,6,2.4,4,35,Intel UHD Graphics 630,true
+AMD Ryzen 7 1700X,,8,3.4,3.8,95,,true
+Intel Core i5-6402P,97,4,2.8,3.4,65,Intel HD Graphics 510,false
+Intel Core i5-2400S,70,4,2.5,,65,Intel HD Graphics 2000,false
+AMD Athlon X2 370K,,2,4.2,,65,,false
+Intel Pentium G640,30,2,2.8,,65,Intel HD Graphics,false
+Intel Core i3-13100T,,4,2.5,4.2,35,Intel UHD Graphics 730,true
+Intel Core i7-5775C,250,4,3.3,3.7,65,Iris Pro Graphics 6200,true
+Intel Core i7-9700,334.7,8,3,4.7,65,Intel HD Graphics 630,false
+Intel Core i5-4430,,4,3,,84,Intel HD Graphics 4600,false
+Intel Xeon E5-2699 V3,,18,2.3,3.6,145,,true
+AMD Ryzen 5 PRO 7645,,6,3.8,5.1,65,Radeon,true
+AMD FX-4300,,4,3.8,,95,,false
+Intel Pentium G2020,34.99,2,2.9,,55,Intel HD Graphics,false
+Intel Core i7-13700T,,16,1.4,4.9,35,,true
+Intel Celeron 420,49.95,1,1.6,,35,,false
+AMD A8-9600,,4,3.1,3.4,65,Radeon R7 (on-die),false
+Intel Core i7-870,100,4,2.93,,95,,true
+Intel Core i5-9600K,,6,3.7,4.6,95,Intel UHD Graphics 630,false
+Intel Celeron G4900T,59.95,2,1.8,,35,Intel UHD Graphics 610,false
+Intel Xeon E5-2683 V4,1969.95,16,2.1,3,120,,true
+AMD A6-6400K,75,2,3.9,,65,Radeon HD 8470D,false
+AMD Phenom II X6 1090T Black,,6,3.2,,125,,false
+Intel Core i9-7980XE,1186,18,2.6,4.4,165,,true
+Intel Core i5-9600,210,6,3.1,4.6,65,Intel UHD Graphics 630,false
+Intel Core i3-530,45,2,2.93,,73,Intel HD Graphics,true
+Intel Xeon E5-2650 V2,185,8,2.6,3.4,95,,true
+Intel Pentium Gold G6600,161.06,2,4.2,,58,Intel UHD Graphics 630,true
+Intel Core 2 Quad Q6600,99.95,4,2.4,,100,,false
+AMD FX-8350,202.57,8,4,,125,,false
+Intel Pentium E2220,19.98,2,2.4,,65,,false
+Intel Xeon E5-2697 V2,,12,2.7,3.5,130,,true
+AMD A8-6600K,92.86,4,3.9,,100,Radeon HD 8570D,false
+Intel Core i7-3770S,195,4,3.1,,65,Intel HD Graphics 4000,true
+Intel Core i9-9980XE,1073,18,3,4.4,165,,true
+Intel Core i5-8600K,,6,3.6,4.3,95,Intel UHD Graphics 630,false
+AMD Opteron 6344,,12,2.6,3.2,115,,false
+Intel Core i7-4790S,,4,3.2,4,65,Intel HD Graphics 4000,true
+AMD A8-7600,,4,3.1,3.8,65,Radeon R7 (on-die),false
+Intel Core i7-10700K Avengers Collector's Edition,269,8,3.8,5.1,125,Intel UHD Graphics 630,true
+Intel Xeon E5-2697 V4,,18,2.3,3.6,145,,true
+Intel Core i7-980X Extreme Edition,153.64,6,3.33,,130,,true
+Intel Core i3-3240,113.99,2,3.4,,55,Intel HD Graphics 2500,true
+Intel Core i3-4160,,2,3.6,,54,Intel HD Graphics 4400,true
+Intel Xeon E5-1650 V3,138.51,6,3.5,3.8,140,,true
+Intel Xeon E5-2660 V4,195.24,14,2,3.2,105,,true
+Intel Core i3-10320,133.91,4,3.8,4.6,65,Intel UHD Graphics 630,true
+AMD A10-7850K,139.84,4,3.7,4,95,Radeon R7 (on-die),false
+Intel Xeon E5-2620 V3,69.11,6,2.4,3.2,85,,true
+AMD A4-6300,46.79,2,3.7,3.9,65,Radeon HD 8370D,false
+Intel Core i5-7640X,146,4,4,4.2,112,,false
+AMD A6-9500,89.95,2,3.5,3.8,65,Radeon R5 (on die),false
+Intel Core i5-750,81,4,2.66,,95,,false
+Intel Xeon E5-2630,30.21,6,2.3,,95,,true
+Intel Core i3-4160,,2,3.6,,54,Intel HD Graphics 4400,true
+AMD Ryzen 7 PRO 7745,,8,3.8,5.3,65,Radeon,true
+Intel Core i3-4370,60,2,3.8,,54,Intel HD Graphics 4600,true
+Intel Core i7-4770S,230.61,4,3.1,,65,Intel HD Graphics 4600,true
+Intel Xeon E5-1620 V3,66.5,4,3.5,3.6,140,,true
+Intel Core i7-950,100,4,3.06,,130,,true
+AMD FX-4350,122.96,4,4.2,,125,,false
+Intel Pentium G3258,68,2,3.2,,53,Intel HD Graphics,false
+Intel Core i5-9500F,,6,3,4.4,65,,false
+Intel Xeon E5-2650,54.54,8,2,2.8,95,,true
+Intel Core i5-4570S,95.87,4,2.9,,65,Intel HD Graphics 4600,false
+Intel Core i5-3450,245.33,4,3.1,,77,Intel HD Graphics 2500,false
+AMD Ryzen 7 2700,,8,3.2,4.1,65,,true
+Intel Pentium Gold G5400,97.92,2,3.7,,58,Intel UHD Graphics 610,true
+Intel Core i5-7400T,150,4,2.4,3,35,Intel HD Graphics 630,false
+Intel Pentium Gold G6405,90.31,2,4.1,,58,Intel UHD Graphics 610,true
+AMD FX-8120,,8,3.1,,125,,false
+Intel Celeron G4930,76,2,3.2,,54,Intel UHD Graphics 610,false
+Intel Core i3-7100,85.72,2,3.9,,51,Intel HD Graphics 630,true
+Intel Xeon E5-2690 V2,,10,3,3.6,130,,true
+Intel Core i7-7800X,277,6,3.5,4,140,,true
+AMD FX-6300,78.51,6,3.5,,95,,false
+AMD Phenom II X4 965 Black,,4,3.4,,125,,false
+Intel Core 2 Extreme QX9770,,4,3.2,,136,,false
+Intel Core i5-7600K,,4,3.8,4.2,91,Intel HD Graphics 630,false
+Intel Core i5-9600KF,309.95,6,3.7,4.6,95,,false
+Intel Core i5-6400,,4,2.7,3.3,65,Intel HD Graphics 530,false
+Intel Core i9-10850K,,10,3.6,5.2,125,Intel UHD Graphics 630,true
+AMD A10-6800K,,4,4.1,,100,Radeon HD 8670D,false
+Intel Core i5-6500T,,4,2.5,3.1,35,Intel HD Graphics 530,false
+Intel Core i7-7700T,380,4,2.9,3.8,35,Intel HD Graphics 630,true
+Intel Core i5-4590S,,4,3,3.7,65,Intel HD Graphics 4000,false
+Intel Xeon E5-2698 V4,,20,2.2,3.6,135,,true
+AMD Athlon X4 970,,4,3.8,4,65,,false
+Intel Core 2 Extreme QX6800,998.95,4,2.93,,100,,false
+Intel Core i3-6300,90.03,2,3.8,,51,Intel HD Graphics 530,true
+Intel Core i5-7500,,4,3.4,3.8,65,Intel HD Graphics 630,false
+Intel Core i3-4130T,76,2,2.9,,35,Intel HD Graphics 4400,true
+AMD Athlon II X4 640,57.01,4,3,,95,,false
+Intel Core i5-3550,335,4,3.3,,77,Intel HD Graphics 2500,false
+Intel Core i7-860,339,4,2.8,,95,,true
+Intel Xeon E3-1220 V3,100.99,4,3.1,3.5,80,,false
+Intel Core i5-2320,,4,3,,95,Intel HD Graphics 2000,false
+Intel Pentium E5400,,2,2.7,,65,,false
+AMD Ryzen 3 2200G,,4,3.5,3.7,65,Radeon Vega 8,false
+Intel Celeron G4920,79.95,2,3.2,,65,Intel UHD Graphics 610,false
+Intel Core i7-6700T,,4,2.8,3.6,35,Intel HD Graphics 530,true
+Intel Xeon E5-2683 V4,863.49,16,2.1,3,120,,true
+Intel Xeon E5-2687W V3,,10,3.1,3.5,160,,true
+AMD Athlon II 160u,,1,1.8,,20,,false
+AMD A10-7700K,132.86,4,3.4,3.8,95,Radeon R7 (on-die),false
+AMD Athlon X4 860K,,4,3.7,4,95,,false
+AMD Phenom II X4 955,,4,3.2,,125,,false
+Intel Core i5-3350P,,4,3.1,,69,,false
+Intel Xeon E-2288G,,8,3.7,5,95,Intel HD Graphics P630,true
+AMD FX-9370,229.97,8,4.4,4.7,220,,false
+Intel Core i5-6600T,294.98,4,2.7,3.5,35,Intel HD Graphics 530,false
+Intel Core i5-650,100,2,3.2,,73,Intel HD Graphics,true
+Intel Xeon E5-2690 V3,,12,2.6,3.5,135,,true
+Intel Core i9-7940X,,14,3.1,4.4,165,,true
+Intel Xeon E5-2640 V4,998.95,10,2.4,3.4,90,,true
+Intel Xeon E5-2620 V4,429.95,8,2.1,3,85,,true
+Intel Celeron G5920,39.99,2,3.5,,58,Intel UHD Graphics 610,false
+Intel Core i5-7400,119,4,3,3.5,65,Intel HD Graphics 630,false
+Intel Xeon E5-1630 V4,499.95,4,3.7,4,140,,true
+Intel Core i5-9500T,,6,2.2,3.7,35,Intel UHD Graphics 630,false
+AMD FX-8320,106.55,8,3.5,,125,,false
+Intel Xeon E3-1230 V5,298.95,4,3.4,3.8,80,,true
+Intel Pentium G4500,49.99,2,3.5,,51,Intel HD Graphics 530,false
+Intel Core i5-4690K,160.65,4,3.5,3.9,88,Intel HD Graphics 4600,false
+Intel Core 2 Quad Q9650,,4,3,,95,,false
+Intel Xeon E3-1240L V5,,4,2.1,3.2,25,,true
+AMD Athlon X2 340,120,2,3.2,,65,,false
+Intel Xeon E5-2695 V4,,18,2.1,3.3,120,,true
+Intel Core i5-9400,,6,2.9,4.1,65,Intel UHD Graphics 630,false
+Intel Xeon E5-2697 V3,,14,2.6,3.6,145,,true
+Intel Xeon E5-1660 V2,498.95,6,3.7,4,130,,true
+Intel Core i5-760,100,4,2.8,,95,,false
+Intel Core i9-7980XE,1698.95,18,2.6,4.4,165,,true
+Intel Core i7-3970X Extreme Edition,240.86,6,3.5,,150,,true
+AMD FX-4100,,4,3.6,,95,,false
+AMD A10-7800,,4,3.5,3.9,65,Radeon R7 (on-die),false
+Intel Xeon E5-2695 V2,64.9,12,2.4,3.2,115,,true
+Intel Xeon E5-1660 V3,398.95,8,3,3.5,140,,true
+Intel Pentium Gold G6500,89.99,2,4.1,,58,Intel UHD Graphics 630,true
+Intel Core i7-4770K,241.42,4,3.5,3.9,84,Intel HD Graphics 4600,true
+Intel Core i5-7500T,199.95,4,2.7,3.3,35,Intel HD Graphics 630,false
+AMD FX-8320E,,8,3.2,4,95,,false
+Intel Xeon E5-2670,,8,2.6,3.3,115,,true
+Intel Core i7-7740X,295.57,4,4.3,4.5,112,,true
+Intel Core 2 Duo E8600,,2,3.33,,65,,false
+AMD Athlon II X4 640,74.79,4,3,,95,,false
+Intel Xeon E3-1230 V2,265.87,4,3.3,,69,,true
+Intel Core i7-960,345,4,3.2,,130,,true
+AMD Athlon X4 950,,4,3.5,3.8,65,,false
+Intel Core i3-10100T,,4,3,3.8,35,Intel UHD Graphics 630,true
+Intel Core i3-3250,70,2,3.5,,55,Intel HD Graphics 2500,true
+Intel Core i9-9920X,,12,3.5,4.4,165,,true
+Intel Core i5-8500,,6,3,4.1,65,Intel UHD Graphics 630,false
+Intel Core i7-3960X Extreme Edition,274.85,6,3.3,,130,,true
+Intel Core 2 Duo E7500,99.63,2,2.93,,65,,false
+Intel Xeon E5-2660 V3,,10,2.6,3.3,105,,true
+Intel Core i5-4690K,,4,3.5,3.9,88,Intel HD Graphics 4600,false
+Intel Core 2 Duo E7300,28.2,2,2.66,,65,,false
+Intel Core i7-940,78.67,4,2.93,,130,,true
+Intel Xeon E-2236,435,6,3.4,4.8,80,,true
+Intel Celeron E3400,18.98,2,2.6,,65,,false
+AMD FX-6350,,6,3.9,,125,,false
+Intel Pentium G2030,,2,3,,55,Intel HD Graphics,false
+Intel Core i5-2300,,4,2.8,,95,Intel HD Graphics 2000,false
+AMD Athlon II X4 630,52.6,4,2.8,,95,,false
+Intel Xeon E5-4620,52,8,2.2,2.6,95,,true
+Intel Core i9-10850KA Avengers Limited Edition,,10,3.6,5.2,125,Intel UHD Graphics 630,true
+AMD A8-5600K,,4,3.6,,100,Radeon HD 7560D,false
+AMD Ryzen 7 PRO 7745,,8,3.8,5.3,65,Radeon,true
+AMD A10-6700,112.76,4,3.7,,65,Radeon HD 8670D,false
+Intel Core i5-2380P,70,4,3.1,,95,,false
+AMD A10-5800K,,4,3.8,,100,Radeon HD 7660D,false
+Intel Core i9-9940X,,14,3.3,4.4,165,,true
+Intel Core i3-550,108.21,2,3.2,,73,Intel HD Graphics,true
+Intel Core i5-7600T,147.91,4,2.8,3.7,35,Intel HD Graphics 630,false
+Intel Core i7-9700T,,8,2,4.3,35,Intel HD Graphics 630,false
+Intel Core i5-3450S,95,4,2.8,,65,Intel HD Graphics 2500,false
+Intel Xeon E5-1620 V4,198.95,4,3.5,3.8,140,,true
+Intel Xeon E3-1270 V3,420,4,3.5,3.9,80,,true
+Intel Core i5-3340,278.02,4,3.1,3.3,77,Intel HD Graphics 2500,false
+AMD Phenom II X6 1100T Black,,6,3.3,,125,,false
+Intel Core i5-6600,,4,3.3,3.9,65,Intel HD Graphics 530,false
+Intel Core i9-9900,,8,3.1,5,65,Intel UHD Graphics 630,true
+Intel Core i3-9300,172.4,4,3.7,4.3,62,Intel UHD Graphics 630,false
+Intel Xeon E5-2620 V3,125,6,2.4,3.2,85,,true
+Intel Xeon E3-1280 V5,,4,3.7,4,80,,true
+Intel Core i3-2120T,60,2,2.6,,35,Intel HD Graphics 2000,true
+AMD A8-7680,,4,3.5,3.8,65,Radeon R7 (on-die),false
+Intel Core i7-990X Extreme Edition,,6,3.467,,130,,true
+Intel Xeon E3-1230 V3,309.88,4,3.3,3.7,80,,true
+AMD A8-7650K,,4,3.3,3.7,95,Radeon R7 (on-die),false
+Intel Core i5-4460S,,4,2.9,3.4,65,Intel HD Graphics 4000,false
+Intel Xeon E5-1650 V4,,6,3.6,4,140,,true
+AMD A12-9800,160,4,3.8,4.2,65,Radeon R7 (on-die),false
+Intel Xeon E-2124,180,4,3.3,4.3,71,,false
+Intel Celeron G1610,37,2,2.6,,55,Intel HD Graphics,false
+Intel Celeron G3930,54.98,2,2.9,,51,Intel HD Graphics 610,false
+AMD FX-8150,,8,3.6,,125,,false
+Intel Core i3-8100T,,4,3.1,,35,Intel UHD Graphics 630,false
+Intel Core 2 Quad Q9300,104.01,4,2.5,,95,,false
+Intel Core i5-4570T,128.8,2,2.9,,35,Intel HD Graphics 4600,true
+Intel Core i5-4440S,123.85,4,2.8,3.3,65,Intel HD Graphics 4600,false
+Intel Core i3-6098P,70,2,3.6,,54,Intel HD Graphics 510,true
+AMD Ryzen 7 1800X,,8,3.6,4,95,,true
+AMD Athlon 220GE,,2,3.4,,35,Radeon Vega 3,true
+Intel Core i3-540,110,2,3.06,,73,Intel HD Graphics,true
+Intel Core i5-661,80,2,3.33,,87,Intel HD Graphics,true
+Intel Core i5-3470S,,4,2.9,,65,Intel HD Graphics 2500,false
+AMD A10-7890K,,4,4.1,4.3,95,Radeon R7 (on-die),false
+AMD Ryzen 3 1200 (12nm),,4,3.1,3.4,65,,false
+Intel Core i9-7900X,1498.95,10,3.3,4.5,140,,true
+Intel Core 2 Extreme QX9775,1495,4,3.2,,150,,false
+AMD A10-9700E,247.98,4,3,3.5,35,Radeon R7 (on-die),false
+AMD Phenom II X4 820,56.64,4,2.8,,95,,false
+Intel Xeon E3-1241 V3,298,4,3.5,3.9,80,,true
+Intel Core i5-8500,184.47,6,3,4.1,65,Intel UHD Graphics 630,false
+AMD 2650,,2,1.45,,25,Radeon HD 8240,false
+Intel Xeon E5-2620,32.02,6,2,,95,,true
+Intel Core i9-9900T,,8,2.1,4.4,35,Intel UHD Graphics 630,true
+Intel Xeon E-2124G,,4,3.4,4.5,71,Intel HD Graphics P630,false
+Intel Celeron G3900,85.6,2,2.8,,51,Intel HD Graphics 510,false
+Intel Xeon E-2136,403.99,6,3.3,4.5,80,,true
+Intel Xeon E5-2660 V3,149.94,10,2.6,3.3,105,,true
+AMD A6-7400K,89.99,2,3.5,3.9,65,Radeon R5 (on die),false
+Intel Core i5-5675C,,4,3.1,3.6,65,Iris Pro Graphics 6200,false
+Intel Core i9-9820X,,10,3.3,4.1,165,,true
+Intel Core i3-9350KF,256.06,4,4,4.6,91,,false
+Intel Core i9-10900K,,10,3.7,5.3,125,Intel UHD Graphics 630,true
+AMD A10-5700,72.51,4,3.4,,65,Radeon HD 7660D,false
+Intel Xeon E5-2630 V4,409,10,2.2,3.1,85,,true
+Intel Xeon E-2278G,,8,3.4,5,80,Intel HD Graphics P630,true
+Intel Core i7-4790T,179.88,4,2.7,3.9,45,,true
+AMD FX-4300,,4,3.8,,95,,false
+Intel Xeon E5-2667 V2,,8,3.3,4,130,,true
+Intel Core i5-8600T,,6,2.3,3.7,35,Intel UHD Graphics 630,false
+Intel Core i5-10600K,,6,4.1,4.8,125,Intel UHD Graphics 630,true
+Intel Xeon E5-1650 V3,,6,3.5,3.8,140,,true
+Intel Core i5-2310,,4,2.9,,95,Intel HD Graphics 2000,false
+Intel Xeon E5-2680 V3,,12,2.5,3.3,120,,true
+AMD Opteron 6378,,16,2.4,3.3,115,,false
+Intel Core i3-8300,,4,3.7,,62,Intel UHD Graphics 630,false
+Intel Core i3-9100T,,4,3.1,3.7,35,Intel UHD Graphics 630,false
+Intel Core i5-4590T,,4,2,,35,Intel HD Graphics 4000,true
+Intel Pentium G3420,51.14,2,3.2,,54,Intel HD Graphics,false
+AMD FX-8370,283.33,8,4,4.3,125,,false
+Intel Pentium E5300,59.49,2,2.6,,65,,false
+Intel Core i7-880,,4,3.06,,95,,true
+Intel Core i7-4771,,4,3.5,3.9,84,Intel HD Graphics 4600,true
+AMD FX-9590,,8,4.7,5,220,,false
+Intel Xeon E5-2670 V2,,10,2.5,3.3,115,,true
+Intel Core i5-4690S,,4,3.2,3.9,65,Intel HD Graphics 4600,false
+Intel Core i9-9900X,1229.95,10,3.5,4.4,165,,true
+Intel Core i5-9600K,,6,3.7,4.6,95,Intel UHD Graphics 630,false
+AMD Athlon X4 750K,,4,3.4,,100,,false
+Intel Core i5-7600,,4,3.5,4.1,65,Intel HD Graphics 630,false
+Intel Xeon E3-1220 V2,,4,3.1,,69,,false
+Intel Core i3-6100T,,2,3.2,,35,Intel HD Graphics 530,true
+AMD Athlon 200GE,,2,3.2,,35,Radeon Vega 3,true
+Intel Core 2 Extreme QX9650,148.01,4,3,,130,,false
+Intel Core i9-9940X,1205.04,14,3.3,4.4,165,,true
+Intel Core i3-4340,60,2,3.6,,54,Intel HD Graphics 4600,true
+Intel Core i9-9960X,1399.99,16,3.1,4.4,165,,true
+Intel Core i7-2600S,355.29,4,2.8,,65,Intel HD Graphics 2000,true
+Intel Core i7-5820K,,6,3.3,3.6,140,,true
+Intel Pentium E6600,50,2,3.06,,65,,false
+Intel Core i7-975 Extreme Edition,,4,3.33,,130,,true
+Intel Core i7-970,,6,3.2,,130,,true
+AMD FX-8350,,8,4,,125,,false
+AMD Ryzen 7 1800X,,8,3.6,4,95,,true
+Intel Core i9-9900X,,10,3.5,4.4,165,,true
+Intel Xeon E3-1240 V2,345,4,3.4,,69,,true
+Intel Xeon E3-1275 V2,374,4,3.5,,77,Intel HD Graphics P4000,true
+Intel Core i5-4690,147.91,4,3.5,3.9,84,Intel HD Graphics 4600,false
+Intel Core i3-3225,,2,3.3,,55,Intel HD Graphics 4000,true
+AMD A4-5300,,2,3.4,,65,Radeon HD 7480D,false
+Intel Core i3-3210,70,2,3.2,,55,Intel HD Graphics 2500,true
+Intel Core i7-4790K,,4,4,4.4,88,Intel HD Graphics 4600,true
+Intel Xeon E5-1650 V2,452.66,6,3.5,3.9,130,,true
+Intel Xeon E5-2609,57.99,4,2.4,,80,,false
+Intel Xeon E5-2643 V4,121.55,6,3.4,3.7,135,,true
+Intel Pentium Gold G5420,131.97,2,3.8,,54,Intel UHD Graphics 610,true
+Intel Core i7-930,257.27,4,2.8,,130,,true
+Intel Pentium G3220,,2,3,,54,Intel HD Graphics,false
+Intel Core i5-7500T,250,4,2.7,3.3,35,Intel HD Graphics 630,false
+Intel Xeon E-2176G,,6,3.7,4.7,80,Intel HD Graphics P630,true
+AMD A10-6700,83.22,4,3.7,,65,Radeon HD 8670D,false
+AMD A10-5800K,82.51,4,3.8,,100,Radeon HD 7660D,false
+AMD Phenom II X4 945,,4,3,,125,,false
+AMD Phenom II X6 1055T,,6,2.8,,125,,false
+Intel Core 2 Duo E4300,,2,1.8,,65,,false
+Intel Core i3-2130,,2,3.4,,65,Intel HD Graphics 2000,true
+AMD A8-5500,,4,3.2,,65,Radeon HD 7560D,false
+Intel Xeon E5-2630L V3,410,8,1.8,2.9,55,,true
+Intel Xeon E5-2650 V3,,10,2.3,3,105,,true
+Intel Xeon E-2286G,769.99,6,4,4.9,95,Intel HD Graphics P630,true
+Intel Xeon E3-1245 V6,625,4,3.7,4.1,73,Intel HD Graphics P630,true
+Intel Xeon E5-2660 V2,,10,2.2,3,95,,true
+Intel Core i3-6300T,90.03,2,3.3,,35,Intel HD Graphics 530,true
+Intel Xeon E3-1225 V5,295,4,3.3,3.7,80,Intel HD Graphics P530,false
+Intel Core i3-7100T,105.97,2,3.4,,35,Intel HD Graphics 630,true
+Intel Core i7-860S,100,4,2.53,,82,,true
+Intel Xeon E3-1271 V3,,4,3.6,4,80,,true
+Intel Core i5-8400T,,6,1.7,3.3,35,Intel UHD Graphics 630,false
+AMD Threadripper 2990WX,,32,3,4.2,250,,true
+Intel Core 2 Quad Q8400,149.99,4,2.66,,95,,false
+Intel Core i7-965 Extreme Edition,798.95,4,3.2,,130,,true
+Intel Core i5-6400T,,4,2.2,2.8,35,Intel HD Graphics 530,false
+Intel Xeon E5-1620 V4,152.63,4,3.5,3.8,140,,true
+Intel Core i7-6800K,355.86,6,3.4,3.6,140,,true
+Intel Core i3-8350K,,4,4,,91,Intel UHD Graphics 630,false
+Intel Core i7-980,505.02,6,3.333,,130,,true
+Intel Xeon E3-1270 V5,,4,3.6,4,80,,true
+Intel Core i5-3570S,,4,3.1,3.8,65,Intel HD Graphics 2500,false
+Intel Core i5-9400,,6,2.9,4.1,65,Intel UHD Graphics 630,false
+AMD A10-7870K,324.6,4,3.9,4.1,95,Radeon R7 (on-die),false
+Intel Celeron 440,49.99,1,2,,35,,false
+Intel Xeon E5-2650L,149.94,8,1.8,2.3,70,,true
+Intel Core i3-6320,165,2,3.9,,51,Intel HD Graphics 530,true
+Intel Core i7-6850K,,6,3.6,3.8,140,,true
+Intel Core 2 Quad Q6600,188,4,2.4,,100,,false
+AMD A8-6500,,4,3.5,,65,Radeon HD 8570D,false
+Intel Xeon E3-1225 V3,,4,3.2,3.6,84,Intel HD Graphics P4600,false
+Intel Xeon E3-1246 V3,,4,3.5,3.9,84,Intel HD Graphics P4600,true
+Intel Xeon E5-1620 V2,,4,3.7,3.9,130,,true
+AMD A6-7480,,2,3.5,3.8,65,Radeon R5 (on die),false
+AMD Athlon 3000G (14nm),,2,3.5,,35,Radeon Vega 3,true
+Intel Core i3-560,60,2,3.333,,73,Intel HD Graphics,true
+Intel Xeon E3-1245 V2,367.5,4,3.4,,77,Intel HD Graphics P4000,true
+Intel Core i3-7320,100,2,4.1,,51,Intel HD Graphics 630,true
+Intel Celeron 430,64.77,1,1.8,,35,,false
+Intel Core 2 Duo E6400,35,2,2.13,,65,,false
+AMD FX-4350,108.02,4,4.2,,125,,false
+Intel Xeon E3-1275 V6,362.84,4,3.8,4.2,73,Intel HD Graphics P630,true
+Intel Core i7-5775C,905,4,3.3,3.7,65,Iris Pro Graphics 6200,true
+Intel Xeon E5-2683 V3,,14,2,3,120,,true
+AMD Athlon 240GE,,2,3.5,,35,Radeon Vega 3,true
+Intel Core 2 Extreme QX6850,449.95,4,3,,130,,false
+AMD Phenom II X4 940 Black,,4,3,,125,,false
+Intel Core i5-2550K,,4,3.4,,95,,false
+AMD Phenom II X6 1045T,,6,2.7,,95,,false
+AMD A6-5400K,,2,3.6,,65,Radeon HD 7540D,false
+AMD Athlon X4 760K,,4,3.8,4.1,100,,false
+Intel Xeon E5-2687W,,8,3.1,3.8,150,,true
+Intel Xeon E5-2680 V2,,10,2.8,3.6,115,,true
+AMD 3850,,4,1.3,,25,Radeon HD 8280,false
+Intel Xeon E5-1630 V3,,4,3.7,3.8,140,,true
+Intel Xeon E5-2420V2,,6,2.2,2.7,80,,true
+Intel Pentium Gold G5400T,98.95,2,3.1,,35,Intel UHD Graphics 610,true
+Intel Celeron G3920,489.95,2,2.6,,35,Intel HD Graphics 510,false
+Intel Core i7-870,229.95,4,2.93,,95,,true
+AMD A4-7300,,2,3.8,4,65,Radeon HD 8470D,false
+Intel Core i3-6100,209.95,2,3.7,,51,Intel HD Graphics 530,true
+Intel Xeon E3-1245 V5,474.39,4,3.5,3.9,80,Intel HD Graphics P530,true
+AMD Athlon II X2 250,,2,3,,65,,false
+Intel Pentium G620,,2,2.6,,65,Intel HD Graphics,false
+Intel Xeon E3-1270 V2,,4,3.5,,69,,true
+Intel Xeon E3-1235L V5,,4,2,3,25,Intel HD Graphics P530,false
+AMD Athlon X4 880K,,4,4,4.2,95,,false
+Intel Pentium G4560,,2,3.5,,54,Intel HD Graphics 610,true
+Intel Core i5-9500,,6,3,4.4,65,Intel UHD Graphics 630,false
+Intel Pentium G3250,65,2,3.2,,53,Intel HD Graphics,false
+Intel Pentium G4560T,,2,2.9,,35,Intel HD Graphics 610,true
+AMD A12-9800E,138.02,4,3.1,3.8,35,Radeon R7 (on-die),false
+Intel Core i5-8600,256.5,6,3.1,4.3,65,Intel UHD Graphics 630,false
+Intel Core 2 Quad Q9550,286.27,4,2.83,,95,,false
+AMD Phenom II X4 965,,4,3.4,,125,,false
+Intel Xeon E3-1225 V2,199.99,4,3.2,,77,Intel HD Graphics P4000,false
+AMD A4-4000,,2,3,,65,Radeon HD 7480D,false
+Intel Xeon E3-1275 V3,,4,3.5,3.9,84,Intel HD Graphics P4600,true
+Intel Core i3-3245,80,2,3.4,,55,Intel HD Graphics 4000,true
+Intel Xeon E5-1650,,6,3.2,3.8,130,,true
+AMD Phenom II X2 B59,,2,3.4,,80,,false
+AMD Athlon 5370,,4,2.2,,25,Radeon R3 (on die),false
+Intel Core i9-9960X,,16,3.1,4.4,165,,true
+Intel Core i3-9350K,,4,4,4.6,91,Intel HD Graphics 630,false
+Intel Pentium E2140,79.95,2,1.6,,65,,false
+Intel Core i5-4670S,534,4,3.1,3.8,65,Intel HD Graphics 4600,false
+AMD Opteron 6328,715.11,8,3.2,3.8,115,,false
+Intel Core i7-7820X,429.88,8,3.6,4.5,140,,true
+Intel Core i3-2105,60,2,3.1,,65,Intel HD Graphics 3000,true
+Intel Celeron G1840,,2,2.8,,53,Intel HD Graphics,false
+Intel Xeon E5-2643 V3,549.95,6,3.4,3.7,135,,true
+Intel Core i7-6900K,299.88,8,3.2,3.7,140,,true
+Intel Pentium G630,37.49,2,2.7,,65,Intel HD Graphics,false
+Intel Xeon E3-1240 V3,,4,3.4,3.8,80,,true
+Intel Xeon E5-2690,,8,2.9,3.8,135,,true
+Intel Xeon E5-2695 V3,,14,2.3,3.3,120,,true
+Intel Core i7-7800X,,6,3.5,4,140,,true
+Intel Core i5-3330S,229.95,4,2.7,3.2,65,Intel HD Graphics 2500,false
+Intel Xeon E5-2670,184.91,8,2.6,3.3,115,,true
+Intel Pentium E2200,,2,2.2,,65,,false
+AMD FX-9370,,8,4.4,4.7,220,,false
+Intel Xeon E3-1265L V3,398.95,4,2.5,3.7,45,Intel HD Graphics,true
+Intel Xeon E-2274G,1081,4,4,4.9,83,Intel HD Graphics P630,true
+AMD Phenom II X4 955 Black,,4,3.2,,125,,false
+Intel Core 2 Quad Q9400,,4,2.66,,95,,false
+AMD A8-3850,,4,2.9,,100,Radeon HD 6550D,false
+Intel Xeon E5-4650,,8,2.7,3.3,130,,true
+Intel Xeon E5-2650L V2,,10,1.7,2.1,70,,true
+Intel Core i7-5930K,,6,3.5,3.7,140,,true
+Intel Core i5-4570S,,4,2.9,,65,Intel HD Graphics 4600,false
+Intel Xeon E-2176G,,6,3.7,4.7,80,Intel HD Graphics P630,true
+Intel Xeon E3-1285 V6,949.95,4,4.1,4.5,79,Intel HD Graphics 630,true
+AMD A4-6300B,49.95,2,3.7,3.9,65,Radeon HD 8370D,false
+Intel Xeon E3-1240 V5,,4,3.5,3.9,80,,true
+Intel Xeon E3-1220 V5,354.97,4,3,3.5,80,,false
+Intel Core i7-875K,205.86,4,2.93,,95,,true
+Intel Xeon E3-1230,417.95,4,3.2,,80,,true
+Intel Xeon E5-2603 V3,99.24,6,1.6,,85,,false
+Intel Xeon E3-1220 V6,389.95,4,3,3.5,72,,false
+Intel Core 2 Duo E8400,76.98,2,3,,65,,false
+Intel Pentium E5800,,2,3.2,,65,,false
+Intel Xeon E5-1620,,4,3.6,3.8,130,,true
+AMD FX-8370E,,8,3.3,4.3,95,,false
+AMD A10-7860k,,4,3.6,4,65,Radeon R7 (on-die),false
+Intel Core i3-7300,,2,4,,51,Intel HD Graphics 630,true
+AMD Threadripper 2950X,,16,3.5,4.4,180,,true
+Intel Core i5-9400T,,6,1.8,3.4,35,Intel UHD Graphics 630,false
+Intel Xeon E-2276G,684.64,6,3.8,4.9,80,Intel HD Graphics P630,true
+Intel Xeon E5-2687W V2,,8,3.4,4,150,,true
+Intel Xeon E3-1230 V6,350.8,4,3.5,3.9,72,,true
+Intel Xeon E-2236,424.42,6,3.4,4.8,80,,true
+Intel Xeon E5-2665,445.78,8,2.4,3.1,115,,true
+Intel Core i3-6100T,289.95,2,3.2,,35,Intel HD Graphics 530,true
+Intel Pentium E2160,49,2,1.8,,65,,false
+Intel Core 2 Duo E4600,,2,2.4,,65,,false
+AMD Phenom II X6 1075T,,6,3,,95,,false
+AMD A6-3650,,4,2.6,,100,Radeon HD 6530D,false
+Intel Pentium G630T,75,2,2.3,,35,Intel HD Graphics,false
+Intel Xeon E3-1220,115,4,3.1,,80,,false
+Intel Xeon E5-1680 V3,,8,3.2,3.8,140,,true
+AMD Athlon X4 840,,4,3.1,3.8,65,,false
+Intel Xeon E5-2650L V3,,12,1.8,2.5,65,,true
+Intel Core i3-3240,,2,3.4,,55,Intel HD Graphics 2500,true
+Intel Core i7-4770T,,4,2.5,,45,Intel HD Graphics 4600,true
+Intel Core i7-6700T,,4,2.8,3.6,35,Intel HD Graphics 530,true
+Intel Core i5-9600T,,6,2.3,3.9,35,Intel UHD Graphics 630,false
+Intel Xeon E-2246G,,6,3.6,4.8,80,Intel HD Graphics P630,true
+Intel Core 2 Quad Q9505,249.95,4,2.83,,95,,false
+Intel Xeon E3-1275,376.99,4,3.4,,95,Intel HD Graphics,true
+AMD Opteron 6320,235.6,8,2.8,3.3,115,,false
+Intel Xeon E5-2470V2,529.95,10,2.4,3.2,95,,true
+AMD Athlon II X4 635,58.02,4,2.9,,95,,false
+Intel Core i3-3220T,120,2,2.8,,35,Intel HD Graphics 2500,true
+Intel Celeron 420,,1,1.6,,35,,false
+AMD Phenom II X4 925,,4,2.8,,95,,false
+Intel Core 2 Duo E6550,,2,2.33,,65,,false
+Intel Core 2 Quad Q6700,,4,2.66,,100,,false
+AMD Athlon II X2 270,,2,3.4,,65,,false
+AMD FX-4130,,4,3.8,,125,,false
+Intel Pentium G3240,,2,3.1,,53,Intel HD Graphics,false
+Intel Xeon E5-2670 V3,,12,2.3,3.1,120,,true
+AMD Athlon X4 860K,,4,3.7,4,95,,false
+Intel Core i5-3570,,4,3.4,,77,Intel HD Graphics 2500,false
+AMD Threadripper 2920X,,12,3.5,4.3,180,,true
+AMD Threadripper 2970WX,,24,3,4.2,250,,true
+Intel Core i7-9800X,,8,3.8,4.5,165,,true
+AMD Athlon 220GE,,2,3.4,,35,Radeon Vega 3,true
+Intel Core i5-9400,,6,2.9,4.1,65,Intel UHD Graphics 630,false
+Intel Core i3-10325,,4,3.9,4.7,65,Intel UHD Graphics 630,true
+Intel Pentium E6500,95.71,2,2.93,,65,,false
+Intel Core 2 Extreme QX6700,605.64,4,2.66,,100,,false
+Intel Xeon E5-2620,77,6,2,,95,,true
+Intel Xeon E5-2623 V3,229.95,4,3,3.5,105,,true
+Intel Xeon E5-2609 V4,304.29,8,1.7,,85,,false
+Intel Core i3-7300T,125.36,2,3.5,,35,Intel HD Graphics 630,true
+Intel Celeron E1200,,2,1.6,,65,,false
+Intel Pentium E5200,,2,2.5,,65,,false
+Intel Core 2 Duo E6320,198.95,2,1.86,,65,,false
+Intel Core 2 Duo E8600,,2,3.33,,65,,false
+Intel Core i7-920,,4,2.66,,130,,true
+Intel Core 2 Quad Q8300,,4,2.5,,95,,false
+Intel Core i5-2405S,,4,2.5,,65,Intel HD Graphics 3000,false
+AMD A8-3870K,,4,3,,100,Radeon HD 6550D,false
+Intel Pentium G2120,52,2,3.1,,55,Intel HD Graphics,false
+AMD Athlon X4 740,,4,3.2,,65,,false
+Intel Xeon E3-1245 V3,,4,3.4,3.8,84,Intel HD Graphics P4600,true
+Intel Xeon E5-2640,93.99,6,2.5,3,95,,true
+AMD 5150,,4,1.6,,25,Radeon HD 8400,false
+Intel Core i3-4350,,2,3.6,,54,Intel HD Graphics 4600,true
+Intel Xeon E5-2697 V3,,14,2.6,3.6,145,,true
+Intel Core i3-7100T,110.2,2,3.4,,35,Intel HD Graphics 630,true
+Intel Xeon E5-2650L V4,,14,1.7,2.5,65,,true
+Intel Pentium Gold G5600,,2,3.9,,54,Intel UHD Graphics 630,true
+Intel Xeon E-2126G,843,6,3.3,4.5,80,Intel HD Graphics P630,false
+AMD Athlon II X3 435,159.94,3,2.9,,95,,false
+AMD A4-3300,89.95,2,2.5,,65,Radeon HD 6410D,false
+Intel Xeon E5-2695 V3,498.95,14,2.3,3.3,120,,true
+Intel Pentium G4400,,2,3.3,,54,Intel HD Graphics 510,false
+Intel Xeon E3-1240 V6,440.6,4,3.7,4.1,72,,true
+AMD Phenom II X2 555 Black,,2,3.2,,80,,false
+Intel Core 2 Duo E7400,,2,2.8,,65,,false
+Intel Core i5-750,398,4,2.66,,95,,false
+Intel Core 2 Quad Q9300,172,4,2.5,,95,,false
+AMD Sempron 145,,1,2.8,,45,,false
+AMD FX-6200,,6,3.8,,125,,false
+AMD Athlon II X4 641,,4,2.8,,100,,false
+Intel Pentium G645,83,2,2.9,,65,Intel HD Graphics 2500,false
+AMD A10-6790K,,4,4,4.3,100,Radeon HD 8670D,false
+Intel Xeon E5-2630 V2,,6,2.6,3.1,80,,true
+Intel Xeon E5-2640 V2,,8,2,2.5,95,,true
+AMD A6-6420K,,2,4,4.2,65,Radeon HD 8000 Series,false
+Intel Core i3-4360,,2,3.7,,54,Intel HD Graphics 4600,true
+Intel Pentium G3450,,2,3.4,,53,Intel HD Graphics,false
+AMD A4-4000,,2,3,,65,Radeon HD 7480D,false
+Intel Xeon E5-1660 V2,,6,3.7,4,130,,true
+AMD Sempron X2 250,,2,3.2,3.6,65,,false
+Intel Xeon E5-2637 V3,470.62,4,3.5,3.7,135,,true
+Intel Xeon E5-2640 V3,329.95,8,2.6,3.4,90,,true
+AMD Opteron 6378,,16,2.4,3.3,115,,false
+Intel Pentium G3260,,2,3.3,,53,Intel HD Graphics,false
+AMD Athlon X4 870K,,4,3.9,4.1,95,,false
+Intel Xeon E5-2430V2,,6,2.5,3,80,,true
+Intel Core i9-7960X,,16,2.8,4.4,165,,true
+AMD Athlon 240GE,,2,3.5,,35,Radeon Vega 3,true
+Intel Celeron 440,34.99,1,2,,35,,false
+Intel Core 2 Duo E6700,189.95,2,2.66,,65,,false
+AMD A6-3670K,,4,2.7,,100,Radeon HD 6530D,false
+Intel Xeon E3-1226 V3,,4,3.3,3.7,84,Intel HD Graphics P4600,false
+Intel Core i3-9320,,4,3.7,4.4,62,,false
+AMD Athlon II X2 215,,2,2.7,,65,,false
+AMD Phenom II X2 550 Black,,2,3.1,,80,,false
+AMD Athlon II X2 260u,,2,1.8,,25,,false
+Intel Pentium E2200,54,2,2.2,,65,,false
+Intel Core 2 Duo E4400,108,2,2,,65,,false
+Intel Core 2 Duo E6750,,2,2.66,,65,,false
+Intel Core 2 Duo E8500,,2,3.16,,65,,false
+Intel Core 2 Duo E8500,,2,3.16,,65,,false
+Intel Core i5-680,,2,3.6,,73,Intel HD Graphics,true
+Intel Core i7-860,198.25,4,2.8,,95,,true
+Intel Core 2 Quad Q8200,,4,2.33,,95,,false
+AMD Phenom II X4 840,,4,3.2,,95,,false
+AMD Phenom II X4 960T Black,,4,3,,95,,false
+AMD FX-8120,,8,3.1,,125,,false
+AMD FX-4170,,4,4.2,,125,,false
+Intel Xeon E3-1265L V2,,4,2.5,,45,Intel HD Graphics 2500,true
+Intel Xeon E5-2643 V2,398.95,6,3.5,3.8,130,,true
+Intel Core i7-5960X,,8,3,3.5,140,,true
+Intel Core i7-7700T,,4,2.9,3.8,35,Intel HD Graphics 630,true
+Intel Xeon E3-1245 V6,589.95,4,3.7,4.1,73,Intel HD Graphics P630,true
+Intel Core i9-7940X,,14,3.1,4.4,165,,true
+Intel Core i5-9500F,,6,3,4.4,65,,false
+Intel Core i3-9350K,,4,4,4.6,91,Intel HD Graphics 630,false
+Intel Xeon E-2146G,962.69,6,3.5,4.5,80,Intel HD Graphics P630,true
+Intel Pentium G4620,229.88,2,3.7,,51,Intel HD Graphics 630,true
+Intel Xeon E5-2620 V2,,6,2.1,2.6,80,,true
+Intel Core i5-7600T,229.95,4,2.8,3.7,35,Intel HD Graphics 630,false
+Intel Core i9-9920X,,12,3.5,4.4,165,,true
+Intel Xeon E-2104G,579.02,4,3.2,,65,Intel HD Graphics P630,false
+AMD Phenom II X3 720,,3,2.8,,95,,false
+Intel Celeron E1600,,2,2.4,,65,,false
+Intel Pentium E2180,,2,2,,65,,false
+Intel Celeron E3400,,2,2.6,,65,,false
+Intel Pentium E5500,,2,2.8,,65,,false
+Intel Core 2 Duo E7200,80.98,2,2.53,,65,,false
+Intel Core 2 Quad Q9650,,4,3,,95,,false
+AMD Athlon II X3 450,,3,3.2,,95,,false
+AMD Phenom II X2 560 Black,,2,3.3,,80,,false
+Intel Core i3-2100T,,2,2.5,,35,Intel HD Graphics 2000,true
+AMD Sempron 140,,1,2.7,,45,,false
+Intel Pentium E6800,,2,3.333,,65,,false
+AMD Phenom II X4 830,59.58,4,2.8,,95,,false
+Intel Core i5-2450P,,4,3.2,,95,,false
+AMD A4-3400,134.09,2,2.7,,65,Radeon HD 6410D,false
+Intel Celeron G555,,2,2.7,,65,Intel HD Graphics,false
+Intel Core i5-3340S,,4,2.8,3.3,65,Intel HD Graphics 2500,false
+AMD FX-9590,,8,4.7,5,220,,false
+Intel Xeon E5-2603 V2,,4,1.8,,80,,false
+AMD FX-4100,,4,3.6,,95,,false
+Intel Xeon E5-2690,,8,2.9,3.8,135,,true
+Intel Xeon E5-1620 V3,,4,3.5,3.6,140,,true
+Intel Xeon E5-2687W V3,,10,3.1,3.5,160,,true
+AMD Phenom II X6 1065T,,6,2.7,,95,,false
+Intel Xeon E3-1270 V3,,4,3.5,3.9,80,,true
+Intel Core i5-6500T,,4,2.5,3.1,35,Intel HD Graphics 530,false
+Intel Xeon E3-1275 V5,,4,3.6,4,80,Intel HD Graphics P530,true
+Intel Core i7-6950X,,10,3,3.5,140,,true
+Intel Pentium G4620,,2,3.7,,51,Intel HD Graphics 630,true
+Intel Core i3-7300,,2,4,,51,Intel HD Graphics 630,true
+AMD A8-7650K,,4,3.3,3.7,95,Radeon R7 (on-die),false
+Intel Xeon E3-1225 V6,549.95,4,3.3,3.7,73,Intel HD Graphics P630,false
+Intel Core i5-3550S,,4,3,3.7,65,Intel HD Graphics 2500,false
+Intel Core i3-9300,,4,3.7,4.3,62,Intel UHD Graphics 630,false
+Intel Core i5-9600,,6,3.1,4.6,65,Intel UHD Graphics 630,false
+Intel Xeon E-2244G,,4,3.8,4.8,71,Intel HD Graphics P630,true
+Intel Celeron G5925,,2,3.6,,58,Intel UHD Graphics 610,false
+Intel Pentium G2140,45,2,3.3,,55,Intel HD Graphics,false
+AMD A6-7470K,89,2,3.7,4,65,Radeon R5 (on die),false
+Intel Xeon E-2174G,535.27,4,3.8,4.7,71,Intel HD Graphics P630,true
+Intel Xeon E-2174G,,4,3.8,4.7,71,Intel HD Graphics P630,true
+AMD Athlon II X4 620,59.49,4,2.6,,95,,false
+Intel Core i3-2125,152,2,3.3,,65,Intel HD Graphics 3000,true
+Intel Xeon E3-1235,219,4,3.2,,95,Intel HD Graphics,true
+Intel Xeon E3-1225 V5,,4,3.3,3.7,80,Intel HD Graphics P530,false
+Intel Pentium G4600,64.59,2,3.6,,51,Intel HD Graphics 630,true
+Intel Core i9-7920X,,12,2.9,4.4,140,,true
+AMD Athlon II X2 220,,2,2.8,,65,,false
+Intel Celeron 420,,1,1.6,,35,,false
+AMD Athlon II X2 240e,,2,2.8,,45,,false
+AMD Phenom II X4 955 Black,,4,3.2,,125,,false
+Intel Celeron E1400,,2,2,,65,,false
+Intel Core 2 Duo E8400,,2,3,,65,,false
+Intel Core i5-670,127.01,2,3.46,,73,Intel HD Graphics,true
+AMD Phenom II X4 980 Black,,4,3.7,,125,,false
+AMD Phenom II X6 1035T,,6,2.6,,95,,false
+AMD FX-8150,,8,3.6,,125,,false
+Intel Pentium G640T,84.88,2,2.4,,35,Intel HD Graphics,false
+Intel Celeron G465,,2,1.9,,35,Intel HD Graphics,false
+AMD A10-5700,,4,3.4,,65,Radeon HD 7660D,false
+AMD FX-8300,,8,3.3,,95,,false
+Intel Xeon E3-1240,,4,3.3,,80,,true
+Intel Xeon E3-1245,245,4,3.3,,95,Intel HD Graphics,true
+Intel Xeon E3-1280,,4,3.5,,95,,true
+Intel Xeon E3-1275 V2,,4,3.5,,77,Intel HD Graphics P4000,true
+Intel Xeon E5-1660,,6,3.3,3.9,130,,true
+AMD Sempron 145,,1,2.8,,45,,false
+AMD A10-6800B,,4,4.1,4.4,100,Radeon HD 8670D,false
+AMD A4-6300,,2,3.7,3.9,65,Radeon HD 8370D,false
+AMD E2-3200,,2,2.4,,65,Radeon HD 6370D,false
+Intel Core i3-4160T,,2,3.1,,35,Intel HD Graphics 4400,true
+Intel Core i3-4370,,2,3.8,,54,Intel HD Graphics 4600,true
+Intel Xeon E3-1276 V3,,4,3.6,4,84,Intel HD Graphics P4600,true
+Intel Xeon E3-1230 V3,,4,3.3,3.7,80,,true
+AMD FX-8320E,,8,3.2,4,95,,false
+AMD FX-8370,,8,4,4.3,125,,false
+Intel Xeon E5-2630 V3,459,8,2.4,3.2,85,,true
+Intel Xeon E5-2680 V3,,12,2.5,3.3,120,,true
+Intel Xeon E5-2603 V2,153.01,4,1.8,,80,,false
+Intel Core i7-3770T,,4,2.5,3.7,45,Intel HD Graphics 4000,true
+Intel Xeon E3-1245 V3,,4,3.4,3.8,84,Intel HD Graphics P4600,true
+Intel Pentium G3470,94,2,3.6,,53,Intel HD Graphics,false
+Intel Core i5-6600T,,4,2.7,3.5,35,Intel HD Graphics 530,false
+Intel Xeon E3-1270 V5,,4,3.6,4,80,,true
+Intel Core i7-6800K,,6,3.4,3.6,140,,true
+Intel Core i7-6900K,,8,3.2,3.7,140,,true
+Intel Celeron G3930,182.81,2,2.9,,51,Intel HD Graphics 610,false
+Intel Core i5-7400T,,4,2.4,3,35,Intel HD Graphics 630,false
+AMD A6-9550,,2,3.8,4,65,Radeon R5 (on die),false
+Intel Core i3-8300,,4,3.7,,62,Intel UHD Graphics 630,false
+Intel Core i3-8300T,,4,3.2,,35,Intel UHD Graphics 630,false
+Intel Pentium Gold G5500,,2,3.8,,54,Intel UHD Graphics 630,true
+Intel Pentium Gold G5500T,,2,3.2,,35,Intel UHD Graphics 630,true
+Intel Core i5-9500F,,6,3,4.4,65,,false
+Intel Xeon E-2144G,,4,3.6,4.5,71,Intel HD Graphics P630,true
+AMD Phenom II X4 975,172.56,4,3.6,,125,,false
+Intel Core i3-7350K,,2,4.2,,60,Intel HD Graphics 630,true
+Intel Pentium G3460,54.49,2,3.5,,53,Intel HD Graphics,false
+AMD Opteron 6328,715.11,8,3.2,3.8,115,,false
+Intel Core i5-7640X,225.4,4,4,4.2,112,,false
+Intel Xeon E3-1230 V6,595.49,4,3.5,3.9,72,,true
+Intel Xeon E3-1270 V6,719.95,4,3.8,4.2,72,,true
+AMD A6-9500E,,2,3,3.4,35,Radeon R5 (on die),false
+AMD Athlon II X2 260,,2,3.2,,65,,false
+Intel Pentium E2140,,2,1.6,,65,,false
+Intel Core 2 Duo E4500,,2,2.2,,65,,false
+Intel Core 2 Duo E4600,104.04,2,2.4,,65,,false
+Intel Pentium E5300,79.4,2,2.6,,65,,false
+Intel Core 2 Duo E6320,,2,1.86,,65,,false
+Intel Core 2 Duo E6400,129.94,2,2.13,,65,,false
+Intel Core 2 Duo E7600,169.95,2,3.06,,65,,false
+Intel Pentium G6950,55.01,2,2.8,,73,Intel HD Graphics,false
+Intel Core i5-655K,,2,3.2,,73,Intel HD Graphics,true
+Intel Core i5-660,255.29,2,3.33,,73,Intel HD Graphics,true
+Intel Core i5-750S,125,4,2.4,,82,,false
+Intel Core i7-930,,4,2.8,,130,,true
+Intel Core 2 Quad Q9450,,4,2.66,,95,,false
+AMD Athlon II X4 610e,,4,2.4,,45,,false
+AMD Phenom II X4 970 Black,,4,3.5,,125,,false
+AMD Phenom II X4 975,,4,3.6,,125,,false
+AMD Phenom II X4 840,,4,3.2,,95,,false
+Intel Pentium G850,,2,2.9,,65,Intel HD Graphics,false
+AMD A6-3500,,3,2.1,,65,Radeon HD 6530D,false
+AMD FX-8150,,8,3.6,,125,,false
+Intel Xeon E3-1270,,4,3.4,,80,,true
+Intel Celeron G1820,,2,2.7,,53,Intel HD Graphics,false
+Intel Celeron G1830,,2,2.8,,53,Intel HD Graphics,false
+Intel Xeon E5-2609 V2,,4,2.5,,80,,false
+AMD Sempron 150,,1,2.9,,45,,false
+AMD FX-4200,,4,3.3,,125,,false
+AMD Athlon X4 860K,,4,3.7,4,95,,false
+AMD FX-8310,,8,3.4,4.3,95,,false
+Intel Xeon E3-1230 V5,,4,3.4,3.8,80,,true
+Intel Xeon E3-1220 V5,399.99,4,3,3.5,80,,false
+Intel Core i3-7101TE,,2,3.4,,35,Intel HD Graphics 610,true
+Intel Core i7-7820X,,8,3.6,4.5,140,,true
+Intel Xeon E3-1275 V6,,4,3.8,4.2,73,Intel HD Graphics P630,true
+Intel Xeon E-2134,747.53,4,3.5,4.5,71,,true
+Intel Pentium Gold G6600,,2,4.2,,58,Intel UHD Graphics 630,true
+Intel Pentium E5300,79.4,2,2.6,,65,,false
+Intel Xeon E5-2603,98.95,4,1.8,,80,,false
+Intel Pentium G3460,64.48,2,3.5,,53,Intel HD Graphics,false
+Intel Xeon E-2134,,4,3.5,4.5,71,,true
+AMD Phenom II X4 810,,4,2.6,,95,,false
+AMD Phenom II X6 1055T,,6,2.8,,125,,false
+AMD Athlon II X2 235e,,2,2.7,,45,,false
+AMD Athlon II X2 250u,,2,1.6,,25,,false
+Intel Pentium E2220,,2,2.4,,65,,false
+Intel Core 2 Duo E4300,70,2,1.8,,65,,false
+Intel Core 2 Duo E6420,149.94,2,2.13,,65,,false
+Intel Core 2 Quad Q8300,,4,2.5,,95,,false
+Intel Core 2 Quad Q8400S,,4,2.66,,65,,false
+Intel Core 2 Quad Q9505,,4,2.83,,95,,false
+Intel Core 2 Quad Q9550S,,4,2.83,,65,,false
+Intel Core 2 Extreme X6800,,2,2.93,,75,,false
+AMD Athlon II X4 645,,4,3.1,,95,,false
+AMD Athlon II X3 455,,3,3.3,,95,,false
+AMD Athlon II X2 245,,2,2.9,,65,,false
+AMD Athlon II X4 630,,4,2.8,,95,,false
+Intel Pentium G620T,,2,2.2,,35,Intel HD Graphics,false
+Intel Celeron G540,69.98,2,2.5,,65,Intel HD Graphics,false
+Intel Celeron G530,49.88,2,2.4,,65,Intel HD Graphics,false
+AMD Athlon II X2 260,,2,3.2,,65,,false
+Intel Pentium G870,77,2,3.1,,65,Intel HD Graphics,false
+Intel Xeon E3-1280,,4,3.5,,95,,true
+Intel Celeron G1630,,2,2.8,,55,Intel HD Graphics,false
+AMD FX-4130,,4,3.8,,125,,false
+AMD 5150,,4,1.6,,25,Radeon HD 8400,false
+AMD 5350,,4,2.05,,25,Radeon HD 8400,false
+Intel Pentium G3258,,2,3.2,,53,Intel HD Graphics,false
+AMD A10-6800K,,4,4.1,,100,Radeon HD 8670D,false
+AMD A10-7850K,,4,3.7,4,95,Radeon R7 (on-die),false
+Intel Celeron G470,,1,2,,35,Intel HD Graphics,true
+AMD FX-8120,,8,3.1,,125,,false
+AMD FX-8140,,8,3.2,4.1,95,,false
+Intel Xeon E5-2630L V2,,6,2.4,,60,,true
+Intel Xeon E5-2637 V2,,4,3.5,3.8,130,,true
+AMD A8-7600,,4,3.1,3.8,65,Radeon R7 (on-die),false
+AMD Pro A4-7300B,,2,3.8,4,65,Radeon HD 8470D,false
+Intel Core i5-4570S,,4,2.9,,65,Intel HD Graphics 4600,false
+AMD A10-7870K,,4,3.9,4.1,95,Radeon R7 (on-die),false
+Intel Core i5-5675C,,4,3.1,3.6,65,Iris Pro Graphics 6200,false
+Intel Pentium G4520,,2,3.6,,51,Intel HD Graphics 530,false
+Intel Pentium G4400T,,2,2.9,,35,Intel HD Graphics 510,false
+Intel Pentium G4500T,,2,3,,35,Intel HD Graphics 530,false
+Intel Xeon E3-1260L V5,,4,2.9,3.9,45,,true
+AMD A6-7470K,,2,3.7,4,65,Radeon R5 (on die),false
+Intel Xeon E5-2603 V4,449.95,6,1.7,,85,,false
+Intel Celeron G3950,,2,3,,51,Intel HD Graphics 610,false
+Intel Core i3-7300T,125.36,2,3.5,,35,Intel HD Graphics 630,true
+Intel Core i5-7600T,,4,2.8,3.7,35,Intel HD Graphics 630,false
+Intel Core i5-7640X,,4,4,4.2,112,,false
+AMD A8-7670K,,4,3.6,3.9,95,Radeon R7 (on-die),false
+Intel Xeon E5-2450V2,,8,2.5,3.3,95,,true
+Intel Xeon E3-1240 V6,498.95,4,3.7,4.1,72,,true
+AMD Athlon X4 970,,4,3.8,4,65,,false
+AMD Athlon X4 940,,4,3.2,3.6,65,,false
+Intel Core i9-9820X,,10,3.3,4.1,165,,true
+Intel Xeon E5-2660,,8,2.2,3,95,,true
+Intel Xeon E5-2660,,8,2.2,3,95,,true
+Intel Xeon E5-2620,139.94,6,2,,95,,true
+Intel Xeon E-2274G,,4,4,4.9,83,Intel HD Graphics P630,true
+Intel Xeon E-2124,,4,3.3,4.3,71,,false
+Intel Pentium G3430,61.57,2,3.3,,54,Intel HD Graphics,false
+Intel Pentium G3470,61.57,2,3.6,,53,Intel HD Graphics,false
+Intel Core 2 Duo E6850,98.95,2,3,,65,,false
+AMD Pro A10-7850B,152.77,4,3.7,4,95,Radeon R7 (on-die),false
+AMD Athlon II X2 240,,2,2.8,,65,,false
+AMD Athlon II X3 425,,3,2.7,,95,,false
+Intel Celeron 430,,1,1.8,,35,,false
+AMD Phenom II X2 550,,2,3.1,,80,,false
+AMD Athlon II X4 630,,4,2.8,,95,,false
+AMD Athlon II X4 635,,4,2.9,,95,,false
+AMD Phenom II X4 805,,4,2.5,,95,,false
+AMD Athlon II X2 245e,,2,2.9,,45,,false
+Intel Pentium E2140,,2,1.6,,65,,false
+Intel Pentium E2180,,2,2,,65,,false
+Intel Celeron E3200,,2,2.4,,65,,false
+Intel Celeron E3300,64.79,2,2.5,,65,,false
+Intel Core 2 Duo E4500,,2,2.2,,65,,false
+Intel Core 2 Duo E6850,,2,3,,65,,false
+Intel Core 2 Duo E7500,,2,2.93,,65,,false
+Intel Core 2 Duo E7600,,2,3.06,,65,,false
+Intel Core 2 Duo E8200,,2,2.66,,65,,false
+Intel Core 2 Duo E8200,,2,2.66,,65,,false
+Intel Core 2 Duo E8300,119.95,2,2.83,,65,,false
+Intel Core i5-750S,,4,2.4,,82,,false
+Intel Core 2 Quad Q8300,,4,2.5,,95,,false
+Intel Core 2 Quad Q9400S,,4,2.66,,65,,false
+Intel Core 2 Quad Q9450,,4,2.66,,95,,false
+Intel Core 2 Quad Q9550,,4,2.83,,95,,false
+AMD Phenom II X2 545,,2,3,,80,,false
+Intel Pentium E6700,,2,3.2,,65,,false
+AMD Phenom II X3 720 Black,,3,2.8,,95,,false
+AMD Sempron 130,,1,2.6,,45,,false
+Intel Pentium G840,,2,2.8,,65,Intel HD Graphics,false
+AMD Phenom II X6 1100T Black,,6,3.3,,125,,false
+Intel Xeon E3-1225,,4,3.1,,95,Intel HD Graphics,false
+Intel Pentium G2130,,2,3.2,,55,Intel HD Graphics,false
+Intel Pentium G2010,,2,2.8,,55,Intel HD Graphics,false
+AMD FX-9370,,8,4.4,4.7,220,,false
+Intel Celeron G1850,,2,2.9,,53,Intel HD Graphics,false
+Intel Pentium G3440,,2,3.3,,53,Intel HD Graphics,false
+AMD A10-7800,,4,3.5,3.9,65,Radeon R7 (on-die),false
+AMD A10-7700K,,4,3.4,3.8,95,Radeon R7 (on-die),false
+AMD A4-3450,,2,2.9,,65,,false
+AMD FX-4320,,4,4,4.2,95,,false
+AMD FX-6130,,6,3.6,3.9,125,,false
+AMD Athlon II X4 638,,4,2.7,,65,,false
+Intel Xeon E5-2630,,6,2.3,,95,,true
+Intel Xeon E5-2687W,,8,3.1,3.8,150,,true
+AMD FX-8370E,,8,3.3,4.3,95,,false
+AMD Pro A8-7600B,,4,3.1,3.8,65,Radeon R7 (on-die),false
+AMD Pro A6-7400B,,2,3.5,3.9,65,Radeon R5 (on die),false
+AMD Phenom II X4 B99,,4,3.3,,95,,false
+Intel Pentium G3250,,2,3.2,,53,Intel HD Graphics,false
+Intel Pentium G3250T,,2,2.8,,35,Intel HD Graphics,false
+Intel Xeon E5-2650 V3,,10,2.3,3,105,,true
+Intel Xeon E5-2685 V3,,12,2.6,3.3,120,,true
+AMD Phenom II X6 1065T,,6,2.7,,95,,false
+AMD FX-8310,,8,3.4,4.3,95,,false
+Intel Xeon E5-2630 V2,,6,2.6,3.1,80,,true
+AMD A8-7670K,,4,3.6,3.9,95,Radeon R7 (on-die),false
+Intel Core i3-6320,,2,3.9,,51,Intel HD Graphics 530,true
+Intel Core i3-6300,,2,3.8,,51,Intel HD Graphics 530,true
+Intel Core i5-6400T,,4,2.2,2.8,35,Intel HD Graphics 530,false
+Intel Pentium G4500,,2,3.5,,51,Intel HD Graphics 530,false
+Intel Xeon E3-1240 V5,,4,3.5,3.9,80,,true
+Intel Xeon E3-1245 V5,399,4,3.5,3.9,80,Intel HD Graphics P530,true
+Intel Xeon E5-2658 V3,,12,2.2,2.9,105,,true
+Intel Core i3-7100T,,2,3.4,,35,Intel HD Graphics 630,true
+Intel Core i3-7300T,,2,3.5,,35,Intel HD Graphics 630,true
+Intel Core i5-7500T,,4,2.7,3.3,35,Intel HD Graphics 630,false
+Intel Core i9-7900X,,10,3.3,4.5,140,,true
+Intel Xeon E3-1220 V6,398.95,4,3,3.5,72,,false
+AMD A6-9550,,2,3.8,4,65,Radeon R5 (on die),false
+Intel Celeron G4920,,2,3.2,,65,Intel UHD Graphics 610,false
+Intel Pentium Gold G5500,,2,3.8,,54,Intel UHD Graphics 630,true
+Intel Core i3-9320,,4,3.7,4.4,62,,false
+Intel Xeon E-2136,811,6,3.3,4.5,80,,true
+Intel Xeon E-2124G,,4,3.4,4.5,71,Intel HD Graphics P630,false
+Intel Pentium G3240,,2,3.1,,53,Intel HD Graphics,false
+Intel Pentium G3420,,2,3.2,,54,Intel HD Graphics,false
+Intel Celeron G5905T,,2,3.3,,35,Intel UHD Graphics 610,false
+Intel Xeon E3-1280 V6,562,4,3.9,4.2,72,,true
+AMD Opteron 6320,249.01,8,2.8,3.3,115,,false
+Intel Xeon E-2146G,,6,3.5,4.5,80,Intel HD Graphics P630,true
+AMD Athlon II X2 245,,2,2.9,,65,,false
+AMD Athlon II X3 445,,3,3.1,,95,,false
+Intel Celeron 450,,1,2.2,,35,,false
+AMD Phenom II X2 545,,2,3,,80,,false
+AMD Athlon II X4 620,,4,2.6,,95,,false
+AMD Athlon II X4 635,,4,2.9,,95,,false
+AMD Phenom II X3 710,,3,2.6,,95,,false
+AMD Phenom II X4 910,,4,2.6,,95,,false
+AMD Phenom II X4 920,,4,2.8,,125,,false
+AMD Phenom II X4 945,,4,3,,125,,false
+AMD Phenom II X3 705e,,3,2.5,,65,,false
+AMD Phenom II X3 720 Black,,3,2.8,,95,,false
+AMD Phenom II X3 740 Black,,3,3,,95,,false
+AMD Phenom II X4 905e,,4,2.5,,65,,false
+AMD Phenom II X4 910e,,4,2.6,,65,,false
+AMD Phenom II X4 940 Black,,4,3,,125,,false
+AMD Phenom II X4 965 Black (140W),,4,3.4,,140,,false
+Intel Celeron E1500,,2,2.2,,65,,false
+Intel Pentium E2160,,2,1.8,,65,,false
+Intel Pentium E2160,,2,1.8,,65,,false
+Intel Pentium E2180,,2,2,,65,,false
+Intel Celeron E3300,,2,2.5,,65,,false
+Intel Core 2 Duo E4400,,2,2,,65,,false
+Intel Pentium E5400,,2,2.7,,65,,false
+Intel Pentium E5400,,2,2.7,,65,,false
+Intel Pentium E6500,,2,2.93,,65,,false
+Intel Core 2 Duo E6540,,2,2.33,,65,,false
+Intel Core 2 Duo E6550,,2,2.33,,65,,false
+Intel Core 2 Duo E6550,149.94,2,2.33,,65,,false
+Intel Pentium E6600,,2,3.06,,65,,false
+Intel Core 2 Duo E6750,129.94,2,2.66,,65,,false
+Intel Core 2 Duo E7200,,2,2.53,,65,,false
+Intel Core 2 Duo E7300,,2,2.66,,65,,false
+Intel Core 2 Duo E7400,,2,2.8,,65,,false
+Intel Core 2 Duo E7500,,2,2.93,,65,,false
+Intel Core 2 Duo E8190,,2,2.66,,65,,false
+Intel Core 2 Duo E8200,,2,2.66,,65,,false
+Intel Core 2 Duo E8400,,2,3,,65,,false
+Intel Core 2 Duo E8500,,2,3.16,,65,,false
+Intel Core 2 Duo E8500,,2,3.16,,65,,false
+Intel Core i7-860S,,4,2.53,,82,,true
+Intel Core i7-940,,4,2.93,,130,,true
+Intel Core 2 Quad Q6700,,4,2.66,,100,,false
+Intel Core 2 Quad Q8200,,4,2.33,,95,,false
+Intel Core 2 Quad Q8200S,,4,2.33,,65,,false
+Intel Core 2 Quad Q8400,,4,2.66,,95,,false
+Intel Core 2 Quad Q9400,,4,2.66,,95,,false
+Intel Core 2 Quad Q9400S,,4,2.66,,65,,false
+Intel Core 2 Quad Q9505S,,4,2.83,,65,,false
+Intel Core 2 Quad Q9550S,,4,2.83,,65,,false
+Intel Core 2 Extreme QX6800,,4,2.93,,100,,false
+Intel Core 2 Extreme QX6850,,4,3,,130,,false
+Intel Core 2 Extreme QX9650,,4,3,,130,,false
+Intel Core 2 Extreme QX9775,,4,3.2,,150,,false
+Intel Core 2 Extreme QX9775,,4,3.2,,150,,false
+Intel Core 2 Extreme X6800,499.95,2,2.93,,75,,false
+AMD Athlon II X4 630,,4,2.8,,95,,false
+AMD Athlon II X2 255,,2,3.1,,65,,false
+AMD Athlon II X2 265,,2,3.2,,65,,false
+Intel Pentium E5500,,2,2.8,,65,,false
+AMD Phenom II X4 955,,4,3.2,,125,,false
+AMD Phenom II X4 955,,4,3.2,,125,,false
+AMD Phenom II X4 960T Black,,4,3,,95,,false
+AMD Athlon II X3 440,,3,3,,95,,false
+AMD Sempron 130,,1,2.6,,45,,false
+Intel Pentium G860,,2,3,,65,Intel HD Graphics,false
+AMD FX-6100,,6,3.3,,95,,false
+AMD A8-3850,,4,2.9,,100,Radeon HD 6550D,false
+AMD Phenom II X4 970,,4,3.5,,125,,false
+AMD Phenom II X4 980 Black,,4,3.7,,125,,false
+AMD A6-3650,,4,2.6,,100,Radeon HD 6530D,false
+Intel Pentium G550,,2,2.6,,65,Intel HD Graphics,false
+Intel Xeon E3-1270,,4,3.4,,80,,true
+Intel Celeron G1620,,2,2.7,,55,Intel HD Graphics,false
+AMD Sempron X2 198,,2,2.5,,65,,false
+AMD Sempron X2 198,,2,2.5,,65,,false
+AMD A10-6790K,,4,4,4.3,100,Radeon HD 8670D,false
+AMD A4-6320,,2,3.8,4,65,Radeon HD 8370D,false
+AMD A4-3300,,2,2.5,,65,Radeon HD 6410D,false
+AMD A4-5300,,2,3.4,,65,Radeon HD 7480D,false
+AMD A4-3420,,2,2.8,,65,Radeon HD 6410D,false
+AMD A6-7400K,,2,3.5,3.9,65,Radeon R5 (on die),false
+Intel Celeron G470,,1,2,,35,Intel HD Graphics,true
+AMD Athlon II X4 651,,4,3,,100,,false
+Intel Core i3-4360T,,2,3.2,,35,Intel HD Graphics 4600,true
+AMD Pro A10-7800B,,4,3.5,3.9,65,Radeon R7 (on-die),false
+AMD Athlon X2 350,,2,3.5,3.9,65,,false
+Intel Pentium G3250,,2,3.2,,53,Intel HD Graphics,false
+Intel Xeon E5-2609 V3,,6,1.9,,85,,false
+Intel Xeon E5-2609 V3,,6,1.9,,85,,false
+Intel Xeon E5-2603 V3,,6,1.6,,85,,false
+Intel Xeon E5-2622 V3,,8,2.4,,85,,true
+Intel Xeon E3-1230 V2,249.95,4,3.3,,69,,true
+Intel Xeon E5-2609,,4,2.4,,80,,false
+Intel Core i3-6300T,,2,3.3,,35,Intel HD Graphics 530,true
+Intel Pentium G4520,,2,3.6,,51,Intel HD Graphics 530,false
+Intel Xeon E3-1275 V5,,4,3.6,4,80,Intel HD Graphics P530,true
+AMD Opteron 6344,,12,2.6,3.2,115,,false
+AMD Athlon X4 845,,4,3.5,3.8,65,,false
+AMD A10-7860k,,4,3.6,4,65,Radeon R7 (on-die),false
+AMD A10-7890K,,4,4.1,4.3,95,Radeon R7 (on-die),false
+AMD Athlon X4 880K,,4,4,4.2,95,,false
+AMD Athlon 5370,,4,2.2,,25,Radeon R3 (on die),false
+Intel Core i7-6850K,,6,3.6,3.8,140,,true
+Intel Core i3-7320,,2,4.1,,51,Intel HD Graphics 630,true
+Intel Celeron G3950,,2,3,,51,Intel HD Graphics 610,false
+Intel Celeron G3930T,,2,2.7,,35,Intel HD Graphics 610,false
+Intel Pentium G4600T,,2,3,,35,Intel HD Graphics 630,true
+Intel Core i7-7740X,,4,4.3,4.5,112,,true
+Intel Xeon E5-2440V2,,8,1.9,2.4,95,,true
+Intel Xeon E3-1225 V6,505.86,4,3.3,3.7,73,Intel HD Graphics P630,false
+Intel Xeon E3-1270 V6,,4,3.8,4.2,72,,true
+Intel Core i7-870S,,4,2.667,,82,,true
+Intel Core i7-870S,,4,2.667,,82,,true
+Intel Pentium Gold G5600,,2,3.9,,54,Intel UHD Graphics 630,true
+Intel Core i3-4360,,2,3.7,,54,Intel HD Graphics 4600,true
+Intel Xeon E5-2665,,8,2.4,3.1,115,,true
+AMD Athlon II X2 250,,2,3,,65,,false
+AMD Athlon II X2 255,,2,3.1,,65,,false
+Intel Celeron 430,,1,1.8,,35,,false
+AMD Athlon II X3 435,,3,2.9,,95,,false
+AMD Athlon II X3 440,,3,3,,95,,false
+AMD Athlon II X3 440,,3,3,,95,,false
+AMD Phenom II X4 925,,4,2.8,,95,,false
+AMD Phenom II X4 945,,4,3,,125,,false
+AMD Athlon II X3 400e,,3,2.2,,45,,false
+AMD Athlon II X3 405e,,3,2.3,,45,,false
+AMD Athlon II X3 405e,,3,2.3,,45,,false
+AMD Athlon II X3 415e,,3,2.5,,45,,false
+AMD Athlon II X4 600e,,4,2.2,,45,,false
+AMD Athlon II X4 605e,,4,2.3,,45,,false
+AMD Athlon II X4 610e,,4,2.4,,45,,false
+Intel Celeron E1200,,2,1.6,,65,,false
+Intel Celeron E1500,,2,2.2,,65,,false
+Intel Celeron E1600,,2,2.4,,65,,false
+Intel Celeron E3200,,2,2.4,,65,,false
+Intel Pentium E6300,,2,2.8,,65,,false
+Intel Pentium E6300,,2,2.8,,65,,false
+Intel Core 2 Duo E6400,,2,2.13,,65,,false
+Intel Core 2 Duo E6420,,2,2.13,,65,,false
+Intel Core 2 Duo E6700,,2,2.66,,65,,false
+Intel Core 2 Duo E6700,,2,2.66,,65,,false
+Intel Core 2 Duo E7400,,2,2.8,,65,,false
+Intel Core i7-965 Extreme Edition,,4,3.2,,130,,true
+Intel Core 2 Quad Q8200,,4,2.33,,95,,false
+Intel Core 2 Quad Q8200S,,4,2.33,,65,,false
+Intel Core 2 Quad Q8400S,,4,2.66,,65,,false
+Intel Core 2 Extreme QX6700,,4,2.66,,100,,false
+Intel Core 2 Extreme QX6800,,4,2.93,,100,,false
+Intel Core 2 Extreme QX6800,,4,2.93,,100,,false
+Intel Core 2 Extreme QX9770,,4,3.2,,136,,false
+Intel Core 2 Extreme QX9775,,4,3.2,,150,,false
+AMD Phenom II X3 715 Black,,3,2.8,,95,,false
+AMD Athlon II X3 425,,3,2.7,,95,,false
+AMD Phenom II X2 565 Black,,2,3.4,,80,,false
+AMD Athlon II X2 245,,2,2.9,,65,,false
+AMD Phenom II X4 925,,4,2.8,,95,,false
+AMD Athlon II X3 460,,3,3.4,,95,,false
+AMD Athlon II X4 631,,4,2.6,,100,,false
+AMD A4-3400,,2,2.7,,65,Radeon HD 6410D,false
+AMD FX-8100,,8,2.8,,95,,false
+AMD Athlon II X4 645,,4,3.1,,95,,false
+AMD Athlon II X2 250,,2,3,,65,,false
+AMD Athlon II X4 651K,,4,3,,100,,false
+AMD A6-6420K,,2,4,4.2,65,Radeon HD 8000 Series,false
+AMD A4-4020,,2,3.2,3.4,65,Radeon HD 7480D,false
+AMD Sempron X2 190,,2,2.5,,45,,false
+AMD A10-6700T,,4,2.5,3.5,45,Radeon HD 8650D,false
+AMD A10-6790B,,4,4,,100,Radeon HD 8670D,false
+AMD A4-6320,,2,3.8,4,65,Radeon HD 8370D,false
+AMD A4-3300,,2,2.5,,65,Radeon HD 6410D,false
+AMD A4-3400,,2,2.7,,65,Radeon HD 6410D,false
+AMD A4-3400,,2,2.7,,65,Radeon HD 6410D,false
+AMD A4-4020,,2,3.2,3.4,65,Radeon HD 7480D,false
+AMD FX-4150,,4,4,4.1,125,,false
+AMD FX-4170,,4,4.2,,125,,false
+AMD FX-6200,,6,3.8,,125,,false
+AMD FX-6350,,6,3.9,,125,,false
+AMD Athlon II X2 221,,2,2.8,,65,,false
+AMD Athlon II X2 221,,2,2.8,,65,,false
+AMD Athlon II X4 651,,4,3,,100,,false
+AMD Athlon II X4 638,,4,2.7,,65,,false
+AMD E2-3200,,2,2.4,,65,Radeon HD 6370D,false
+AMD Athlon X2 370K,,2,4.2,,65,,false
+AMD Athlon X4 530,,4,2,,25,,false
+AMD Athlon X4 550,,4,2.2,,25,,false
+AMD Athlon X2 450,,2,3.5,3.9,65,,false
+Intel Pentium G3450,,2,3.4,,53,Intel HD Graphics,false
+AMD A8-7670K,,4,3.6,3.9,95,Radeon R7 (on-die),false
+AMD Athlon X4 940,,4,3.2,3.6,65,,false

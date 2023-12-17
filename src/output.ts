@@ -6,8 +6,11 @@ export const outputJsonLines = (parts: Part[]) =>
 	parts.map((p) => JSON.stringify(p)).join('\n')
 
 const serializeCsvValue = (value: any): string => {
-	if (typeof value === 'string' && value.includes(',')) {
-		return `"${value}"`
+	if (
+		typeof value === 'string' &&
+		(value.includes(',') || value.includes('"'))
+	) {
+		return `"${value.replaceAll('"', '""')}"`
 	} else if (Array.isArray(value)) {
 		return `"${value.map((v) => serializeCsvValue(v)).join(',')}"`
 	}

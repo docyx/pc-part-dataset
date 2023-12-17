@@ -76,7 +76,7 @@ npm run start -- cpu video-card
 
 - `start` => Starts the scraper.
 - `dev` => Starts the scraper without typechecking.
-- `count` => Runs [`counter.ts`](./src/counter.ts); gets the number of parts from `./data/json` or argv[1].
+- `count` => Runs [`counter.ts`](./src/counter.ts); gets the number of parts from `./data-staging/json` or argv[1].
 - `output` => Runs [`output.ts`](./src/output.ts); outputs JSONL and CSV formats to `./data-staging` or argv[1].
 - `zip` => Zips the JSON, JSONL, and CSV folders in `./data`.
 

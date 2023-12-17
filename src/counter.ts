@@ -2,7 +2,7 @@ import { readdir, readFile } from 'fs/promises'
 import { join } from 'path'
 import type { Part } from './types'
 ;(async () => {
-	const dirName = process.argv.slice(2)[0] ?? 'data/json'
+	const dirName = process.argv.slice(2)[0] ?? 'data-staging/json'
 	const files = await readdir(dirName)
 
 	let count = 0

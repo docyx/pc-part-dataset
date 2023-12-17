@@ -121,7 +121,7 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 
 			serialized['name'] = await productEl.$eval(
 				'.td__name .td__nameWrapper > p',
-				(p) => p.innerText
+				(p) => p.innerText.replaceAll('\n', ' ')
 			)
 
 			const priceText = await productEl.$eval(

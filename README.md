@@ -2,9 +2,9 @@
 
 A dataset of PC parts scraped from [PCPartPicker](https://pcpartpicker.com).
 
-Part count: **56,454**
+Part count: **56,949**
 
-Last updated: **November 16, 2023**
+Last updated: **December 17, 2023**
 
 ## Download
 

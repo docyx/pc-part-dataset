@@ -210,10 +210,10 @@
 
 ## `case-accessory`
 
-| Property      | Description                       | Unit (if applicable) |
-| ------------- | --------------------------------- | -------------------- |
-| `type`        | Type (LED Controller/Card Reader) |                      |
-| `form_factor` | Form factor (e.g. `2.5`)          | in                   |
+| Property      | Description                                                                                                      | Unit (if applicable) |
+| ------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `type`        | Type (LED Controller/Card Reader)                                                                                |                      |
+| `form_factor` | Form factor (e.g. `2.5`). May be a `[number, number]`, in which case `[0]` is the quantity and `[1]` is the size | in (`[1]` if array)  |
 
 ## `case-fan`
 

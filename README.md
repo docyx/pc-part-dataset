@@ -2,9 +2,9 @@
 
 A dataset of PC parts scraped from [PCPartPicker](https://pcpartpicker.com).
 
-Part count: **56,949**
+Part count: **57,747**
 
-Last updated: **December 17, 2023**
+Last updated: **January 20, 2024**
 
 ## Download
 
@@ -59,9 +59,8 @@ Check out [API.md](./API.md) for JSON property descriptions of each product cate
 
 1. Run `npm install`
 2. Run `npm run start`
-3. A window should show up. It may or may not have a captcha. If it does, solve it.
-4. You should be good from there; wait about 5-10 minutes for the scraper to finish doing its thing.
-5. Everything will be emitted to a directory named `data-staging`.
+3. Wait about 5-10 minutes for the scraper to finish doing its thing.
+4. Everything will be emitted to a directory named `data-staging`.
 
 If you don't want to scrape every part, you can specify individual parts by passing them as arguments. You can find the list of part type IDs in [API.md](./API.md).
 

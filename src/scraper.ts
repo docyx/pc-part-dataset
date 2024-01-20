@@ -78,7 +78,7 @@ async function scrapeInParallel(endpoints: PartType[]) {
 
 		await writeFile(
 			join(STAGING_DIRECTORY, 'json', `${fileName}.json`),
-			JSON.stringify(allParts),
+			JSON.stringify(allParts)
 		)
 	})
 
@@ -89,7 +89,9 @@ async function scrapeInParallel(endpoints: PartType[]) {
 			await page.waitForSelector('nav', { timeout: 5000 })
 		} catch {
 			console.error(
-				`Initial fetch test failed (HTTP ${res?.status() ?? '?'}). Try running with \`{ headless: false }\` to see what the problem is.`,
+				`Initial fetch test failed (HTTP ${
+					res?.status() ?? '?'
+				}). Try running with \`{ headless: false }\` to see what the problem is.`
 			)
 			return
 		}
@@ -130,7 +132,7 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 	// are not using.
 	// See: https://pptr.dev/api/puppeteer.page.waitforselector#parameters
 	const numPages = await paginationEl!.$eval('li:last-child', (el) =>
-		parseInt(el.innerText),
+		parseInt(el.innerText)
 	)
 
 	for (let currentPage = 1; currentPage <= numPages; currentPage++) {
@@ -148,12 +150,12 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 
 			serialized['name'] = await productEl.$eval(
 				'.td__name .td__nameWrapper > p',
-				(p) => p.innerText.replaceAll('\n', ' '),
+				(p) => p.innerText.replaceAll('\n', ' ')
 			)
 
 			const priceText = await productEl.$eval(
 				'.td__price',
-				(td) => td.textContent,
+				(td) => td.textContent
 			)
 
 			if (priceText == null || priceText.trim() === '')
@@ -164,7 +166,7 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 
 			for (const spec of specs) {
 				const specName = await spec.$eval('.specLabel', (l) =>
-					(l as HTMLHeadingElement).innerText.trim(),
+					(l as HTMLHeadingElement).innerText.trim()
 				)
 				const mapped = map[endpoint][specName]
 
@@ -174,9 +176,8 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 				const [snakeSpecName, mappedSpecSerializationType] = mapped
 
 				const specValue = await spec.evaluate(
-					(s) => s.childNodes[1]?.textContent,
+					(s) => s.childNodes[1]?.textContent
 				)
-				// const specValue = await spec.evaluate((s) => s.innerText.trim())
 
 				if (specValue == null || specValue.trim() === '') {
 					serialized[snakeSpecName] = null
@@ -186,7 +187,7 @@ async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
 				} else {
 					serialized[snakeSpecName] = genericSerialize(
 						specValue,
-						mappedSpecSerializationType,
+						mappedSpecSerializationType
 					)
 				}
 			}

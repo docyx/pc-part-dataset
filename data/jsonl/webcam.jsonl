@@ -1,65 +1,65 @@
-{"name":"Logitech BRIO Ultra HD Pro","price":124.97,"resolutions":["4k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":82}
-{"name":"OBSBOT Tiny 2","price":296.1,"resolutions":["4k","2k","1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":85.5}
+{"name":"Logitech BRIO Ultra HD Pro","price":124.7,"resolutions":["4k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":82}
 {"name":"Razer Kiyo Pro Ultra","price":299.99,"resolutions":["4k","2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows"],"fov":82}
-{"name":"Logitech C920 HD Pro","price":53.9,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
+{"name":"OBSBOT Tiny 2","price":null,"resolutions":["4k","2k","1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":85.5}
 {"name":"Elgato Facecam Pro","price":299.99,"resolutions":["4k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":90}
-{"name":"Insta360 Insta360 Link","price":299.99,"resolutions":["4k","1080p","720p"],"connection":"USB 2.0 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":79.5}
-{"name":"Logitech C270","price":25.99,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS","Android"],"fov":60}
-{"name":"Anker PowerConf C200","price":47.99,"resolutions":["2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":95}
-{"name":"Logitech C922 Pro Stream HD","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
+{"name":"Insta360 Insta360 Link","price":249.99,"resolutions":["4k","1080p","720p"],"connection":"USB 2.0 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":79.5}
+{"name":"Logitech C920 HD Pro","price":69.95,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
+{"name":"Logitech C270","price":25.19,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS","Android"],"fov":60}
+{"name":"Anker PowerConf C200","price":59.99,"resolutions":["2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":95}
 {"name":"Razer Kiyo","price":49.99,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows"],"fov":81.6}
-{"name":"Logitech C920s HD Pro","price":59.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
-{"name":"Elgato Facecam Premium","price":149.99,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":82}
-{"name":"Razer Kiyo Pro","price":97.08,"resolutions":["1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows"],"fov":103}
-{"name":"Green Extreme T200","price":14.99,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":65}
 {"name":"Adesso CyberTrack H3","price":12.99,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":null}
-{"name":"Logitech C925e","price":64.98,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Linux"],"fov":78}
-{"name":"Razer Kiyo X","price":39.49,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows"],"fov":82}
-{"name":"Logitech StreamCam","price":139.99,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
-{"name":"aoni A31","price":21.95,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Linux","ChromeOS","Android"],"fov":84}
+{"name":"Logitech C922 Pro Stream HD","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
+{"name":"Razer Kiyo X","price":39.94,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows"],"fov":82}
+{"name":"Elgato Facecam Premium","price":149.99,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":82}
+{"name":"Logitech C920s HD Pro","price":59.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
+{"name":"Green Extreme T200","price":14.99,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":65}
+{"name":"Razer Kiyo Pro","price":94.98,"resolutions":["1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows"],"fov":103}
 {"name":"OBSBOT Tiny 4K","price":239,"resolutions":["4k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":90}
-{"name":"Logitech StreamCam","price":129.98,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
-{"name":"Adesso Cybertrack H6","price":60.28,"resolutions":["4k"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":80}
-{"name":"Avermedia PW513","price":139.16,"resolutions":["4k","1080p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Fixed","os":["Windows","OS X"],"fov":94}
-{"name":"Adesso Cybertrack H2","price":16,"resolutions":["480p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":62}
-{"name":"Asus Webcam C3","price":48.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","ChromeOS"],"fov":null}
+{"name":"aoni A31","price":21.95,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Linux","ChromeOS","Android"],"fov":84}
+{"name":"Adesso Cybertrack H6","price":49.99,"resolutions":["4k"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":80}
+{"name":"Logitech C925e","price":68.37,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Linux"],"fov":78}
+{"name":"Logitech StreamCam","price":129.71,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
+{"name":"Logitech StreamCam","price":120.03,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
+{"name":"Avermedia PW513","price":190.99,"resolutions":["4k","1080p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Fixed","os":["Windows","OS X"],"fov":94}
+{"name":"Asus Webcam C3","price":47.22,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","ChromeOS"],"fov":null}
 {"name":"Anker B600 Video Bar","price":199.99,"resolutions":["2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":95}
-{"name":"Logitech StreamCam Plus","price":139.99,"resolutions":["1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
-{"name":"Adesso Cybertrack H4","price":35.51,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":78}
-{"name":"Logitech C930e","price":129.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":90}
-{"name":"Anker PowerConf C302","price":149.99,"resolutions":["2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":115}
-{"name":"Logitech B525","price":54.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":69}
-{"name":"Wansview 106JD","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":60}
-{"name":"Adesso Cybertrack H5","price":49.08,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":80}
-{"name":"AUKEY PC-LM1","price":null,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X","Android"],"fov":55}
-{"name":"Asus ROG EYE","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
-{"name":"Avermedia Live Streamer CAM 313","price":59.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
-{"name":"Logitech C910","price":125.49,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
-{"name":"Logitech C615 Portable","price":null,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
-{"name":"Logitech C505","price":37.99,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":60}
-{"name":"Logitech C310","price":64.95,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS","Android"],"fov":60}
-{"name":"Anker PowerConf C300","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":115}
-{"name":"Logitech C505e","price":29.98,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":60}
-{"name":"Microsoft LifeCam HD-3000","price":24.7,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
+{"name":"Adesso Cybertrack H4","price":34.47,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":78}
+{"name":"Logitech C910","price":109.96,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":78}
+{"name":"Adesso Cybertrack H2","price":19.98,"resolutions":["480p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":62}
+{"name":"Logitech StreamCam Plus","price":135.99,"resolutions":["1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
+{"name":"Logitech C930e","price":84.48,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":90}
+{"name":"Logitech B525","price":38.78,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":69}
 {"name":"Wansview 101JD","price":22.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","Android"],"fov":90}
+{"name":"Adesso Cybertrack H5","price":37.77,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":80}
+{"name":"Anker PowerConf C302","price":149.99,"resolutions":["2k","1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":115}
+{"name":"Logitech C505","price":37.99,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":60}
+{"name":"Asus ROG EYE","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
+{"name":"Microsoft LifeCam HD-3000","price":24.19,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
+{"name":"Logitech C505e","price":29.79,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":60}
+{"name":"Avermedia Live Streamer CAM 313","price":44.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
+{"name":"AUKEY PC-LM1","price":null,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X","Android"],"fov":55}
+{"name":"OBSBOT Tiny","price":149,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":86}
+{"name":"Anker PowerConf C300","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":"Auto","os":["Windows","OS X"],"fov":115}
+{"name":"Logitech C310","price":64.95,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS","Android"],"fov":60}
+{"name":"Logitech C615 Portable","price":null,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":78}
 {"name":"Creative Labs Live! Cam Sync 1080p","price":null,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":77}
-{"name":"Microsoft LifeCam Studio","price":56,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":75}
+{"name":"Avermedia PW310P","price":59.98,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":73}
+{"name":"Microsoft LifeCam Studio","price":59.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":75}
 {"name":"Green Extreme T1000","price":129,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":120}
-{"name":"OBSBOT Tiny","price":119,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":86}
-{"name":"Avermedia PW310P","price":59.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS"],"fov":73}
-{"name":"Logitech C525","price":75,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":69}
-{"name":"Green Extreme T300","price":34.95,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":94}
-{"name":"Avermedia PW315","price":99.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":95.8}
-{"name":"VDO360 2SEE","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","Linux","Android"],"fov":75}
+{"name":"Avermedia PW315","price":92.99,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X","ChromeOS"],"fov":95.8}
 {"name":"Microsoft Lifecam Cinema","price":64.98,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows"],"fov":73}
-{"name":"Creative Labs Live! Cam Sync HD","price":null,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
+{"name":"Green Extreme T300","price":null,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":94}
+{"name":"Microsoft LifeCam Studio for Business","price":62.7,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":75}
+{"name":"Logitech C525","price":89.99,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","ChromeOS","Android"],"fov":69}
 {"name":"Microsoft LifeCam HD-3000 L2","price":35.98,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
-{"name":"Microsoft LifeCam Studio for Business","price":62.85,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":75}
+{"name":"Avermedia 4K UHD Webcam 510","price":null,"resolutions":["4k","1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":null,"os":["Windows"],"fov":85}
+{"name":"Microsoft LifeCam CinemaaFor Business","price":null,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
+{"name":"Wansview 106JD","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":60}
+{"name":"VDO360 2SEE","price":99.99,"resolutions":["1080p","720p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","Linux","Android"],"fov":75}
 {"name":"Adesso Cybertrack H4P","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X"],"fov":78}
 {"name":"Creative Labs BlasterX Senz3D","price":null,"resolutions":["1080p","720p"],"connection":"USB 3.2 Gen 1 Type-A","focus_type":"Auto","os":["Windows"],"fov":77}
-{"name":"Avermedia 4K UHD Webcam 510","price":null,"resolutions":["4k","1080p","720p","480p"],"connection":"USB 3.2 Gen 1 Type-C","focus_type":null,"os":["Windows"],"fov":85}
+{"name":"Creative Labs Live! Cam Sync HD","price":null,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Fixed","os":["Windows","OS X"],"fov":null}
 {"name":"Wansview 102JD","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":null,"os":["Windows","OS X","Android"],"fov":90}
-{"name":"Microsoft LifeCam CinemaaFor Business","price":78.2,"resolutions":["720p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X"],"fov":null}
+{"name":"Wansview 105JD","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X","Android"],"fov":90}
 {"name":"Green Extreme T200 + Live Streaming Bundle","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":null}
 {"name":"Avermedia HD Webcam 310","price":null,"resolutions":["1080p","720p","480p"],"connection":"USB 2.0 Type-A","focus_type":"Auto","os":["Windows","OS X","Android"],"fov":null}
-{"name":"Wansview 105JD","price":null,"resolutions":["1080p"],"connection":"USB 2.0 Type-A","focus_type":"Manual","os":["Windows","OS X","Android"],"fov":90}

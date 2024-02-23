@@ -4,7 +4,7 @@ A dataset of PC parts scraped from [PCPartPicker](https://pcpartpicker.com).
 
 Part count: **59,544**
 
-Last updated: **January 20, 2024**
+Last updated: **February 20, 2024**
 
 ## Download
 

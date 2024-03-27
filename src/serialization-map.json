@@ -2,7 +2,7 @@
 	"cpu": {
 		"Core Count": ["core_count", true],
 		"Performance Core Clock": ["core_clock", true],
-		"Performance Boost Clock": ["boost_clock", true],
+		"Performance Core Boost Clock": ["boost_clock", true],
 		"TDP": ["tdp", true],
 		"Integrated Graphics": ["graphics", false],
 		"SMT": ["smt", false]

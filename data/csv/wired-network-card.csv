@@ -1,155 +1,156 @@
 name,price,interface,color
 TP-Link TG-3468,14.99,PCIe x1,
+Asus XG-C100C,94.99,PCIe x4,
+StarTech ST10GPEXNDPI,437.19,PCIe x4,Black / Silver
 Intel E1G44ET2BLK,355.2,PCIe x4,
-Asus XG-C100C,96.99,PCIe x4,
-Intel X540-T2,99.9,PCIe x8,
+Intel X540-T2,99.99,PCIe x8,
 TP-Link TX201,29.99,PCIe x1,Black / Gold
-StarTech ST1000SPEX42,342.39,PCIe x4,
+TP-Link TX401,89.99,PCIe x4,Red
 Intel X550-T2,205,PCIe x4,
-TP-Link TX401,99.99,PCIe x4,Red
-Intel EXPI9301CTBLK,,PCIe x1,
-Intel X520-DA1,120.25,PCIe x8,Green
+Intel EXPI9301CTBLK,62,PCIe x1,
+StarTech ST1000SPEX42,387.97,PCIe x4,
+StarTech ST10GSPEXNDP,176.36,PCIe x8,Black / Silver
+Intel X520-DA1,142.88,PCIe x8,Green
 Intel E1G42ETBLK,51,PCIe x4,
-TRENDnet TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter,80.98,PCIe x4,Green / Silver
-Gigabyte GC-AQC107,,PCIe x4,Black / White
+StarTech USB32000SPT,68.12,USB Type-A 3.2 Gen 1,
 Syba SY-ADA24029,9.99,USB Type-A 2.0,
-QNAP QXG2G2TI225,79,PCIe x2,Green / Copper
-Linksys USB3GIG,,USB Type-A 3.2 Gen 1,Black
-Intel X710-T2L,314.2,PCIe x8,Green / Black
-StarTech ST10GSPEXNB2,174.73,PCIe x2,Silver / Black
+Gigabyte GC-AQC107,,PCIe x4,Black / White
+TRENDnet TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter,89.99,PCIe x4,Green / Silver
+Syba SD-PEX24066,35.99,PCIe x1,Green / Black
+StarTech ST2000PEXPSE,148.57,PCIe x1,
+SIIG LB-GE0211-S1,223.2,PCIe x4,Green / Black
+Supermicro AOC-STG-i2T,369,PCIe x8,
 Intel E1G44HTBLK,80,PCIe x4,
-Intel EXPI9301CT,,PCIe x1,
-TRENDnet TEG-25GECTX,31.98,PCIe x1,Blue
-Intel EXPI9404PTLBLK-1PK,,PCIe x4,
-Syba SI-PEX24042,46.78,PCIe x1,Green / Black
-StarTech ST1000SPEX4,345.99,PCIe x4,
-TP-Link UE300,12.99,USB Type-A 3.2 Gen 1,
-TRENDnet TUC-ET2G,24.99,USB Type-C 3.2 Gen 1,Black
-Supermicro AOC-STG-i2T,360.61,PCIe x8,
-StarTech ST10GSPEXNB,124.94,PCIe x4,Black
-QNAP QXG-10G1T,139,PCIe x4,
-Syba SY-HUB24047,59.19,USB Type-A 3.2 Gen 1,Black
-Intel EXPI9402PTG2P20,69.61,PCIe x4,Green / Black
-StarTech ST1000SPEX2L,23.24,PCIe x1,
-Intel E1G44HT,124.5,PCIe x4,
-StarTech ST2000PEXPSE,161.49,PCIe x1,
-Belkin F5D5000,9.27,PCI,
-QLogic QLE3242-CU-CK,,PCIe x8,
-StarTech ST10000SPEX,,PCIe x4,
-Intel X520-T2,,PCIe x8,Green / Black
-QNAP QXG5G1T111C,89,PCIe x1,Blue / Silver
-EDUP EP-9602GS,,PCIe x1,Black
-QNAP QXG-2G1T-I225,43.31,PCIe x1,Green / Silver
-Edimax EU-4208,10.99,USB Type-A 2.0,
-StarTech ST1000SPEX2,17.14,PCIe x1,
-Gigabyte GC-AQC113C 10G,,PCIe x4,White / Silver
-D-Link DXE-820T,,PCIe x8,
-Syba SY-PEX24028,44.59,PCIe x1,
-Intel E10G42BT,,PCIe x8,
-Syba SD-PEX24009,16.39,PCIe x1,
-Intel EXPI9404PTLBLK,,PCIe x4,
-Belkin B2B145-BLK,28.98,USB Type-C 3.2 Gen 1,Black
-Intel EXPI9404PTL,,PCIe x4,
-Syba SD-PEX24055,90,PCIe x4,Green / Black
-Lenovo 7ZT7A00482,84,PCIe x1,Green / Black
-StarTech USB21000S2,29.99,USB Type-A 2.0,
-StarTech ST1000SPEXD3,99.99,PCIe x1,
-Syba SY-PEX24045,99.99,PCIe x4,Green / Black
-Lenovo 4X90E51405,23.48,USB Type-A 3.2 Gen 1,
-StarTech USB32000SPT,60.47,USB Type-A 3.2 Gen 1,
-Rosewill RC-NIC416Dual,,PCIe x4,Black / Silver
-Plugable USBC-E1000,18.95,USB Type-C 3.2 Gen 1,
-StarTech ST1000BT32,16.05,PCI,
-Rosewill RNG-407-Dual,,PCIe x1,
-Syba SD-PEX24065,39.99,PCIe x1,Green
-V7 V7UCRJ45-BLK-1N,27.99,USB Type-C 3.2 Gen 1,Black
-HP E0X95AA,,PCIe x1,Green
-D-Link DFE530TX+,10.03,PCI,
-StarTech ST3300U3S,39.36,USB Type-A 3.2 Gen 1,
-Edimax EN-9320TX-E,,PCIe x4,Silver / Green
-Asus USB-C2500,29.99,USB Type-A 3.2 Gen 1,Gray
-Intel EXPI9402PT,,PCIe x4,
-D-Link DUB-E100,,USB Type-A 2.0,
-Supermicro SGP-i4,217.99,PCIe x4,Green / Silver
-Cisco N2XX-ABPCI03-M3=,,PCIe x4,
-Tripp Lite U436-000-GB,25.76,USB Type-C 3.2 Gen 1,Black
-SIIG JU-NE0621-S2,,USB Type-A 3.2 Gen 1,White
-Syba SD-PEX24066,33.43,PCIe x1,Green / Black
-SIIG CN-GP2011-S1,,PCIe x1,
-Intel E1G44ET2,,PCIe x4,
-Intel E1G42ET,,PCIe x4,
-Acer NP.OTH11.005,,USB Type-A 2.0,
-Plugable USB3-E1000,16.95,USB Type-A 3.2 Gen 1,
-TP-Link UE306,12.98,USB Type-A 3.2 Gen 1,Black
-StarTech ST10GSPEXNDP,,PCIe x8,Black / Silver
-StarTech USB31000NDS,30.99,USB Type-A 3.2 Gen 1,
-StarTech USB31000SW,22.41,USB Type-A 3.2 Gen 1,
-StarTech PEX100S,19.55,PCIe x1,
-VisionTek Bigfoot Killer 2100,,PCIe x1,
-Rosewill RC-411,,PCIe x1,
-TP-Link TG-3269,44,PCI,
-SIIG JU-NE0511-S1,,USB Type-A 3.2 Gen 1,
-Belkin F2CU040btBLK,22.37,USB Type-C 3.2 Gen 1,
-D-Link DUB-1312,38.9,USB Type-A 3.2 Gen 1,Black
-Syba SY-PEX24056,,PCIe x4,Green / Black
-TP-Link UE300C,14.97,USB Type-C,Black
-D-Link DGE-530T,25.04,PCI,
-Edimax EU-4306,,USB Type-A 3.2 Gen 1,
-SIIG LB-GE0211-S1,230.2,PCIe x4,Green / Black
-Rosewill RC-400,,PCI,
-Syba SY-ADA24024,,USB Type-A 2.0,
-Intel PWLA8391GT,35,PCI,
-Intel PWLA8391GTBLK,37,PCI,
-Intel PWLA8490MTBLK,,PCI-X,
-Intel PWLA8492MT,92,PCI-X,
-StarTech ST1000SPEX,,PCIe x1,
-SIIG CN-GP1021-S3,32.94,PCIe x1,
-Rosewill RC-401-EX,,PCIe x1,
-StarTech USB31000SPTB,35.97,USB Type-A 3.2 Gen 1,
-StarTech USB31000SPTW,31.27,USB Type-A 3.2 Gen 1,
-SIIG CN-GP1111-S1,,PCIe x4,
-Asus PCE-C2500,,PCIe x1,Red
-Tripp Lite U436-06N-2P5,41.2,USB Type-C 3.2 Gen 1,Black
-StarTech ST10GPEXNDPI,337.42,PCIe x4,Black / Silver
+Monoprice 112909,14.11,USB Type-C 3.2 Gen 2,White
+TRENDnet TEG-25GECTX,24.99,PCIe x1,Blue
+StarTech ST10GSPEXNB2,173.48,PCIe x2,Silver / Black
+QNAP QXG2G2TI225,79,PCIe x2,Green / Copper
 SIIG LB-GE0311-S1,218.5,PCIe x8,Black / Green
-Rosewill RC-400-LX,22.5,PCI,
+Intel X710-T2L,259,PCIe x8,Green / Black
+TP-Link UE300,12.99,USB Type-A 3.2 Gen 1,
+Intel EXPI9301CT,65,PCIe x1,
+Intel I226T1,83.15,PCIe x1,Green
+StarTech ST10GSPEXNDP2,287.58,PCIe x4,Black / Silver
+StarTech ST1000SPEX4,345.99,PCIe x4,
+Asus USB-C2500,29.99,USB Type-A 3.2 Gen 1,Gray
+TP-Link UE306,12.98,USB Type-A 3.2 Gen 1,Black
+Syba SD-PEX24055,82.28,PCIe x4,Green / Black
+Syba SI-PEX24042,46.78,PCIe x1,Green / Black
+Intel EXPI9404PTLBLK-1PK,,PCIe x4,
+Intel E1G44HT,124.5,PCIe x4,
+Intel EXPI9404PTLBLK,,PCIe x4,
+Intel EXPI9402PTG2P20,65,PCIe x4,Green / Black
+Belkin F5D5000,8.83,PCI,
+EDUP EP-9602GS,,PCIe x1,Black
+QNAP QXG5G1T111C,99,PCIe x1,Blue / Silver
+Syba SD-PEX24009,16.39,PCIe x1,
+QLogic QLE3242-CU-CK,,PCIe x8,
+StarTech ST10GSPEXNB,125.55,PCIe x4,Black
+Linksys USB3GIG,49.61,USB Type-A 3.2 Gen 1,Black
+Intel X520-T2,,PCIe x8,Green / Black
+StarTech ST1000SPEX2L,24.99,PCIe x1,
+StarTech ST1000SPEX2,22.22,PCIe x1,
+QNAP QXG-10G1T,139,PCIe x4,
+TRENDnet TUC-ET2G,24.99,USB Type-C 3.2 Gen 1,Black
+Rosewill RC-NIC416Dual,,PCIe x4,Black / Silver
+Asus PCE-C2500,,PCIe x1,Red
+StarTech ST2GPEX,33.99,PCIe x1,Black
+Gigabyte GC-AQC113C 10G,,PCIe x4,White / Silver
+QNAP QXG-2G1T-I225,43.1,PCIe x1,Green / Silver
+Syba SY-PEX24045,89.99,PCIe x4,Green / Black
+Asus ROG AREION,,PCIe x4,Black
+TP-Link UE300C,16.98,USB Type-C,Black
+Syba SY-HUB24047,47.99,USB Type-A 3.2 Gen 1,Black
+Intel E10G42BT,,PCIe x8,
+HP E0X95AA,,PCIe x1,Green
+StarTech PEX100S,19.98,PCIe x1,
+StarTech ST1000BT32,16.05,PCI,
+Syba SD-PEX24065,20.99,PCIe x1,Green
+Syba SY-PEX24028,46.43,PCIe x1,
+Intel EXPI9404PTL,,PCIe x4,
+Intel E1G44ET2,,PCIe x4,
+D-Link DXE-820T,,PCIe x8,
+Lenovo 7ZT7A00482,84,PCIe x1,Green / Black
+Intel E1G42ET,,PCIe x4,
+StarTech USB31000SW,24.14,USB Type-A 3.2 Gen 1,
+TP-Link TG-3269,11.79,PCI,
+Belkin B2B145-BLK,27.99,USB Type-C 3.2 Gen 1,Black
+Edimax EU-4208,10.99,USB Type-A 2.0,
+Tripp Lite U436-06N-2P5,39.21,USB Type-C 3.2 Gen 1,Black
+Syba SY-PEX24030,22.65,PCIe x1,
+Edimax EU-4306,,USB Type-A 3.2 Gen 1,
+D-Link DUB-1312,54.46,USB Type-A 3.2 Gen 1,Black
+Plugable USBC-E1000,18.95,USB Type-C 3.2 Gen 1,
+StarTech USB31000SPTB,35.97,USB Type-A 3.2 Gen 1,
+StarTech ST1000SPEXD3,99.99,PCIe x1,
+Syba SY-ADA24027,,USB Type-A 2.0,
+VisionTek Bigfoot Killer 2100,,PCIe x1,
+StarTech ST10000SPEX,,PCIe x4,
+Plugable USB3-E1000,16.95,USB Type-A 3.2 Gen 1,
+StarTech USB31000S2,29.23,USB Type-A 3.2 Gen 1,Black / Silver
+SIIG LB-GE0611-S1,51.52,PCIe x1,Green / Black
+Edimax EN-9320TX-E,,PCIe x4,Silver / Green
+StarTech USB31000S,23,USB Type-A 3.2 Gen 1,
+StarTech USB31000NDS,31.99,USB Type-A 3.2 Gen 1,
+SIIG LB-GE0014-S1,110.59,PCIe x4,Green / Black
+Intel EXPI9402PT,,PCIe x4,
+Intel PWLA8391GTBLK,37,PCI,
+StarTech ST1000SPEX,,PCIe x1,
+Rosewill RC-402,,PCI,
+D-Link DFE530TX+,9,PCI,
+D-Link DUB-E100,,USB Type-A 2.0,
+Rosewill RNG-407-Dual,,PCIe x1,
+StarTech USB31000SPTW,33.21,USB Type-A 3.2 Gen 1,
+Belkin F2CU040btBLK,22.37,USB Type-C 3.2 Gen 1,
+Syba SY-PEX24056,,PCIe x4,Green / Black
+Intel PWLA8492MT,92,PCI-X,
+Lenovo 4X90E51405,24.59,USB Type-A 3.2 Gen 1,
+Netgear GA311,50,PCI,
+StarTech ST3300U3S,45.77,USB Type-A 3.2 Gen 1,
+Intel PWLA8391GT,35,PCI,
+Supermicro SGP-i4,,PCIe x4,Green / Silver
 Rosewill RC-404,,PCI,
+StarTech ST100S,,PCI,
+StarTech USB21000S2,29.99,USB Type-A 2.0,
+Intel PWLA8391GTBLK-1PK,,PCI,
+Rosewill RC-400-LX,21.99,PCI,
+StarTech ST1000SPEXD2,,PCIe x1,
+SIIG CN-GP1021-S3,30.59,PCIe x1,
+D-Link DGE-530T,25.04,PCI,
+Rosewill RC-411,,PCIe x1,
+SIIG JU-NE0711-S1,,USB Type-A 3.2 Gen 1,Black
+V7 V7UCRJ45-BLK-1N,28.99,USB Type-C 3.2 Gen 1,Black
+D-Link DGE-560T,,PCIe x1,
+Rosewill RC-20001,,PCIe x1,Black
+Intel PWLA8391GTLBLK,60.6,PCI,
+TP-Link TF-3239DL,19.98,PCI,
+Rosewill RC-400,,PCI,
 Rosewill RNF-405U,,USB Type-A 2.0,
 Rosewill RNG-406U,,USB Type-A 3.2 Gen 1,
-StarTech ST100S,,PCI,
 Supermicro AOC-SG-i2,,PCIe x4,
-Syba SY-PEX24030,22.65,PCIe x1,
+Syba SY-ADA24024,,USB Type-A 2.0,
 TRENDnet TE100-PCIWN,,PCI,
 Intel EXPI9402PTBLK-1PK,,PCIe x4,
-Intel PWLA8391GTBLK-1PK,,PCI,
-Intel PWLA8391GTLBLK,60.6,PCI,
+Intel PWLA8490MTBLK,,PCI-X,
 Intel PWLA8492MTBLK5,,PCI-X,
 SIIG CN-GP1011-S3,,PCI,
-StarTech ST1000SPEXD2,,PCIe x1,
-StarTech USB31000S,26.32,USB Type-A 3.2 Gen 1,
 Syba SY-ADA24005,,USB Type-A 2.0,
-Syba SY-ADA24027,,USB Type-A 2.0,
-TRENDnet TEG-PCITXR,29.99,PCI,
+TRENDnet TEG-PCITXR,33.64,PCI,
+SIIG CN-GP2011-S1,,PCIe x1,
 Asus NX1101,,PCI,
 Belkin F4U047-RS,,USB Type-A 2.0,
-Rosewill RC-402,,PCI,
-Netgear GA311,50,PCI,
+Rosewill RC-401-EX,,PCIe x1,
+Acer NP.OTH11.005,,USB Type-A 2.0,
 SIIG CN-GP4011-S1,,PCIe x4,
 Syba SD-ADA24032,,USB Type-A 3.2 Gen 1,
-TP-Link TF-3239DL,,PCI,
+Cisco N2XX-ABPCI03-M3=,,PCIe x4,
+SIIG JU-NE0511-S1,,USB Type-A 3.2 Gen 1,
 Edimax EN-9130TXL,,PCI,
 Syba SI-ADA24037,,USB Type-A 3.2 Gen 1,
+SIIG CN-GP1111-S1,,PCIe x4,
 SIIG CN-GP4111-S1,,PCIe x4,
 Syba SY-ADA24040,,USB Type-A 3.2 Gen 1,
-SIIG JU-NE0711-S1,29.43,USB Type-A 3.2 Gen 1,Black
 Rosewill RNG-408U,,USB Type-C 3.2 Gen 1,Black
-Asus ROG AREION,,PCIe x4,Black
+Tripp Lite U436-000-GB,27.3,USB Type-C 3.2 Gen 1,Black
+SIIG JU-NE0621-S2,,USB Type-A 3.2 Gen 1,White
 TP-Link UE305,,USB Type-A 3.2 Gen 1,Black
-D-Link DGE-560T,,PCIe x1,
-StarTech ST10GSPEXNDP2,284.25,PCIe x4,Black / Silver
-StarTech USB31000S2,33.99,USB Type-A 3.2 Gen 1,Black / Silver
-StarTech ST2GPEX,33.99,PCIe x1,Black
-SIIG LB-GE0014-S1,112.39,PCIe x4,Green / Black
-SIIG LB-GE0611-S1,49.99,PCIe x1,Green / Black
-Rosewill RC-20001,,PCIe x1,Black
-Monoprice 112909,13.78,USB Type-C 3.2 Gen 2,White

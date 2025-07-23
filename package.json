@@ -14,6 +14,7 @@
 		"typescript": "^5.1.6"
 	},
 	"dependencies": {
+		"npm": "^11.4.2",
 		"puppeteer": "^20.7.4",
 		"puppeteer-cluster": "^0.23.0",
 		"puppeteer-extra": "^3.3.6",

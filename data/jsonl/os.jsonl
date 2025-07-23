@@ -1,62 +1,62 @@
-{"name":"Microsoft Windows 11 Home (64-bit)","price":109.99,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 11 Pro (64-bit)","price":159.99,"mode":64,"max_memory":2048}
-{"name":"Microsoft Windows 10 Home (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 10 Pro (64-bit)","price":null,"mode":64,"max_memory":2048}
-{"name":"Microsoft Windows 11 Home (64-bit)","price":138.99,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 11 Pro (64-bit)","price":199,"mode":64,"max_memory":2048}
-{"name":"Microsoft Windows 11 Home (64-bit)","price":138.99,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 11 Pro (64-bit)","price":198.99,"mode":64,"max_memory":2048}
-{"name":"Microsoft Windows 10 Pro (32/64-bit)","price":199.99,"mode":[32,64],"max_memory":2048}
-{"name":"Microsoft Windows 10 Pro (64-bit)","price":null,"mode":64,"max_memory":2048}
-{"name":"Microsoft Windows 10 Home (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 10 Pro (32/64-bit)","price":null,"mode":[32,64],"max_memory":2048}
-{"name":"Microsoft Windows 8.1 (32/64-bit)","price":null,"mode":[32,64],"max_memory":128}
-{"name":"Microsoft Windows 10 Home (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 7 Home Premium (32/64-bit)","price":253.15,"mode":[32,64],"max_memory":16}
-{"name":"Microsoft Windows 10 Pro (32/64-bit)","price":null,"mode":[32,64],"max_memory":2048}
-{"name":"Microsoft Windows 10 Home (32/64-bit)","price":null,"mode":[32,64],"max_memory":128}
-{"name":"Microsoft Windows 7 Professional (32/64-bit)","price":254.16,"mode":[32,64],"max_memory":192}
-{"name":"Microsoft Windows 10 Pro (32/64-bit)","price":null,"mode":[32,64],"max_memory":2048}
-{"name":"Microsoft Windows 10 Home (32/64-bit)","price":null,"mode":[32,64],"max_memory":128}
-{"name":"Microsoft Windows 10 Home (32/64-bit)","price":null,"mode":[32,64],"max_memory":128}
-{"name":"Microsoft Windows 10 Home (32/64-bit)","price":null,"mode":[32,64],"max_memory":128}
-{"name":"Microsoft Windows 10 Home (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 10 Pro (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Ultimate SP1 (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Home Premium SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Ultimate (32/64-bit)","price":null,"mode":[32,64],"max_memory":192}
-{"name":"Microsoft Windows 8 Pro (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 Pro (64-bit)","price":183.01,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 7 Professional SP1 (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Home Premium SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 Pro DE (64-bit)","price":188.07,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 7 Pro SP1 DE (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Professional SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 7 Ultimate SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Ultimate SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Home Premium SP1 (64-bit)","price":null,"mode":64,"max_memory":16}
-{"name":"Microsoft Windows 7 Ultimate SP1 (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Home Premium SP1 (64-bit)","price":null,"mode":64,"max_memory":16}
-{"name":"Microsoft Windows 8 Pro (64-bit)","price":null,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 7 Ultimate (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Professional SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Professional SP1 (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 7 Home Premium SP1 (64-bit)","price":null,"mode":64,"max_memory":16}
-{"name":"Microsoft Windows 7 Professional SP1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 7 Pro SP1 DE (64-bit)","price":null,"mode":64,"max_memory":192}
-{"name":"Microsoft Windows 8 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8 (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 8.1 (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 8 (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 8.1 Pro (64-bit)","price":null,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 8 Pro (64-bit)","price":null,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 8 Pro (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 Pro (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 Pro (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8 Pro DE (64-bit)","price":null,"mode":64,"max_memory":512}
-{"name":"Microsoft Windows 8.1 (32-bit)","price":null,"mode":32,"max_memory":4}
-{"name":"Microsoft Windows 8.1 DE (64-bit)","price":null,"mode":64,"max_memory":128}
-{"name":"Microsoft Windows 8.1 Pro (32/64-bit)","price":null,"mode":[32,64],"max_memory":512}
+{"name":"Microsoft Windows 11 Home OEM - DVD 64-bit","price":109.99,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 11 Pro OEM - DVD 64-bit","price":146.18,"mode":64,"max_memory":2048}
+{"name":"Microsoft Windows 11 Home Retail - USB 64-bit","price":134.99,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 11 Pro Retail - Download 64-bit","price":189.99,"mode":64,"max_memory":2048}
+{"name":"Microsoft Windows 11 Home Retail - Download 64-bit","price":138.99,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 11 Pro Retail - USB 64-bit","price":198.99,"mode":64,"max_memory":2048}
+{"name":"Microsoft Windows 10 Home OEM - DVD 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 10 Pro Retail - USB 32/64-bit","price":null,"mode":[32,64],"max_memory":2048}
+{"name":"Microsoft Windows 10 Home Retail - USB 32/64-bit","price":229.99,"mode":[32,64],"max_memory":128}
+{"name":"Microsoft Windows 10 Pro OEM - DVD 64-bit","price":149.99,"mode":64,"max_memory":2048}
+{"name":"Microsoft Windows 10 Pro Retail - USB 32/64-bit","price":null,"mode":[32,64],"max_memory":2048}
+{"name":"Microsoft Windows 10 Home Retail - Download 32/64-bit","price":null,"mode":[32,64],"max_memory":128}
+{"name":"Microsoft Windows 10 Home Retail - USB 32/64-bit","price":229,"mode":[32,64],"max_memory":128}
+{"name":"Microsoft Windows 10 Pro Retail - Download 32/64-bit","price":null,"mode":[32,64],"max_memory":2048}
+{"name":"Microsoft Windows 10 Home OEM - DVD 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 7 Home Premium Full 32/64-bit","price":null,"mode":[32,64],"max_memory":16}
+{"name":"Microsoft Windows 10 Home OEM - DVD 32-bit","price":143.46,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 10 Pro OEM - DVD 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Professional Full 32/64-bit","price":254.16,"mode":[32,64],"max_memory":192}
+{"name":"Microsoft Windows 10 Pro Retail - USB 32/64-bit","price":null,"mode":[32,64],"max_memory":2048}
+{"name":"Microsoft Windows 10 Pro French CDN - Retail - DVD 64-bit","price":null,"mode":64,"max_memory":2048}
+{"name":"Microsoft Windows 10 Home French - USB 32/64-bit","price":null,"mode":[32,64],"max_memory":128}
+{"name":"Microsoft Windows 10 Home French OEM - DVD 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 8.1 32/64-bit","price":null,"mode":[32,64],"max_memory":128}
+{"name":"Microsoft Windows 7 Ultimate SP1 OEM 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 8.1 Pro OEM 64-bit","price":null,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 7 Home Premium SP1 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Ultimate Full 32/64-bit","price":null,"mode":[32,64],"max_memory":192}
+{"name":"Microsoft Windows 7 Professional SP1 OEM 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 8 Pro OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Home Premium SP1 64-bit","price":null,"mode":64,"max_memory":16}
+{"name":"Microsoft Windows 7 Home Premium SP1 OEM 64-bit","price":null,"mode":64,"max_memory":16}
+{"name":"Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Ultimate SP1 OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Professional SP1 OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Pro SP1 DE 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 7 Ultimate SP1 3-Pack 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8.1 OEM 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 8 OEM 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 64-bit","price":null,"mode":64,"max_memory":16}
+{"name":"Microsoft Windows 7 Professional SP1 30-Pack 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Ultimate 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 7 Ultimate SP1 OEM 3-Pack 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 7 Professional SP1 OEM 3-Pack 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 7 Pro SP1 DE OEM 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 7 Professional SP1 OEM 3-Pack 64-bit","price":null,"mode":64,"max_memory":192}
+{"name":"Microsoft Windows 8.1 OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8 Pro OEM 64-bit","price":null,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 8.1 Pro DE OEM 64-bit","price":188.07,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 8 Pro OEM 64-bit","price":null,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 8.1 Pro OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8.1 Pro OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8.1 DE OEM 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 8 OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8 OEM 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 8.1 Pro OEM 64-bit","price":null,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 8.1 OEM 64-bit","price":null,"mode":64,"max_memory":128}
+{"name":"Microsoft Windows 8 Pro DE OEM 64-bit","price":null,"mode":64,"max_memory":512}
+{"name":"Microsoft Windows 8 OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8 Pro OEM 32-bit","price":null,"mode":32,"max_memory":4}
+{"name":"Microsoft Windows 8.1 Pro 32/64-bit","price":null,"mode":[32,64],"max_memory":512}
+{"name":"Microsoft Windows 8.1 OEM 32-bit","price":null,"mode":32,"max_memory":4}

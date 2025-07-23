@@ -31,14 +31,15 @@
 
 ## `cpu`
 
-| Property      | Description                 | Unit (if applicable) |
-| ------------- | --------------------------- | -------------------- |
-| `core_count`  | Number of cores             |                      |
-| `core_clock`  | Core clock                  | GHz                  |
-| `boost_clock` | Boost clock                 | GHz                  |
-| `tdp`         | TDP                         | W                    |
-| `graphics`    | Integrated graphics, if any |                      |
-| `smt`         | SMT support                 |                      |
+| Property            | Description                 | Unit (if applicable) |
+| ------------------- | --------------------------- | -------------------- |
+| `core_count`        | Number of cores             |                      |
+| `core_clock`        | Core clock                  | GHz                  |
+| `boost_clock`       | Boost clock                 | GHz                  |
+| `microarchitecture` | Microarchitecture           |
+| `tdp`               | TDP                         | W                    |
+| `graphics`          | Integrated graphics, if any |                      |
+| `smt`               | SMT support                 |                      |
 
 ## `cpu-cooler`
 

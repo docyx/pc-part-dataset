@@ -5,7 +5,8 @@
 		"Performance Core Boost Clock": ["boost_clock", true],
 		"TDP": ["tdp", true],
 		"Integrated Graphics": ["graphics", false],
-		"SMT": ["smt", false]
+		"SMT": ["smt", false],
+		"Microarchitecture": ["microarchitecture", false]
 	},
 	"cpu-cooler": {
 		"Fan RPM": ["rpm", true],
